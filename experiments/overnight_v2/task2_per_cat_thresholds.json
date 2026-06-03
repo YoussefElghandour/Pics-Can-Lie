@@ -1,0 +1,43 @@
+{
+  "global_best_thr": 0.6,
+  "global_best_acc": 0.722,
+  "independent_cat_thrs": {
+    "original": {
+      "threshold": 0.95,
+      "accuracy": 1.0
+    },
+    "mismatch": {
+      "threshold": 0.05,
+      "accuracy": 1.0
+    },
+    "textual_veracity_distortion": {
+      "threshold": 0.05,
+      "accuracy": 1.0
+    },
+    "visual_veracity_distortion": {
+      "threshold": 0.05,
+      "accuracy": 1.0
+    }
+  },
+  "independent_cat_overall": 1.0,
+  "independent_cat_per_cat": {
+    "original": 1.0,
+    "mismatch": 1.0,
+    "textual_veracity_distortion": 1.0,
+    "visual_veracity_distortion": 1.0
+  },
+  "joint_best_thrs": {
+    "original": 0.8,
+    "mismatch": 0.05,
+    "textual_veracity_distortion": 0.05,
+    "visual_veracity_distortion": 0.05
+  },
+  "joint_best_overall": 0.953,
+  "joint_best_per_cat": {
+    "original": 0.8433,
+    "mismatch": 1.0,
+    "textual_veracity_distortion": 1.0,
+    "visual_veracity_distortion": 1.0
+  },
+  "delta_vs_global": 0.231
+}

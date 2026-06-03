@@ -1,0 +1,83 @@
+{
+  "total_errors": 642,
+  "false_positives": 0,
+  "false_negatives": 642,
+  "fn_by_category": {
+    "miscaptioned": 337,
+    "out-of-context": 305
+  },
+  "top10_wrong": [
+    {
+      "sample_idx": 73,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0355,
+      "caption_preview": "Photograph of U.S. Senator Lindsey Graham with far-right politician Geert Wilders in March 2021."
+    },
+    {
+      "sample_idx": 451,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0359,
+      "caption_preview": "Photograph of a woman buried in the ground up to her neck, being fed water from a spoon just before being stoned to death in Iran."
+    },
+    {
+      "sample_idx": 82,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0365,
+      "caption_preview": "Image shows former U.S. President Donald Trump participating in a video conference with the American military to plan a coup so he could retake the Wh"
+    },
+    {
+      "sample_idx": 322,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0367,
+      "caption_preview": "A photograph shows piles of money thrown in a gutter in Venezuela, money made worthless due to socialism."
+    },
+    {
+      "sample_idx": 283,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0368,
+      "caption_preview": "'Keep NYC Trash free' posters by NYC's sanitation department depicting people wearing 'Make America Great Again' hats and carrying Bibles."
+    },
+    {
+      "sample_idx": 628,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0368,
+      "caption_preview": "Photographs show actor Tom Hanks posing with a drunk, passed-out customer in a diner."
+    },
+    {
+      "sample_idx": 100,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.037,
+      "caption_preview": "Photograph of a living triceratops being unloaded from a truck in Indonesia in December 2020."
+    },
+    {
+      "sample_idx": 528,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0371,
+      "caption_preview": "Photograph depicts a sign at Target informing customers purchasing pork or alcohol to choose another lane to accommodate Muslim employees."
+    },
+    {
+      "sample_idx": 625,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0372,
+      "caption_preview": "A photograph shows the chief of Brazil's Kayap\u00f3 tribe weeping over the approval of a hydroelectric dam project that would destroy tribal forest areas."
+    },
+    {
+      "sample_idx": 859,
+      "true_label": "miscaptioned",
+      "predicted": "REAL",
+      "aitr_prob": 0.0372,
+      "caption_preview": "Photograph shows Haitian migrants at the U.S.-Mexico border wearing t-shirts that read 'Biden, please let us in' in September 2021."
+    }
+  ],
+  "clip_sim_correct_mean": 0.2948,
+  "clip_sim_incorrect_mean": 0.2707
+}

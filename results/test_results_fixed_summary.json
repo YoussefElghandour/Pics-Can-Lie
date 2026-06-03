@@ -1,0 +1,43 @@
+{
+  "n": 7264,
+  "frozen_threshold": 0.5522896647453308,
+  "AUC": 0.9316666646451512,
+  "AUC_95ci": [
+    0.9258,
+    0.9371
+  ],
+  "accuracy": 0.8308094713656388,
+  "accuracy_95ci": [
+    0.8221,
+    0.8392
+  ],
+  "fused_prob_stats": {
+    "min": 0.003548350650817156,
+    "max": 0.9991410970687866,
+    "mean": 0.3863724129468919,
+    "std": 0.45900649457424103
+  },
+  "per_source": {
+    "guardian": {
+      "total": 3366,
+      "correct": 2799,
+      "accuracy": 0.8315508021390374
+    },
+    "bbc": {
+      "total": 1020,
+      "correct": 812,
+      "accuracy": 0.796078431372549
+    },
+    "washington_post": {
+      "total": 1244,
+      "correct": 1049,
+      "accuracy": 0.8432475884244373
+    },
+    "usa_today": {
+      "total": 1634,
+      "correct": 1375,
+      "accuracy": 0.8414932680538556
+    }
+  },
+  "protocol": "threshold frozen on TRAIN; no test sweep"
+}

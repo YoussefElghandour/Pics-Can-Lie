@@ -1,0 +1,38 @@
+{
+  "literature": [
+    {
+      "system": "CLIP ViT-L/14 zero-shot (VERITE paper baseline)",
+      "accuracy": 0.744,
+      "notes": "No training"
+    },
+    {
+      "system": "VERITE paper best (trained on VERITE)",
+      "accuracy": 0.81,
+      "notes": "In-domain"
+    },
+    {
+      "system": "LAMAR (new SOTA Apr 2025)",
+      "accuracy": null,
+      "notes": "Check paper"
+    },
+    {
+      "system": "MAD-Sherlock (ICML 2025)",
+      "accuracy": null,
+      "notes": "Check paper"
+    }
+  ],
+  "your_results": [
+    {
+      "system": "Your CLIP-only zero-shot",
+      "accuracy": 0.6683,
+      "auc": 0.7093,
+      "notes": "Zero-shot"
+    },
+    {
+      "system": "Your AITR fusion zero-shot",
+      "accuracy": 0.3586,
+      "auc": 0.7053,
+      "notes": "Trained on NewsCLIPpings only"
+    }
+  ]
+}

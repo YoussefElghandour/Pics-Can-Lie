@@ -1,0 +1,34 @@
+{
+  "n": 1000,
+  "rule": "FAKE if (ateeq_score_ft > 0.5) OR (aitr_prob > best_threshold)",
+  "best_threshold_aitr": 0.3,
+  "overall_acc": 0.714,
+  "confusion_matrix": [
+    [
+      163,
+      137
+    ],
+    [
+      149,
+      551
+    ]
+  ],
+  "per_category": {
+    "original": {
+      "n": 300,
+      "acc": 0.5433333333333333
+    },
+    "mismatch": {
+      "n": 300,
+      "acc": 0.72
+    },
+    "textual_veracity_distortion": {
+      "n": 300,
+      "acc": 0.8033333333333333
+    },
+    "visual_veracity_distortion": {
+      "n": 100,
+      "acc": 0.94
+    }
+  }
+}

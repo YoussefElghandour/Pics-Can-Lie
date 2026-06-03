@@ -1,0 +1,17 @@
+{
+  "baseline_overall_acc": 0.722,
+  "ORACLE_UPPER_BOUND": {
+    "overall_acc": 0.798,
+    "rule": "veto if fake_cls=='original' AND deberta>=0.05",
+    "WARNING": "uses ground-truth MMFakeBench category (fake_cls) \u2014 NOT available at inference, NOT deployable. Reports the ceiling only."
+  },
+  "DEPLOYABLE_category_agnostic": {
+    "overall_acc": 0.537,
+    "veto_precision": 0.2255,
+    "fires": 337,
+    "correct_real": 76,
+    "wrong_fake": 261,
+    "rule": "veto if deberta>=0.05 for any predicted-FAKE (no category gate)"
+  },
+  "note": "The veto reads deberta_score (article-NLI), not wiki_score, despite its name. Retained for the negative-finding discussion; never report as a headline."
+}

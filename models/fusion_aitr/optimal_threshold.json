@@ -1,0 +1,7 @@
+{
+  "optimal_threshold": 0.54,
+  "accuracy_at_threshold": 0.883,
+  "f1_at_threshold": 0.8859,
+  "default_threshold_accuracy": 0.875,
+  "gain": 0.008
+}

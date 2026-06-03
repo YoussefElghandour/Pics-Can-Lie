@@ -1,0 +1,29 @@
+{
+  "overall_accuracy": 0.51,
+  "overall_f1": 0.5148514851485149,
+  "overall_auc": 0.6478238095238096,
+  "threshold": 0.3,
+  "clip_only_acc": 0.673,
+  "per_category": {
+    "original": {
+      "n": 300,
+      "accuracy": 0.8333333333333334,
+      "f1": 0.0
+    },
+    "mismatch": {
+      "n": 300,
+      "accuracy": 0.4633333333333333,
+      "f1": 0.6332574031890661
+    },
+    "textual_veracity_distortion": {
+      "n": 300,
+      "accuracy": 0.26,
+      "f1": 0.4126984126984127
+    },
+    "visual_veracity_distortion": {
+      "n": 100,
+      "accuracy": 0.43,
+      "f1": 0.6013986013986014
+    }
+  }
+}

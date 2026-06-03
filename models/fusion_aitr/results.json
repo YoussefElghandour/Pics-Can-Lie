@@ -1,0 +1,16 @@
+{
+  "final_acc": 0.875,
+  "final_f1": 0.8799231508165226,
+  "final_auc": 0.9479599999999999,
+  "best_epoch": 7,
+  "architecture": "AITR transformer",
+  "embed_dim": 768,
+  "scalar_dim": 9,
+  "tokens": [
+    "img",
+    "txt",
+    "img*txt",
+    "img-txt",
+    "scalar"
+  ]
+}

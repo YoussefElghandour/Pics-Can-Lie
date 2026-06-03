@@ -1,0 +1,487 @@
+{
+  "n_val": 1000,
+  "baselines": {
+    "always_predict_fake_acc": 0.7,
+    "always_predict_real_acc": 0.3
+  },
+  "variants": {
+    "A": {
+      "scalar_keys": [
+        "clip_prob",
+        "clip_sim"
+      ],
+      "scalar_dim": 2,
+      "best_epoch": 2,
+      "pos_weight": 0.42857142857142855,
+      "best_threshold": 0.1,
+      "overall_acc": 0.7,
+      "acc_at_0.5": 0.593,
+      "auc_roc": 0.6945714285714285,
+      "confusion_matrix_overall": [
+        [
+          0,
+          300
+        ],
+        [
+          0,
+          700
+        ]
+      ],
+      "confusion_matrix_textual_vd": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          300
+        ]
+      ],
+      "confusion_matrix_original": [
+        [
+          0,
+          300
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "per_category": {
+        "original": {
+          "n": 300,
+          "acc": 0.0
+        },
+        "mismatch": {
+          "n": 300,
+          "acc": 1.0
+        },
+        "textual_veracity_distortion": {
+          "n": 300,
+          "acc": 1.0
+        },
+        "visual_veracity_distortion": {
+          "n": 100,
+          "acc": 1.0
+        }
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.1,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.15,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.2,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.25,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.3,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.35,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.4,
+          "acc": 0.695
+        },
+        {
+          "threshold": 0.45,
+          "acc": 0.648
+        },
+        {
+          "threshold": 0.5,
+          "acc": 0.593
+        },
+        {
+          "threshold": 0.55,
+          "acc": 0.579
+        },
+        {
+          "threshold": 0.6,
+          "acc": 0.567
+        },
+        {
+          "threshold": 0.65,
+          "acc": 0.554
+        },
+        {
+          "threshold": 0.7,
+          "acc": 0.545
+        }
+      ]
+    },
+    "B": {
+      "scalar_keys": [
+        "clip_prob",
+        "clip_sim",
+        "ateeq_score"
+      ],
+      "scalar_dim": 3,
+      "best_epoch": 1,
+      "pos_weight": 0.42857142857142855,
+      "best_threshold": 0.3,
+      "overall_acc": 0.726,
+      "acc_at_0.5": 0.695,
+      "auc_roc": 0.7367428571428571,
+      "confusion_matrix_overall": [
+        [
+          177,
+          123
+        ],
+        [
+          151,
+          549
+        ]
+      ],
+      "confusion_matrix_textual_vd": [
+        [
+          0,
+          0
+        ],
+        [
+          61,
+          239
+        ]
+      ],
+      "confusion_matrix_original": [
+        [
+          177,
+          123
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "per_category": {
+        "original": {
+          "n": 300,
+          "acc": 0.59
+        },
+        "mismatch": {
+          "n": 300,
+          "acc": 0.72
+        },
+        "textual_veracity_distortion": {
+          "n": 300,
+          "acc": 0.7966666666666666
+        },
+        "visual_veracity_distortion": {
+          "n": 100,
+          "acc": 0.94
+        }
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.1,
+          "acc": 0.714
+        },
+        {
+          "threshold": 0.15,
+          "acc": 0.723
+        },
+        {
+          "threshold": 0.2,
+          "acc": 0.712
+        },
+        {
+          "threshold": 0.25,
+          "acc": 0.717
+        },
+        {
+          "threshold": 0.3,
+          "acc": 0.726
+        },
+        {
+          "threshold": 0.35,
+          "acc": 0.72
+        },
+        {
+          "threshold": 0.4,
+          "acc": 0.714
+        },
+        {
+          "threshold": 0.45,
+          "acc": 0.715
+        },
+        {
+          "threshold": 0.5,
+          "acc": 0.695
+        },
+        {
+          "threshold": 0.55,
+          "acc": 0.682
+        },
+        {
+          "threshold": 0.6,
+          "acc": 0.662
+        },
+        {
+          "threshold": 0.65,
+          "acc": 0.625
+        },
+        {
+          "threshold": 0.7,
+          "acc": 0.58
+        }
+      ]
+    },
+    "C": {
+      "scalar_keys": [
+        "clip_prob",
+        "clip_sim",
+        "deberta_score"
+      ],
+      "scalar_dim": 3,
+      "best_epoch": 6,
+      "pos_weight": 0.42857142857142855,
+      "best_threshold": 0.3,
+      "overall_acc": 0.717,
+      "acc_at_0.5": 0.614,
+      "auc_roc": 0.6941285714285714,
+      "confusion_matrix_overall": [
+        [
+          47,
+          253
+        ],
+        [
+          30,
+          670
+        ]
+      ],
+      "confusion_matrix_textual_vd": [
+        [
+          0,
+          0
+        ],
+        [
+          16,
+          284
+        ]
+      ],
+      "confusion_matrix_original": [
+        [
+          47,
+          253
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "per_category": {
+        "original": {
+          "n": 300,
+          "acc": 0.15666666666666668
+        },
+        "mismatch": {
+          "n": 300,
+          "acc": 0.9566666666666667
+        },
+        "textual_veracity_distortion": {
+          "n": 300,
+          "acc": 0.9466666666666667
+        },
+        "visual_veracity_distortion": {
+          "n": 100,
+          "acc": 0.99
+        }
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.1,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.15,
+          "acc": 0.7
+        },
+        {
+          "threshold": 0.2,
+          "acc": 0.703
+        },
+        {
+          "threshold": 0.25,
+          "acc": 0.699
+        },
+        {
+          "threshold": 0.3,
+          "acc": 0.717
+        },
+        {
+          "threshold": 0.35,
+          "acc": 0.707
+        },
+        {
+          "threshold": 0.4,
+          "acc": 0.679
+        },
+        {
+          "threshold": 0.45,
+          "acc": 0.663
+        },
+        {
+          "threshold": 0.5,
+          "acc": 0.614
+        },
+        {
+          "threshold": 0.55,
+          "acc": 0.59
+        },
+        {
+          "threshold": 0.6,
+          "acc": 0.573
+        },
+        {
+          "threshold": 0.65,
+          "acc": 0.552
+        },
+        {
+          "threshold": 0.7,
+          "acc": 0.546
+        }
+      ]
+    },
+    "D": {
+      "scalar_keys": [
+        "clip_prob",
+        "clip_sim",
+        "ateeq_score",
+        "deberta_score"
+      ],
+      "scalar_dim": 4,
+      "best_epoch": 2,
+      "pos_weight": 0.42857142857142855,
+      "best_threshold": 0.35,
+      "overall_acc": 0.724,
+      "acc_at_0.5": 0.712,
+      "auc_roc": 0.7417142857142858,
+      "confusion_matrix_overall": [
+        [
+          178,
+          122
+        ],
+        [
+          154,
+          546
+        ]
+      ],
+      "confusion_matrix_textual_vd": [
+        [
+          0,
+          0
+        ],
+        [
+          62,
+          238
+        ]
+      ],
+      "confusion_matrix_original": [
+        [
+          178,
+          122
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "per_category": {
+        "original": {
+          "n": 300,
+          "acc": 0.5933333333333334
+        },
+        "mismatch": {
+          "n": 300,
+          "acc": 0.7166666666666667
+        },
+        "textual_veracity_distortion": {
+          "n": 300,
+          "acc": 0.7933333333333333
+        },
+        "visual_veracity_distortion": {
+          "n": 100,
+          "acc": 0.93
+        }
+      },
+      "threshold_sweep": [
+        {
+          "threshold": 0.1,
+          "acc": 0.708
+        },
+        {
+          "threshold": 0.15,
+          "acc": 0.722
+        },
+        {
+          "threshold": 0.2,
+          "acc": 0.713
+        },
+        {
+          "threshold": 0.25,
+          "acc": 0.716
+        },
+        {
+          "threshold": 0.3,
+          "acc": 0.723
+        },
+        {
+          "threshold": 0.35,
+          "acc": 0.724
+        },
+        {
+          "threshold": 0.4,
+          "acc": 0.723
+        },
+        {
+          "threshold": 0.45,
+          "acc": 0.719
+        },
+        {
+          "threshold": 0.5,
+          "acc": 0.712
+        },
+        {
+          "threshold": 0.55,
+          "acc": 0.697
+        },
+        {
+          "threshold": 0.6,
+          "acc": 0.685
+        },
+        {
+          "threshold": 0.65,
+          "acc": 0.668
+        },
+        {
+          "threshold": 0.7,
+          "acc": 0.632
+        }
+      ]
+    }
+  },
+  "analysis": {
+    "ateeq_shortcut_pp_tvd_BminusA": -20.333333333333336,
+    "nli_contribution_pp_tvd_CminusA": -5.333333333333334,
+    "additivity_pp_D_minus_maxBC": -0.20000000000000018,
+    "D_minus_B_overall_pp": -0.20000000000000018,
+    "verdict": "BOUNDED POSITIVE  (-1 pp <= D - B < 2 pp)",
+    "nli_original_delta_pp_CminusA": 15.666666666666668,
+    "nli_original_delta_pp_DminusB": 0.33333333333334103,
+    "best_overall": "B",
+    "B_regression_target": 0.726,
+    "B_overall": 0.726,
+    "B_regression_drift_pp": 0.0,
+    "B_regression_ok": true
+  }
+}

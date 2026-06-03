@@ -1,0 +1,82 @@
+{
+  "n_val": 1000,
+  "split": "80/20 stratified seed 42 (same as AITR)",
+  "primary_metric": "AUC",
+  "aitr_val_auc": 0.9477,
+  "models": [
+    {
+      "features": "A_clip_only",
+      "model": "LogisticRegression",
+      "AUC": 0.9273,
+      "AUC_95ci": [
+        0.9118,
+        0.9431
+      ],
+      "accuracy": 0.858,
+      "accuracy_95ci": [
+        0.837,
+        0.881
+      ],
+      "threshold": 0.5241
+    },
+    {
+      "features": "A_clip_only",
+      "model": "GradientBoosting",
+      "AUC": 0.9295,
+      "AUC_95ci": [
+        0.9137,
+        0.9455
+      ],
+      "accuracy": 0.847,
+      "accuracy_95ci": [
+        0.827,
+        0.869
+      ],
+      "threshold": 0.4825
+    },
+    {
+      "features": "B_clip_plus_v3nli",
+      "model": "LogisticRegression",
+      "AUC": 0.9288,
+      "AUC_95ci": [
+        0.9135,
+        0.9445
+      ],
+      "accuracy": 0.86,
+      "accuracy_95ci": [
+        0.84,
+        0.881
+      ],
+      "threshold": 0.5577
+    },
+    {
+      "features": "B_clip_plus_v3nli",
+      "model": "GradientBoosting",
+      "AUC": 0.9302,
+      "AUC_95ci": [
+        0.9158,
+        0.9457
+      ],
+      "accuracy": 0.854,
+      "accuracy_95ci": [
+        0.834,
+        0.876
+      ],
+      "threshold": 0.5091
+    }
+  ],
+  "A_vs_B": {
+    "LogisticRegression": {
+      "delta_AUC": 0.0015,
+      "delta_acc": 0.002,
+      "AUC_CIs_overlap": true
+    },
+    "GradientBoosting": {
+      "delta_AUC": 0.0007,
+      "delta_acc": 0.007,
+      "AUC_CIs_overlap": true
+    }
+  },
+  "best_simple_fusion_AUC": 0.9302,
+  "simple_vs_aitr": -0.0175
+}

@@ -1,0 +1,11 @@
+idx,caption,label,entities,factcheck_score,entailment_score,contradiction_score,neutral_score,wiki_context_length,status,n_chunks,top_chunks_used
+0,Jake Davis who has been released from a young offender institution first appeared in court in 2011,True,Jake Davis,0.031247,0.11602,0.084773,0.799207,260,ok,1,1
+1,The ring was found by Philip Cooper while using his metal detector in Cwm Cadnat,True,Philip Cooper|Cwm Cadnat,-0.005568,0.008223,0.013791,0.977986,929,ok,1,1
+2,Banned food items at Hall Road Academy include crisps chocolate sweets and fizzy drinks,True,Hall Road Academy,0.0,0.5,0.5,0.0,0,no_wiki_result,0,0
+3,Skier Sean Rose in action at the 2006 Winter Paralympic Games in Turin,True,Skier Sean Rose|Winter Paralympic Games|Turin,0.00255,0.002986,0.000436,0.996578,1500,ok,13,2
+4,Officials said dozens of villages had been severely damaged by the quake,True,Officials|dozens|villages|the quake,0.00543,0.006737,0.001306,0.991957,1500,ok,23,3
+5,Alex Salmond was elected to the House of Commons in last week s general election,True,Alex Salmond|the House of Commons,0.002634,0.005523,0.002888,0.991589,1500,ok,11,2
+6,The Masjid Darussalam in San Francisco was built in a former Victorianstyle department store and eschews sex segregated worship,True,The Masjid Darussalam|San Francisco|Victorianstyle,0.006498,0.010768,0.00427,0.984961,1500,ok,5,1
+7,The airport was bought by the Welsh government for 52m in 2013,True,Welsh,0.032891,0.036075,0.003184,0.960742,374,ok,4,1
+8,Anyone found killing a swan can faces a maximum 5000 fine or imprisonment,True,Anyone|a swan|a maximum 5000 fine|imprisonment,-0.00076,0.000996,0.001756,0.997249,1500,ok,8,2
+9,The idea of adaptive optics has been embraced by a range of scientific applications not just astronomy,True,The idea|adaptive optics|a range|scientific applications,-0.01158,0.007772,0.019351,0.972877,1500,ok,9,2

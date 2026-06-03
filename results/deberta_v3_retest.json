@@ -1,0 +1,37 @@
+{
+  "deberta_v3_alone": {
+    "real_mean": 0.22226352989673615,
+    "fake_mean": 0.1504882127046585,
+    "auc_as_fake_detector": 0.5496,
+    "auc_scored_only": 0.6885
+  },
+  "fusion_val_v2": {
+    "AUC": 0.9477,
+    "AUC_95ci": [
+      0.9351,
+      0.9605
+    ],
+    "accuracy": 0.88,
+    "accuracy_95ci": [
+      0.861,
+      0.9
+    ],
+    "threshold": 0.5523
+  },
+  "fusion_val_v3": {
+    "AUC": 0.9474,
+    "AUC_95ci": [
+      0.9352,
+      0.9598
+    ],
+    "accuracy": 0.87,
+    "accuracy_95ci": [
+      0.85,
+      0.891
+    ],
+    "threshold": 0.4465
+  },
+  "delta_AUC": -0.0003,
+  "delta_acc": -0.01,
+  "deberta_v2_alone_auc": 0.4943
+}

@@ -1,0 +1,79 @@
+{
+  "protocol": "AUC primary; accuracy at threshold FROZEN on train (0.5523); no test-set tuning; train-only scaler",
+  "parity_fresh_vs_precomputed": {
+    "pearson_r": 0.999994620513011,
+    "mean_abs_diff": 0.0003452527162153274,
+    "verdict": "PASS"
+  },
+  "newsclippings": {
+    "VAL_honest": {
+      "AUC": 0.9477,
+      "AUC_95ci": [
+        0.9351,
+        0.9605
+      ],
+      "accuracy": 0.88,
+      "accuracy_95ci": [
+        0.861,
+        0.9
+      ],
+      "threshold": 0.5523
+    },
+    "TEST_honest": {
+      "AUC": 0.9316666646451512,
+      "AUC_95ci": [
+        0.9258,
+        0.9371
+      ],
+      "accuracy": 0.8308094713656388,
+      "accuracy_95ci": [
+        0.8221,
+        0.8392
+      ],
+      "threshold": 0.5522896647453308,
+      "per_source": {
+        "guardian": 0.8316,
+        "bbc": 0.7961,
+        "washington_post": 0.8432,
+        "usa_today": 0.8415
+      }
+    },
+    "TEST_old_invalid": {
+      "accuracy": 0.8648,
+      "note": "threshold swept on TEST labels @0.010 \u2014 data snooping, NOT valid"
+    },
+    "fused_prob_overlap": {
+      "val_mean": 0.514,
+      "test_mean": 0.3864,
+      "test_min": 0.0035,
+      "test_max": 0.9991
+    }
+  },
+  "deberta_nli": {
+    "v2_alone_AUC": 0.4943,
+    "v2_means_REAL_FAKE": [
+      0.415,
+      0.4216
+    ],
+    "v3_alone_AUC": 0.6885,
+    "v3_means_REAL_FAKE": [
+      0.3181,
+      0.0545
+    ],
+    "v3_gap": 0.2636,
+    "verdict": "v2 non-discrimination was a SCORING BUG (wrong premise); v3 separates (AUC 0.69).",
+    "fusion_val_v2": {
+      "AUC": 0.9477,
+      "accuracy": 0.88
+    },
+    "fusion_val_v3": {
+      "AUC": 0.9474,
+      "accuracy": 0.87
+    },
+    "fusion_delta": {
+      "AUC": -0.0003,
+      "accuracy": -0.01,
+      "note": "v3 swap does NOT change CLIP-dominated fusion (within noise)."
+    }
+  }
+}

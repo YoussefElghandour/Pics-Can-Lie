@@ -1,0 +1,1001 @@
+idx,caption,label,entities,factcheck_score,entailment_score,contradiction_score,neutral_score,wiki_context_length,status
+0,Jake Davis who has been released from a young offender institution first appeared in court in 2011,True,Jake Davis,0.044268,0.121324,0.077055,0.801621,286,ok
+1,The ring was found by Philip Cooper while using his metal detector in Cwm Cadnat,True,Philip Cooper|Cwm Cadnat,-0.005568,0.008223,0.013791,0.977986,929,ok
+2,Banned food items at Hall Road Academy include crisps chocolate sweets and fizzy drinks,True,Hall Road Academy,0.0,0.5,0.5,0.0,0,no_wiki_result
+3,Skier Sean Rose in action at the 2006 Winter Paralympic Games in Turin,True,Skier Sean Rose|Winter Paralympic Games|Turin,-0.202796,0.282804,0.4856,0.231596,3035,ok
+4,Officials said dozens of villages had been severely damaged by the quake,True,Officials|dozens|villages|the quake,0.001117,0.002538,0.001421,0.996041,4053,ok
+5,Alex Salmond was elected to the House of Commons in last week s general election,True,Alex Salmond|the House of Commons,0.000194,0.000752,0.000558,0.99869,1977,ok
+6,The Masjid Darussalam in San Francisco was built in a former Victorianstyle department store and eschews sex segregated worship,True,The Masjid Darussalam|San Francisco|Victorianstyle,0.007008,0.011821,0.004813,0.983365,1516,ok
+7,The airport was bought by the Welsh government for 52m in 2013,True,Welsh,0.010809,0.011054,0.000245,0.988701,27,ok
+8,Anyone found killing a swan can faces a maximum 5000 fine or imprisonment,True,Anyone|a swan|a maximum 5000 fine|imprisonment,0.000548,0.000961,0.000413,0.998626,1721,ok
+9,The idea of adaptive optics has been embraced by a range of scientific applications not just astronomy,True,The idea|adaptive optics|a range|scientific applications,0.000769,0.007089,0.00632,0.986592,1267,ok
+10,Kurdish fighters have clashed with alNusra militiamen near the Turkish border,True,Kurdish|Turkish,0.877931,0.886571,0.008641,0.104788,923,ok
+11,The attack took place at Dixons Kings Academy in Bradford on 11 June,True,Dixons Kings Academy|Bradford,-0.001472,0.000573,0.002045,0.997382,2153,ok
+12,This Lego dragon was found on a beach in Brighton by artist Ella Robinson,True,Lego|Brighton|Ella Robinson,-0.001212,0.000801,0.002013,0.997186,2970,ok
+13,This piece of plastic appears to be part of a Lego crate which may have contained some of the lost toys,True,Lego,0.000375,0.00069,0.000316,0.998994,1458,ok
+14,Battir in the Bethlehem governorate has been proposed as a UNESCO world heritage site,True,Battir|Bethlehem|UNESCO,-0.04669,0.016884,0.063573,0.919543,4339,ok
+15,River Markland age four found this octopus at Castle Beach in Falmouth,True,Castle Beach|Falmouth,0.007515,0.007697,0.000182,0.992121,33,ok
+16,Patricia Denis found a Lego flipper similar to those from the Tokio Express in Melbourne Australia,True,Patricia Denis|Lego|the Tokio Express|Melbourne,-0.001075,0.00171,0.002785,0.995505,2971,ok
+17,The Livingstones with three of their children in 1850 Lake Ngami,True,Livingstones|Lake Ngami,8e-05,9.9e-05,1.9e-05,0.999881,445,ok
+18,These pieces were found by Ally Atkinson in the Lizard Gunwalloe and Poldhu in southern Cornwall,True,Ally Atkinson|the Lizard Gunwalloe|Poldhu|Cornwall,-0.030707,0.021682,0.05239,0.925928,2974,ok
+19,The report recommends better working between NHS 24 and the Scottish Ambulance Service,True,NHS|the Scottish Ambulance Service,0.000201,0.000472,0.000271,0.999256,1506,ok
+20,Enid Blyton pictured with daughters Gillian and Imogen was a prolific writer,True,Enid Blyton|Gillian|Imogen,-5.4e-05,0.000434,0.000488,0.999078,1587,ok
+21,Scotgold hope to extract gold and silver from the mine which is based at Cononish,True,Cononish,0.08489,0.273985,0.189095,0.536921,233,ok
+22,Plymouth University chairman of governors William Taylor faces allegations of sexual harassment,True,Plymouth University|William Taylor,0.000192,0.000272,8e-05,0.999649,413,ok
+23,Laura Ferris 11 found these assorted Lego items at Penhale near Perranporth Cornwall,True,Laura Ferris 11|Lego|Penhale|Cornwall,0.000246,0.001505,0.001259,0.997237,3759,ok
+24,Police want to speak to the woman dressed as the Incredible Hulk character,True,Police|the woman|the Incredible Hulk character,0.00632,0.006671,0.000351,0.992978,1509,ok
+25,These items were caught in a fisherman s net 25 miles out to sea off the Cornish coast,True,Cornish,0.002429,0.002796,0.000367,0.996837,393,ok
+26,The university has appointed a barrister to support their investigation into allegations against Mr Taylor,True,Taylor,0.182541,0.189526,0.006985,0.803489,50,ok
+27,Members of the Pickard family hold some of the dragons found by their relative Margaret when in her 80s,True,Pickard|Margaret,0.027289,0.031118,0.003829,0.965053,2269,ok
+28,According to the Solar Trade Association over 34000 are employed in the industry,True,the Solar Trade Association,0.0,0.5,0.5,0.0,0,no_wiki_result
+29,The recall affects millions of cables sold with Surface Pro tablets,True,Surface Pro,0.001736,0.001805,6.9e-05,0.998126,132,ok
+30,The woman dressed as the Incredible Hulk had green body paint and dyed red hair,True,the Incredible Hulk,0.048705,0.052102,0.003397,0.944501,1522,ok
+31,Deployment of rooftop solar installations in the UK has increased significantly in recent years,True,UK,-0.39117,0.022795,0.413964,0.563241,1505,ok
+32,The whale has tipped onto its side and is floating near Joppa beach,True,Joppa,-0.000248,0.000122,0.00037,0.999508,158,ok
+33,Stelfox s also starred in Common As Muck and Making Out,True,Stelfox|Muck,0.005821,0.007101,0.00128,0.99162,463,ok
+34,The two crashes caused hours of delays on the motorway and surrounding roads,True,The two crashes|hours|delays|the motorway,0.000811,0.008127,0.007317,0.984556,1618,ok
+35,BBC Newsnight s Paul Mason spoke to migrants who claimed that they were pushed back from Spanish waters,True,BBC|Paul Mason|Spanish,0.000814,0.001152,0.000339,0.998509,2772,ok
+36,The city council is responsible for removing the sperm whale s carcass,True,The city council|the sperm whale|carcass,0.617461,0.761147,0.143686,0.095167,381,ok
+37,Stelfox was in the first series of Keeping Up Appearances with Judy Cornwell,True,Judy Cornwell,-0.00016,0.000359,0.000518,0.999123,385,ok
+38,Conservative chairman Grant Shapps said Britain had negotiated lots of impossible things from the EU,True,Grant Shapps|Britain|EU,-5e-06,0.003585,0.003589,0.992826,3477,ok
+39,Horsing around Mr Trippe helped save this horse two weeks ago,True,Trippe,0.006924,0.007121,0.000198,0.992681,29,ok
+40,The ship listed and sank on 16 April 2014 capsizing over a threehour period,True,The ship|16 April|a threehour period,-0.172147,0.021149,0.193295,0.785556,141,ok
+41,I asked my mate to take a couple of photos he was nt too keen but he took them Mr Trippe told the BBC,True,Trippe|BBC,0.000559,0.000709,0.00015,0.999141,1536,ok
+42,Qantas was one of the airlines that rolled the fuel charge into its basic fare last year,True,Qantas,0.000183,0.000282,9.9e-05,0.999619,1509,ok
+43,The government wants to get net migration below 100000 a year,True,The government|net migration,0.008837,0.013993,0.005156,0.980852,2092,ok
+44,BA is one of the airlines charging a carrier imposed surcharge,True,BA,0.000729,0.003388,0.00266,0.993952,71,ok
+45,The Bunker Diary is one of ten Young Adult novels from author Kevin Brooks,True,Young Adult|Kevin Brooks,0.000163,0.000884,0.000721,0.998395,1935,ok
+46,The Sewol ferry disaster left 304 people mostly teenage students dead or missing,True,Sewol,0.000457,0.000474,1.6e-05,0.99951,268,ok
+47,Damien Hirst s The Physical Impossibility of Death in the Mind of Someone Living was commissioned by art collector Charles Saatchi,True,Damien Hirst|Charles Saatchi,0.000104,0.00053,0.000426,0.999043,2134,ok
+48,There is evidence the children were thrown down the well after the adults,True,evidence|the children|the adults,0.1366,0.141858,0.005258,0.852883,1511,ok
+49,Los Zetas leader Omar Trevino was arrested by the Mexican authorities in March,True,Los Zetas|Omar Trevino|Mexican,-0.00023,0.000228,0.000458,0.999314,1544,ok
+50,Ryan Newman driver of the No 39 Chevrolet was born in South Bend Indiana on December 8 1977,True,Ryan Newman|Chevrolet|South Bend Indiana,-0.000224,0.00056,0.000784,0.998657,1783,ok
+51,Northwestern s Brian Arnfelt hosts the Gator Bowl trophy after the 3420 win over Mississippi State,True,Northwestern|Brian Arnfelt|the Gator Bowl|Mississippi,0.003735,0.005419,0.001683,0.992898,2159,ok
+52,Demonstrators shout insults at members of the Baltimore Police as they stand guard outside the Western District station,True,the Baltimore Police|Western District,0.002885,0.003248,0.000363,0.996389,49,ok
+53,With new seatback systems expanded video libraries and even iPads loaded with programs and games airlines are upgrading the inflight entertainment for passengers,True,iPads,5.5e-05,0.000383,0.000328,0.999289,1508,ok
+54,A US Navy boat conducts an exercise in the Arabian Sea on June 12 2012,True,US Navy|the Arabian Sea,0.000959,0.002262,0.001303,0.996435,2193,ok
+55,The outlook for US airlines is sunny according to a trade group,True,US,0.00088,0.002271,0.001391,0.996338,1505,ok
+56,The leaderboard tells the story Tiger Woods is in front leading into the final round Woods actually birdied the 18th to get to 18 under,True,Tiger Woods|Woods,0.000382,0.000748,0.000366,0.998886,1555,ok
+57,At the Ralph Lauren Fall 2009 fashion show during New York Fashion Week on February 20 2009,True,the Ralph Lauren|New York Fashion Week,0.000985,0.001129,0.000145,0.998726,1350,ok
+58,Nebraska coach Mike Riley and former Oregon State student and sexual assault victim Brenda Tracy met for the first time Wednesday in Lincoln Neb,True,Nebraska|Mike Riley|Oregon State|Brenda Tracy,-0.001612,0.001272,0.002884,0.995843,2982,ok
+59,Cast members Chris Evans left Samuel L Jackson and Tom Hiddleston were on hand to accept the movie of the year award for Marvel s The Avengers,True,Chris Evans|Samuel L Jackson|Tom Hiddleston,-0.007751,0.002461,0.010212,0.987327,3098,ok
+60,Nov 15 2014 Mavericks forward Richard Jefferson dunks against the Timberwolves,True,Mavericks|Richard Jefferson|Timberwolves,-0.003157,0.001394,0.004551,0.994055,1115,ok
+61,Florida State Seminoles running back Devonta Freeman runs the ball during the first quarter against the Duke Blue Devils at Bank of America Stadium,True,Florida|Seminoles|Devonta Freeman|Bank of America Stadium,-0.004506,0.003554,0.00806,0.988386,4847,ok
+62,Runners take off at the start of the Firecracker 5K in Port Carbon Pa,True,Port Carbon Pa,0.0,0.5,0.5,0.0,0,no_wiki_result
+63,Michael Dell at the fifth annual Dell Women s Entrepreneur Network meeting in Austin,True,Michael Dell|Dell Women s Entrepreneur Network|Austin,-0.003151,0.001114,0.004265,0.994621,866,ok
+64,Houston linebacker Emeke Egbule returns a fumble against for a touchdown against Tulsa,True,Houston|Tulsa,-0.630697,0.004976,0.635673,0.359352,3019,ok
+65,The Postal Service is hiring 30000 seasonal workers to handle the overload of mailings,True,The Postal Service,-0.710061,0.013413,0.723474,0.263113,921,ok
+66,A giant sculpture of a Giraffe wearing a swimsuit and buoy by artist Jean Francois Fourtou named GiGi is a focal point of Anthem of the Seas exterior decks,True,Giraffe|Jean Francois Fourtou|GiGi|Anthem,0.000629,0.000893,0.000264,0.998843,2130,ok
+67,Crews work to clean up Sunday morning in Rehoboth Beach following coastal flooding The storm caused severe coastal erosion and damage to the boardwalk,True,Rehoboth Beach,-0.021618,0.00033,0.021948,0.977723,1043,ok
+68,Parents and Danvers High School students hold candlelight vigil to mourn the death of Colleen Ritzer a 24yearold math teacher at Danvers High School on Wednesday Oct 23 2013,True,Danvers High School|Colleen Ritzer,0.889267,0.889415,0.000148,0.110437,171,ok
+69,Businessman and coowner of the Philadelphia Inquirer Lewis Katz walks from a courtroom in City Hall in Philadelphia on Oct 28 2013,True,the Philadelphia Inquirer Lewis Katz|City Hall|Philadelphia,0.011646,0.02024,0.008594,0.971166,3028,ok
+70,Michael Dunn is brought into the Duval County Courthouse in Jacksonville Fla for a hearing on Aug 15 2013,True,Michael Dunn|Jacksonville Fla,-0.02971,0.252955,0.282665,0.46438,1129,ok
+71,West Virginia Mountaineers head coach Dana Holgorsen speaks to the media during the Big 12 Media Day at the Omni Dallas,True,Dana Holgorsen|Omni|Dallas,0.001074,0.0019,0.000827,0.997273,1994,ok
+72,Sanders speaks about the Workplace Democracy Act on Capitol Hill on Oct 6 2015,True,Sanders|Capitol Hill,0.002417,0.002833,0.000416,0.996751,1082,ok
+73,George Clooney attends the Money Monster press conference during the 69th annual Cannes Film Festival,True,George Clooney|Money Monster|Cannes Film Festival,-8.7e-05,0.000327,0.000414,0.999258,2929,ok
+74,Navy Midshipmen march on the the field prior to the game against the Fordham Rams at Navy Marine Corps Memorial Stadium,True,Navy|the Fordham Rams|Navy Marine Corps Memorial,-0.000189,0.001867,0.002055,0.996078,1186,ok
+75,Game 1 Tigers shortstop Jhonny Peralta hits an RBI single against the Red Sox during the sixth inning at Fenway Park,True,Jhonny Peralta|RBI|the Red Sox|Fenway Park,0.000573,0.002135,0.001562,0.996303,4598,ok
+76,No 7 Los Angeles A view of downtown taken in 2012,True,Los Angeles|A view|downtown,0.003912,0.004623,0.000711,0.994667,2156,ok
+77,In this Oct 10 2015 file photo North Korean leader Kim Jong Un gestures as he watches a military parade in Pyongyang North Korea,True,North Korean|Kim Jong Un|Pyongyang|North Korea,0.001279,0.001618,0.000339,0.998042,4800,ok
+78,Two women react to the not guilty verdict outside the Seminole County Courthouse in Sanford Fla,True,Seminole County Courthouse|Sanford Fla,-0.0421,0.001012,0.043112,0.955876,187,ok
+79,Butler guard Kellen Dunham and forward Roosevelt Jones will both be back to lead the Bulldogs in 201516,True,Butler|Kellen Dunham|Roosevelt Jones|Bulldogs,0.007205,0.011471,0.004265,0.984264,4316,ok
+80,Unidentified armed men in military style uniforms patrol near an airport building in Simferopol,True,Simferopol,0.005115,0.009697,0.004582,0.985722,912,ok
+81,Leona Helmsley seen with husband Harry Helmsley was convicted in 1989 of evading 12 million in federal taxes,True,Leona Helmsley|Harry Helmsley,0.00215,0.003968,0.001817,0.994215,1418,ok
+82,Notre Dame blew a late 12point lead before sinking the goahead bucket with 16 seconds left,True,Notre Dame,0.957758,0.959954,0.002196,0.03785,312,ok
+83,May Myat Noe winner of Miss Asia Pacific World Super talent 2014 holds her crown during a press conference in Yangon on Sept 2 2014,True,May Myat Noe|Miss Asia Pacific World Super|Yangon,-0.000138,0.000415,0.000554,0.999031,1628,ok
+84,San Francisco 49ers cornerback Tramaine Brock breaks up the pass intended for Arizona Cardinals wide receiver Jaron Brown at Levi s Stadium,True,San Francisco|Tramaine|Brock|Arizona Cardinals,-0.993848,0.000445,0.994293,0.005262,3393,ok
+85,Jordan Linn Graham center leaves the federal courthouse in Missoula Mont on Oct 4,True,Jordan Linn Graham|Missoula Mont,0.0,0.5,0.5,0.0,0,no_wiki_result
+86,One of the heavy machines in Facebook s new hardware lab is a 5axis water jet that can cut sheets of any material from steel to granite,True,Facebook,1e-05,0.000128,0.000118,0.999754,1511,ok
+87,A Turkish antiriot police officer and an employee of a private security company patrols check as passengers enter the Ataturk airport international arrival terminal on June 29 2016,True,Turkish|Ataturk,0.004387,0.006449,0.002062,0.991489,2128,ok
+88,London McCabe s uncle said the happy little boy loved hats,True,London McCabe s,0.0,0.5,0.5,0.0,0,no_wiki_result
+89,Dale Earnhardt Jr saw his day end early after getting caught up in two different crashes,True,Dale Earnhardt Jr,0.000592,0.004935,0.004344,0.990721,1520,ok
+90,This screenshot from 930 am ET shows snow moving across the midAtlantic and Northeast,True,midAtlantic|Northeast,0.000454,0.002993,0.002539,0.994468,859,ok
+91,American Airlines shows off its new look unveiling this Boeing 737800 in updated livery at a ceremony near its Texas headquarters on Jan 17 2013,True,American Airlines|Boeing|Texas,-0.001884,0.001738,0.003622,0.994639,3986,ok
+92,A joint memorial service is held in Ansan South Korea to mark the one year anniversary of the Sewol ferry disaster Video provided by AFP,True,Ansan South Korea|Sewol|AFP,0.003162,0.004269,0.001107,0.994625,408,ok
+93,A ceramicandconcrete octopus rises from the playa dust at Burning Man The artist said he wanted to design something that Burners would interact with,True,A ceramicandconcrete octopus|the playa dust|Burning Man|The artist,0.017217,0.017929,0.000712,0.981359,1663,ok
+94,Fashion designer Zac Posen speaks at a Delta event unveiling the airline s new uniforms which Posen helped design,True,Zac Posen|Delta|Posen,0.764828,0.772448,0.00762,0.219932,383,ok
+95,Will and Kate look delighted as they visit the XLP mentoring project for vulnerable youths,True,Kate|XLP,0.000433,0.00281,0.002377,0.994813,49,ok
+96,George Clooney and Jennifer Lopez in a scene from the motion picture Out of Sight,True,George Clooney|Jennifer Lopez,2e-05,0.000428,0.000408,0.999164,3035,ok
+97,Yoenis Cespedes hoists the championship trophy after winning the 2014 Home Run Derby at Target Field,True,Yoenis Cespedes|Target Field,-0.001726,0.001195,0.002921,0.995884,1748,ok
+98,A pleasurable way to visit Finca El Ocaso an organic farm outside of Salento is to walk through the scenic countryside down a rapidlydescending road,True,Finca El Ocaso|Salento,-0.783674,0.055783,0.839458,0.104759,581,ok
+99,Traders work on the floor of the New York Stock Exchange,True,the New York Stock Exchange,0.001903,0.002291,0.000388,0.997321,779,ok
+100,Robert Ethan Saylor is seen here in this family photo taken during a summer festival in 2012,True,Robert Ethan Saylor,0.0,0.5,0.5,0.0,0,no_wiki_result
+101,Corbin Aoyagi a supporter of gay marriage waves a rainbow flag during a rally at the Utah State Capitol on Jan 28,True,Corbin Aoyagi|Utah|Capitol,-0.883622,0.001695,0.885317,0.112989,1564,ok
+102,Veterans from the Kansas Honor Flight watch as the Sentinels begin the Changing of the Guard ceremony,True,Kansas,-0.011777,0.001806,0.013582,0.984612,1509,ok
+103,Jim Lehrer moderates a debate between President Bill Clinton and Republican nominee Bob Dole at the Bushnell Center for Performing Arts in Hartford Conn in 1996,True,Jim Lehrer|Bill Clinton|Republican|Bob Dole,0.00281,0.007162,0.004352,0.988486,3588,ok
+104,Swiss Guards stand below the balcony where the new pope will appear,True,Swiss Guards,0.000302,0.00484,0.004539,0.990621,1129,ok
+105,Civilians who fled the recent fighting stack their belongings up outside the gate of the United Nations Mission in South Sudan,True,the United Nations Mission,0.0,0.5,0.5,0.0,0,no_wiki_result
+106,US first lady Michelle Obama enters the East Room for a session of a Fashion Education Workshop at the White House on Oct 8 in Washington DC,True,US|Michelle Obama|the East Room|a Fashion Education Workshop,0.000874,0.001008,0.000135,0.998857,2971,ok
+107,A woman lies on a bed at a hospital after she was injured in the earthquake,True,A woman|a bed|a hospital|she,0.977508,0.977837,0.00033,0.021833,125,ok
+108,People stand under loudspeakers installed for a Hindu festival on a roadside in the northern Indian city of Allahabad,True,Hindu|Indian|Allahabad,0.001256,0.001727,0.000471,0.997803,3062,ok
+109,Colombian President Juan Manuel Santos speaks about the current situation in Colombia at the Wilson Center in Washington on Feb 2,True,Colombian|Juan Manuel Santos|Colombia|the Wilson Center,0.001018,0.002004,0.000986,0.997009,5215,ok
+110,There has been little investigation into burneddown bars or who sprayed bullets into the facade of the El Rincon del Angus steakhouse,True,the El Rincon del Angus,0.0,0.5,0.5,0.0,0,no_wiki_result
+111,Ryan Murphy of the United States wins gold in the 100 meter backstroke,True,Ryan Murphy|the United States,0.001209,0.003695,0.002486,0.99382,1560,ok
+112,Redskins running back Matt Jones gets past Ravens cornerback Anthony Levine in the third quarter,True,Redskins|Matt Jones|Ravens|Anthony Levine,-0.002852,0.000283,0.003135,0.996582,940,ok
+113,Moseley also painted the walls of the laundry room at Birmingham Green,True,Moseley|Birmingham Green,-0.000325,0.00011,0.000436,0.999454,367,ok
+114,A boy wanders through a field of rice near Dia on Aug 18,True,Dia,0.004396,0.00476,0.000364,0.994876,30,ok
+115,Councilman David Catania speaks with principal Tui Roper left and social worker Anita Lewis right during a visit to Burrville Elementary School Jan 16 2012,True,David Catania|Tui Roper|Anita Lewis|Burrville Elementary School Jan 16 2012,-0.381663,0.009566,0.391229,0.599204,271,ok
+116,Grapes ripen at the Raisin Valley Farms cooperative in Kerman where Marvin Horne produces raisins,True,the Raisin Valley Farms|Kerman|Marvin Horne,-0.018933,0.002874,0.021808,0.975318,888,ok
+117,Hyundai Merchant Marine Co s Hyundai Forward container ship approaches a terminal at Busan New Port in Busan South Korea on Sept 9,True,Hyundai Merchant Marine Co s|Hyundai|Busan New Port|Busan South Korea,0.361432,0.467592,0.10616,0.426248,1510,ok
+118,Shimon Peres right signs copies of his book The New Middle East in Budapest,True,Shimon Peres|Budapest,0.000663,0.004614,0.00395,0.991436,3027,ok
+119,Prince William left returns from an active ambulance sortie ahead of the Queen s visit to the new East Anglian Air Ambulance Base at Cambridge Airport in Cambridge England,True,Prince William|East Anglian Air Ambulance Base|Cambridge Airport|Cambridge,-0.776494,0.019457,0.795951,0.184592,3749,ok
+120,Investigators and onlookers gather after a security guard at the Family Research Council was shot and wounded in Washington,True,the Family Research Council|Washington,0.010012,0.0134,0.003388,0.983212,415,ok
+121,Sarah Brown running while visiting her husband s parents in Lakewood Ranch Fla Brown gave birth recently and is set to compete at the Olympic Trials in July,True,Sarah Brown|Lakewood Ranch|Fla Brown|the Olympic Trials,-0.000351,0.000234,0.000585,0.99918,914,ok
+122,New Jersey man arrested for beating girlfriend s 2yearold son to death,True,New Jersey,-0.009905,0.011342,0.021248,0.96741,1513,ok
+123,Republican presidential candidate Ben Carson smiles during a speech at the National Association of Latino Elected and Appointed Officials,True,Republican|Ben Carson|the National Association of Latino Elected,0.011721,0.026091,0.014369,0.95954,1551,ok
+124,Serena Williams started strong against Roberta Vinci of Italy winning the first set 62 in their US Open semifinal match Friday,True,Serena Williams|Roberta Vinci|Italy|US Open,-0.005126,0.003481,0.008607,0.987912,5759,ok
+125,Media members run after Clinton s motorcade as it arrives at Kirkwood Community College in Monticello Iowa before a small roundtable discussion,True,Clinton|Kirkwood Community College|Monticello Iowa,-0.014288,0.001913,0.016201,0.981887,514,ok
+126,New research measures just how electable each of the candidates is,True,New research measures|just how electable each|the candidates,0.0,0.5,0.5,0.0,0,no_wiki_result
+127,After Aiken s runnerup turn on American Idol he launched a performing career that took him to the American Music Awards in 2003 pictured to stadiums and to Broadway,True,Aiken|the American Music Awards|Broadway,0.019503,0.048435,0.028932,0.922632,61,ok
+128,The face of a winner World Chili Eating Championship victor Joey Chestnut films a commercial in Bethesda,True,Joey Chestnut|Bethesda,0.002161,0.002577,0.000416,0.997008,1381,ok
+129,President Obama and his wife Michelle bid farewell to Rev Luis Leon after attending a Sunday morning service at St John s Church,True,Obama|Michelle|Rev Luis Leon|St John s Church,0.00021,0.007364,0.007154,0.985481,1542,ok
+130,A bouquet of flowers on the anchor outside the Washington Navy Yard complex,True,Washington Navy Yard,0.001271,0.001702,0.000431,0.997867,1284,ok
+131,Ukrainian sappers ride on a truck used for neutralizing shells which were left by proRussia fighters near Slovyansk Ukraine,True,Ukrainian|proRussia|Slovyansk|Ukraine,0.011062,0.011791,0.000729,0.98748,3022,ok
+132,Residents in Charlotte walk near a solidwall bridge being built as part of the city s 93mile extension of its lightrail Blue Line,True,Charlotte,0.004406,0.016765,0.012359,0.970876,253,ok
+133,Clinton shakes hands with a supporter during a rally in Winterville,True,Clinton|Winterville,0.005232,0.006776,0.001544,0.991679,552,ok
+134,Mayor Cory Booker arrives at the polls in Newark to vote in the primary,True,Cory Booker|Newark,-0.634242,0.023585,0.657827,0.318588,1728,ok
+135,Norwegian Prime Minister Erna Solberg with European Commission President JeanClaude Juncker in Brussels,True,Norwegian|Erna Solberg|European Commission|JeanClaude Juncker,0.014171,0.021911,0.007741,0.970348,3527,ok
+136,An elderly woman crosses a street inTokyo Japan on Tuesday June 16 2015,True,Japan,0.005719,0.011101,0.005382,0.983517,1508,ok
+137,A proposed law would prohibit companies from imposing penalties or fees against reviewers,True,A proposed law|companies|penalties|fees,0.008039,0.014392,0.006353,0.979254,2546,ok
+138,Parking restrictions are posted on meters around the areas where inaugural events will be held Street parking will be limited for security reasons,True,Parking restrictions|meters|the areas|inaugural events,0.003503,0.006707,0.003204,0.990089,1397,ok
+139,Crews worked on a sinkhole on Jones Mills Road in Chevy Chase Md,True,Jones Mills Road|Chevy,0.000112,0.000395,0.000283,0.999322,1508,ok
+140,A man walks on debris in Tacloban Thousands of people are feared buried in the rubble,True,Tacloban Thousands,0.0,0.5,0.5,0.0,0,no_wiki_result
+141,During the stadium announcement Mayor Vincent C Gray is flanked by Jason Levien left DC United managing partner and Allen Y Lew right city administrator for the District,True,Vincent C Gray|Jason Levien|DC United|Allen Y Lew,-0.007036,0.001018,0.008054,0.990928,2046,ok
+142,William and Catherine with their two children Prince George and Princess Charlotte at Kensington Palace in London,True,William|Catherine|Prince George|Princess Charlotte,-0.020909,0.002694,0.023603,0.973703,1261,ok
+143,Afghan artists talk as they attend a graduation ceremony at Turquoise Mountain Institute in Kabul on March 2,True,Afghan|Turquoise Mountain Institute|Kabul,0.00109,0.001164,7.4e-05,0.998762,1547,ok
+144,Egyptian women gather to denounce sexual violence and harassment against women in Cairo,True,Egyptian|Cairo,0.001456,0.001743,0.000287,0.997969,1615,ok
+145,Ivanka Trump waits for the start of the third presidential debate at the Thomas Mack Center in Las Vegas,True,Ivanka Trump|the Thomas Mack Center|Las Vegas,-0.023598,0.00808,0.031678,0.960242,2957,ok
+146,Cruz of Texas speaks at Woodrow Wilson Middle School in Terre Haute Ind,True,Cruz|Texas|Woodrow Wilson Middle School|Terre Haute Ind,-0.207794,0.00096,0.208754,0.790286,3782,ok
+147,Kelvin Sewell poses for a photo with Sarai White 9 outside the City Council chambers,True,Kelvin Sewell|Sarai White 9|City Council,0.879306,0.882904,0.003598,0.113498,1515,ok
+148,Villagers of Kabrit watch an ambulance as it prepares to unload the bodies of victims from the crashed Russian airplane,True,Kabrit|Russian,0.303847,0.358492,0.054646,0.586862,723,ok
+149,A Ferguson Police officer is overcome with emotion during a vigil held in honor of Jamyla Bolden on August 20 2015 in Ferguson Mo,True,Ferguson Police|Jamyla Bolden|Ferguson Mo,0.0,0.5,0.5,0.0,0,no_wiki_result
+150,Tortola the capital of the British Virgin Islands sometimes referred to as the offshore capital of the world 17000 UK companies have been controlled from the BVI,True,Tortola|the British Virgin Islands|UK|BVI,0.001012,0.001316,0.000304,0.99838,4751,ok
+151,Charles II s lover Nell Gwyn as captured by an anonymous 17thcentury hand Click to see a larger uncropped version of the painting,True,Charles II s|Nell Gwyn,0.004484,0.004955,0.000471,0.994574,850,ok
+152,The Twits are joined by new characters Handsome Waltzer Boy Yorkshire Terrier Man and Tattooed Fortune Teller Lady,True,Handsome Waltzer Boy|Yorkshire Terrier|Fortune Teller,0.000475,0.000567,9.1e-05,0.999342,793,ok
+153,Bradley Manning arrives at a military court facility for the sentencing phase of his trial,True,Bradley Manning,0.002092,0.004952,0.002861,0.992187,1518,ok
+154,John Boehner said the House of Representatives would deal with immigration reform in chunks,True,John Boehner|the House of Representatives,0.001066,0.001183,0.000118,0.998699,1599,ok
+155,Jason Watkins and Monica Dolan as the warring couple in The Twits at the Royal Court adapted by Enda Walsh,True,Jason Watkins|Monica Dolan|the Royal Court|Enda Walsh,0.000653,0.001973,0.00132,0.996707,1207,ok
+156,Fresh fringe Uncle Vanya at The Print Room a London fringe venue that opened in September 2010,True,Uncle Vanya|The Print Room a London,-0.017595,0.0023,0.019895,0.977806,1047,ok
+157,Holger Osieck exits as Socceroos coach with the Australian team s performance at rock bottom,True,Holger Osieck|Socceroos|Australian,0.84224,0.854613,0.012372,0.133015,1986,ok
+158,There are likely to be tens of thousands of empty seats at Twickenham Stadium for the Heineken Cup semifinal between Saracens and Toulon,True,Twickenham Stadium|the Heineken Cup|Saracens|Toulon,0.016198,0.016935,0.000736,0.982329,3814,ok
+159,WH Smith has also bought the Wild Cards and Gifts chain in Australia in January which operates 50 small gift shops,True,WH Smith|the Wild Cards|Australia,-0.893913,0.011613,0.905526,0.082862,2646,ok
+160,Amazon founder and chief executive Jeff Bezos has made an investment in financial news site Business Insider led by controversial former analyst Henry Blodget,True,Amazon|Jeff Bezos|Business Insider|Henry Blodget,0.001946,0.002677,0.00073,0.996593,3720,ok
+161,Vladimir Putin Angela Merkel Francois Hollande and Petro Poroshenko pose for a group photo during the Ukraine peace talks in Minsk,True,Vladimir Putin Angela Merkel Francois Hollande|Ukraine|Minsk,0.002133,0.003512,0.001378,0.99511,2832,ok
+162,Jean Dujardin in Lost in Rio one of the spoofspy OSS 117 films,True,Jean Dujardin|Rio|OSS,-0.00275,0.000552,0.003302,0.996146,1510,ok
+163,The Shakespeare of Shapiro s book is uncertain about his career,True,Shakespeare|Shapiro,0.001845,0.002077,0.000233,0.99769,1727,ok
+164,Former Mexican president Ernesto Zedillo in 2000 While in office in the 90s Zedillo began a war against Mexican cartels that exploded in the second half of the decade,True,Mexican|Ernesto Zedillo,0.001692,0.003974,0.002282,0.993744,1550,ok
+165,Those travelling to Heathrow by car could face a congestion charge under revised plans for the airport s expansion,True,Heathrow,-0.004211,0.00349,0.007701,0.988809,1181,ok
+166,The Pianist Adrien Brody s character Wadysaw Szpilman wins the sympathy of a Nazi officer amid the ruins of Warsaw by playing the Ballade,True,Adrien Brody|Wadysaw Szpilman|Nazi|Warsaw,0.002014,0.002342,0.000328,0.99733,4533,ok
+167,I happen to have a PhD in genetics but that technical knowledge does nt help me when writing about archaeology or physics,True,I|a PhD|genetics|technical knowledge,0.024281,0.02461,0.000329,0.975061,1771,ok
+168,Halifax says the economy is supporting housing demand others are less sure,True,Halifax,0.001382,0.001629,0.000247,0.998123,158,ok
+169,Flouting conventions Desmond Barrit in A Funny Thing Happened on the Way to the Forum at the Olivier theatre in 2004,True,Desmond Barrit|Forum|Olivier,0.629281,0.636244,0.006963,0.356792,265,ok
+170,Tokyo Japan A model on wheelchair presents a creation by designer Takafumi Tsuruta from his autumnwinter 20152016 collection for his brand tenbo during Tokyo Fashion Week,True,Tokyo|Japan|Takafumi Tsuruta|Tokyo Fashion Week,0.000859,0.00459,0.00373,0.99168,4214,ok
+171,A Taser gun Farmer was walking away from PC Wright at the time and posed no threat an IPCC investigation found,True,Taser|Wright|IPCC,0.000383,0.00087,0.000487,0.998643,4181,ok
+172,A policeman has been awarded 60000 in damages in a high court judgment against the Times,True,Times,0.002906,0.003126,0.00022,0.996654,145,ok
+173,Output from industry in October was just 03 higher than a year ago and remains almost 5 below its precredit crunch peak,True,Output|industry|October|its precredit crunch peak,0.012365,0.021046,0.008681,0.970274,1496,ok
+174,Vatican City Pope Francis arrives at St Peter s square to lead his weekly general audience,True,Vatican City|Francis|St Peter s square,0.08408,0.094122,0.010042,0.895836,1547,ok
+175,Alexander Buttner right only made 15 appearances for Manchester United last season,True,Alexander Buttner|Manchester United,-0.009234,0.005494,0.014728,0.979778,1710,ok
+176,A Bulgarian town s mayor has said his local side are insulting the community and has stepped in to take over coaching them,True,Bulgarian,0.028412,0.036526,0.008114,0.95536,426,ok
+177,Enda Kenny and David Cameron shown in a file photograph are visiting Belfast to try to bridge gaps between the Stormont parties,True,Enda Kenny|David Cameron|Belfast|Stormont,0.051526,0.354817,0.303292,0.341891,4575,ok
+178,A graphic showing different energy sources that provide green energy at Hugh FearnleyWhittingstall s River Cottage,True,Hugh FearnleyWhittingstall s River Cottage,0.0,0.5,0.5,0.0,0,no_wiki_result
+179,Lalitpur Nepal A woman working in the mustard fields of Khokana,True,Lalitpur Nepal A|Khokana,2.6e-05,0.000425,0.000398,0.999177,965,ok
+180,A US military illustration from Project 1794 strongly resembles a flying saucer,True,US|Project 1794,0.001213,0.002632,0.001419,0.995948,2885,ok
+181,No problem with noisy neighbours at the Dubai International Cricket Stadium,True,the Dubai International Cricket Stadium,0.0,0.5,0.5,0.0,0,no_wiki_result
+182,Edinburgh UK University fashion students Kikie McKenzie Alana Hilton Olivia Bright Julie Mills and Heather Dooley showcase their work created for the Edinburgh college of Art fashion show,True,Edinburgh|UK University|Kikie McKenzie|Alana Hilton,0.001501,0.001648,0.000148,0.998204,1512,ok
+183,Stargazers gathered in Northumberland National Park the only place in England granted Dark Sky Park status,True,Northumberland National Park|England|Dark Sky Park,0.001808,0.002457,0.000648,0.996895,3197,ok
+184,Cumbria UK The aurora borealis over Derwentwater near Keswick in the Lake District See more amazing images here,True,Cumbria|UK|Derwentwater|Keswick,0.006227,0.007256,0.001029,0.991715,4564,ok
+185,In 2009 Donald Eugene Gates became the first man to be exonerated after being imprisoned on fantasy hair evidence,True,Donald Eugene Gates,0.0,0.5,0.5,0.0,0,no_wiki_result
+186,Vladivostok Russia Cadets take part in a rally commemorating the first anniversary of the annexing of Crimea,True,Vladivostok|Crimea,-0.918625,0.002298,0.920923,0.076779,3024,ok
+187,Population ageing which increased steadily through the 20th century is set to intensify in the coming decades,True,Population ageing|which|the 20th century|the coming decades,0.004639,0.005466,0.000827,0.993707,1719,ok
+188,US defense secretary Leon Panetta has declared alQaida in the Islamic Maghreb responsible for the In Amenas attack,True,US|Leon Panetta|Islamic|Maghreb,0.002758,0.003748,0.00099,0.995262,6043,ok
+189,Sale s Danny Cipriani runs at the Cardiff Blues defence following his gamechanging introduction,True,Danny Cipriani|Cardiff Blues,-0.000521,0.000435,0.000956,0.998609,1558,ok
+190,Luis Suarez will serve a fourmonth ban for biting Italy s Giorgio Chiellini,True,Luis Suarez|Italy|Giorgio Chiellini,0.000515,0.002003,0.001488,0.996509,4544,ok
+191,London UK The chancellor George Osborne prepares to pose for the media with the traditional red dispatch box outside his official residence at 11 Downing Street,True,London|UK|George Osborne|11 Downing Street,0.000713,0.001333,0.000621,0.998046,5491,ok
+192,Big star Renee Zellweger in Bridget Jones s Diary a third film could be on the way with a more slimline Bridget,True,Renee Zellweger|Bridget Jones|Bridget,-0.004159,0.004378,0.008537,0.987085,4511,ok
+193,The proposed new route for the Keystone XL pipeline in Neligh Nebraska,True,Keystone XL|Neligh Nebraska,0.002696,0.003521,0.000825,0.995655,1514,ok
+194,Barack Obama told an audience in Mount Holly North Carolina We ca nt just rely on fossil fuels from the last century,True,Barack Obama|Mount Holly North Carolina,0.0,0.5,0.5,0.0,0,no_wiki_result
+195,Autumn Veatch was a passenger on a plane that crashed on Saturday with two other people on board She survived and walked out of the remote crash site,True,Autumn Veatch,0.0,0.5,0.5,0.0,0,no_wiki_result
+196,Bee populations have collapsed across Europe with many scientists attributing this to the use of neonicotinoids,True,Europe,0.0,0.5,0.5,0.0,0,no_wiki_result
+197,The European health insurance card provides access to the health systems across the EU,True,European|EU,0.0,0.5,0.5,0.0,0,no_wiki_result
+198,Uber driver Karim Amrani sits in his car parked near the San Francisco International Airport parking area in San Francisco,True,Karim Amrani|the San Francisco International Airport|San Francisco,0.0,0.5,0.5,0.0,0,no_wiki_result
+199,A fire engine arrives at a burning building after shelling in Maryinka village outside Donetsk in eastern Ukraine,True,Maryinka|Donetsk|Ukraine,0.0,0.5,0.5,0.0,0,no_wiki_result
+200,A statue of the virgin Mary holding an orb of light.,True,Mary,0.0,0.5,0.5,0.0,0,no_wiki_result
+201,A dairy cow sticking its tongue out from inside its stall.,True,A dairy cow|its tongue|its stall,0.0,0.5,0.5,0.0,0,no_wiki_result
+202,A clock sitting on a post above the statues of two birds.,True,A clock|a post|the statues|two birds,0.0,0.5,0.5,0.0,0,no_wiki_result
+203,A girl holding a tennis racket in her hand while on the tennis court,True,A girl|a tennis racket|her hand|the tennis court,0.0,0.5,0.5,0.0,0,no_wiki_result
+204,two dogs laying in a bed with thick covers,True,two dogs|a bed|thick covers,0.0,0.5,0.5,0.0,0,no_wiki_result
+205,A clock hangs on a wall of a neglected building.,True,A clock|a wall|a neglected building,0.0,0.5,0.5,0.0,0,no_wiki_result
+206,The skiers stood on top of the mountain.,True,The skiers|top|the mountain,0.0,0.5,0.5,0.0,0,no_wiki_result
+207,Two dogs in a grassy field with one dog holding an orange disc.,True,Two dogs|a grassy field|one dog|an orange disc,0.0,0.5,0.5,0.0,0,no_wiki_result
+208,An umpire is in jump action while the pitcher launches the ball.,True,An umpire|jump action|the pitcher|the ball,0.0,0.5,0.5,0.0,0,no_wiki_result
+209,Man standing beneath large sail on beach with man controlling from distance.,True,Man|large sail|beach|distance,0.0,0.5,0.5,0.0,0,no_wiki_result
+210,A child standing on the floor with a toothbrush in hand.,True,A child|the floor|a toothbrush|hand,0.0,0.5,0.5,0.0,0,no_wiki_result
+211,A person looks at a very big computer monitor.,True,A person|a very big computer monitor,0.0,0.5,0.5,0.0,0,no_wiki_result
+212,three people standing in front of trays of doughnuts and bagels,True,three people|front|trays|doughnuts,0.0,0.5,0.5,0.0,0,no_wiki_result
+213,This is a picture of four stuffed animals.,True,This|a picture|four stuffed animals,0.0,0.5,0.5,0.0,0,no_wiki_result
+214,A black and orange cat sitting on a wooden counter top.,True,A black and orange cat|a wooden counter top,0.0,0.5,0.5,0.0,0,no_wiki_result
+215,A kid is holding two hot dogs in a room of kids.,True,A kid|two hot dogs|a room|kids,0.0,0.5,0.5,0.0,0,no_wiki_result
+216,A dog runs after a frisbee by a fence.,True,A dog|a frisbee|a fence,0.0,0.5,0.5,0.0,0,no_wiki_result
+217,A man sits in a coffee shop working on his laptop computer.,True,A man|a coffee shop|his laptop computer,0.0,0.5,0.5,0.0,0,no_wiki_result
+218,a electric sign sits next to a park,True,a electric sign|a park,0.0,0.5,0.5,0.0,0,no_wiki_result
+219,A person carrying a crate on their shoulder that is full of bananas.,True,A person|a crate|their shoulder|that,0.0,0.5,0.5,0.0,0,no_wiki_result
+220,A plate of food being heated in a microwave.,True,A plate|food|a microwave,0.0,0.5,0.5,0.0,0,no_wiki_result
+221,Number of street signs in front of a big building.,True,Number|street signs|front|a big building,0.0,0.5,0.5,0.0,0,no_wiki_result
+222,"A cake with white icing, mint leaves and strawberries.",True,A cake|white icing|mint leaves|strawberries,0.0,0.5,0.5,0.0,0,no_wiki_result
+223,A girl is taking a selfie while brushing her teeth.,True,A girl|a selfie|her teeth,0.0,0.5,0.5,0.0,0,no_wiki_result
+224,a baseball player swinging a bat at a ball,True,a baseball player|a bat|a ball,0.0,0.5,0.5,0.0,0,no_wiki_result
+225,A man walking with a sign next to a row of buses.,True,A man|a sign|a row|buses,0.0,0.5,0.5,0.0,0,no_wiki_result
+226,A teddy bear sitting in front of a pile of boxes.,True,A teddy bear|front|a pile|boxes,0.0,0.5,0.5,0.0,0,no_wiki_result
+227,"A selection of pears, orange, and watermelons on display.",True,A selection|pears|orange|watermelons,0.0,0.5,0.5,0.0,0,no_wiki_result
+228,a few goats in a big grassy field out doors,True,a few goats|a big grassy field|doors,0.0,0.5,0.5,0.0,0,no_wiki_result
+229,A group of people that are inside of the water.,True,A group|people|that|the water,0.0,0.5,0.5,0.0,0,no_wiki_result
+230,A plate of hot dog on a table with a glass,True,A plate|hot dog|a table|a glass,0.0,0.5,0.5,0.0,0,no_wiki_result
+231,A gathering of people and several motor bikes.,True,A gathering|people|several motor bikes,0.0,0.5,0.5,0.0,0,no_wiki_result
+232,A large long train with man inside on the track.,True,A large long train|man|the track,0.0,0.5,0.5,0.0,0,no_wiki_result
+233,The group of friends is riding down the beach.,True,The group|friends|the beach,0.0,0.5,0.5,0.0,0,no_wiki_result
+234,"Two people at a restaurant, one of whom is looking at a cellphone.",True,Two people|a restaurant|whom|a cellphone,0.0,0.5,0.5,0.0,0,no_wiki_result
+235,people enjoying a game of kick ball with many younger ones involved,True,people|a game|kick ball|many younger ones,0.0,0.5,0.5,0.0,0,no_wiki_result
+236,a kid rides a skate board up a wall,True,a kid|a skate board|a wall,0.0,0.5,0.5,0.0,0,no_wiki_result
+237,A lone surfer carries his board next to the shore.,True,A lone surfer|his board|the shore,0.0,0.5,0.5,0.0,0,no_wiki_result
+238,A young girl that is in a very clean and well stocked kitchen.,True,A young girl|that|a very clean and well stocked kitchen,0.0,0.5,0.5,0.0,0,no_wiki_result
+239,A polar bear opening its mouth while standing on a rock.,True,A polar bear|its mouth|a rock,0.0,0.5,0.5,0.0,0,no_wiki_result
+240,A tennis player is swinging at a tennis ball on a sunny day.,True,A tennis player|a tennis ball|a sunny day,0.0,0.5,0.5,0.0,0,no_wiki_result
+241,A large yellow school bus stopping on a road.,True,A large yellow school bus|a road,0.0,0.5,0.5,0.0,0,no_wiki_result
+242,A man and a boy hold video controllers on opposite sides of a dining table containing a projector.,True,A man|a boy|video controllers|opposite sides,0.0,0.5,0.5,0.0,0,no_wiki_result
+243,Two woman leaning against a wall wearing baby slings.,True,Two woman|a wall|baby slings,0.0,0.5,0.5,0.0,0,no_wiki_result
+244,A dog sits waiting while his owner cuts some meat.,True,A dog|his owner|some meat,0.0,0.5,0.5,0.0,0,no_wiki_result
+245,A stop sign at the end of the road.,True,A stop sign|the end|the road,0.0,0.5,0.5,0.0,0,no_wiki_result
+246,A herd of elephants walking across a body of water.,True,A herd|elephants|a body|water,0.003653,0.004543,0.00089,0.994568,1508,ok
+247,cereal and juice are placed on top of a fridge,True,cereal|juice|top|a fridge,0.000539,0.001134,0.000596,0.99827,2640,ok
+248,a shelf with a lot of assorted colorful fruit for sale,True,a shelf|a lot|assorted colorful fruit|sale,0.009139,0.014876,0.005737,0.979388,190,ok
+249,"A blender, bottle, glass and cutting board with knife on a counter.",True,A blender|bottle|glass|board,0.013891,0.01672,0.002829,0.980452,1877,ok
+250,the difference between the local and tourist specials on this menu,True,the difference|the local and tourist specials|this menu,0.011134,0.013929,0.002796,0.983275,256,ok
+251,someone rented a part of central park for a party today,True,someone|a part|central park|a party,0.035671,0.0373,0.001629,0.961071,2751,ok
+252,this bizarre textile flooring is neither textile nor carpeting its porcelain tile,True,this bizarre textile flooring|neither textile|its porcelain tile,0.0,0.5,0.5,0.0,0,no_wiki_result
+253,the employee area of this fastfood restaurant has had an access code in the pattern of triangle for a long time,True,the employee area|this fastfood restaurant|an access code|the pattern,0.0,0.5,0.5,0.0,0,no_wiki_result
+254,family dog that ran away after a car crash found alive six days later,True,family dog|that|a car crash,0.183425,0.287717,0.104292,0.60799,1219,ok
+255,this sink at chicago ohare airport has soap water and a hand dryer from left to right,True,chicago ohare airport,0.0,0.5,0.5,0.0,0,no_wiki_result
+256,toronto police officer dyes hair pink to fight bullying and homophobia,True,toronto,-0.996216,0.000882,0.997098,0.00202,1510,ok
+257,dying us soldier fighting for the right to sue military over medical malpractice,True,us soldier|the right|military|medical malpractice,0.020949,0.022274,0.001325,0.976401,4877,ok
+258,after two degree sunny days this snow pile is holding on in minneapolis,True,minneapolis,0.000866,0.001539,0.000673,0.997787,1514,ok
+259,small business launches positivity campaign to share a nice thought about someone on social media,True,small business|positivity campaign|a nice thought|someone,-6.4e-05,0.000259,0.000323,0.999417,1549,ok
+260,gavin free from roosterteeth and the slo mo guys suspended in mid air,True,gavin free,0.0,0.5,0.5,0.0,0,no_wiki_result
+261,david barton if theres no prayer at a public school graduation thats a promotion of atheism,True,david barton,0.0,0.5,0.5,0.0,0,no_wiki_result
+262,whats the market price for douche these days ldu coffee in dallas tx,True,dallas|tx,0.003389,0.003766,0.000376,0.995858,1569,ok
+263,a child clutching his soldier father gazes upward while his father lifts his wife from the ground to wish her a merry christmas x,True,a child|his soldier father|his father|his wife,0.0,0.5,0.5,0.0,0,no_wiki_result
+264,ed sheeran not believing his luck at the victorias secret party,True,ed sheeran|the victorias secret party,0.008218,0.013594,0.005377,0.981029,1513,ok
+265,in the room where theyre holding lunch detention theres this robot on the wall made of pipes,True,the room|they|lunch detention|this robot,0.787451,0.804418,0.016967,0.178615,1603,ok
+266,a twitter hashtag probably doesnt prove feminists want to kill all men,True,a twitter hashtag|feminists|all men,0.000199,0.000229,3e-05,0.99974,1512,ok
+267,a few of these logos are flipped on rightside up bottles,True,these logos|rightside up bottles,0.0,0.5,0.5,0.0,0,no_wiki_result
+268,the reflection of madison square garden in this building looks like a continuation of the building behind it,True,madison square,0.0,0.5,0.5,0.0,0,no_wiki_result
+269,the wood grain on this pallet looks like a ducks head,True,the wood grain|this pallet|a ducks head,0.0,0.5,0.5,0.0,0,no_wiki_result
+270,officiary had posted photo on the background of new painted wall to show that government are doing something for city,True,officiary|photo|the background|new painted wall,0.029662,0.031441,0.00178,0.966779,1230,ok
+271,this statue in the anzac memorial in sydney australia embodies and honors the pain the mothers wives and lovers of slain veterans of the great war went through,True,sydney australia,0.0,0.5,0.5,0.0,0,no_wiki_result
+272,this big snail with a slug catching a ride and the wee snail trying to keep up,True,this big snail|a slug|a ride|the wee snail,0.0,0.5,0.5,0.0,0,no_wiki_result
+273,sandy hook truther caught in virginia with signs stolen from playgrounds built for newtown victims police,True,sandy|virginia|newtown,-0.02393,0.006557,0.030486,0.962957,1571,ok
+274,star wars fan forced to sell ft atst replica because girlfriend doesnt like it,True,star wars fan|ft atst replica|girlfriend|it,0.004185,0.004737,0.000552,0.994711,509,ok
+275,dropped the eggs a little too quickly while boiling and they cracked,True,the eggs|they,0.96827,0.968841,0.000571,0.030588,91,ok
+276,a good day for rescuers of missing yearold found in vacant home,True,a good day|rescuers|vacant home,0.180004,0.212058,0.032055,0.755887,29,ok
+277,this usb to micro usb cable that can goes in both ways,True,usb to micro usb cable,0.0,0.5,0.5,0.0,0,no_wiki_result
+278,denzel washington hanging out with liev schreiber meryl streep and his broken finger,True,denzel washington|liev|schreiber meryl streep,0.300482,0.375748,0.075266,0.548986,3028,ok
+279,trump supporters barricaded in wetherspoons by police after being surrounded by protesters,True,trump,0.00162,0.00339,0.00177,0.99484,1508,ok
+280,emt in venom walks away infected with their hair covering up the m creating et extraterrestrial a nice spielberg homage,True,emt|spielberg,-7e-06,0.000397,0.000404,0.999199,1543,ok
+281,this guy was walking around acl with a crayon in his backpack,True,this guy|acl|a crayon|his backpack,0.004854,0.005001,0.000147,0.994853,23,ok
+282,the smoothness of this statue from where it has been touched,True,the smoothness|this statue|it,0.001197,0.002843,0.001646,0.995512,76,ok
+283,the label on this beer can reads std from the side this beer is not for sharing,True,the label|this beer|std|the side,0.0001,0.000426,0.000326,0.999248,1506,ok
+284,swirled cocoa powder in a dry metal bowl while making brownies,True,cocoa powder|a dry metal bowl|brownies,0.00071,0.000928,0.000219,0.998853,955,ok
+285,fixture from car broke off in painting machine during assembly at bmw and got excessively repainted,True,bmw,-0.005765,0.002733,0.008497,0.98877,1506,ok
+286,cute sax players get engaged while busking in boston public gardens,True,boston,0.000404,0.000621,0.000217,0.999162,1509,ok
+287,this handloom lists sick people and shut ins as part of their ideal customers,True,this handloom lists|sick people|ins|part,-0.608368,0.085919,0.694287,0.219794,71,ok
+288,the seagull footprints around this trash can with a bagel in it,True,the seagull footprints|this trash can|a bagel|it,0.002295,0.004097,0.001802,0.994101,76,ok
+289,found this shrine to mr t in a small shop in decatur ga dont buy only admire,True,decatur ga,0.0,0.5,0.5,0.0,0,no_wiki_result
+290,realized mid way through a puzzle that one of the images on the cover was different from the actual puzzle,True,mid way|a puzzle|that|the images,0.004758,0.00938,0.004622,0.985998,686,ok
+291,this keyboard indicates whether or not it can detect solar power with a happy and a sad face,True,this keyboard|it|solar power,0.001182,0.001312,0.000131,0.998557,1591,ok
+292,people of nunavut canada tired of paying for coffee lb for chicken for a bottle of v for cabbage,True,nunavut canada,0.0,0.5,0.5,0.0,0,no_wiki_result
+293,columbine survivors still struggle years later after florida school shooting bi,True,columbine|florida,-0.004172,0.00137,0.005542,0.993088,1546,ok
+294,the animal on the front dictates the size and strength of the brace bands collect them all,True,the animal|the front|the size|strength,0.017323,0.017576,0.000254,0.98217,33,ok
+295,this nearly perfectly spherical rock at the seven sisters in the uk,True,uk,-0.021717,0.024758,0.046475,0.928767,1505,ok
+296,this pile of pine needles formed molded in a traffic cone,True,this pile|pine needles|a traffic cone,0.0,0.5,0.5,0.0,0,no_wiki_result
+297,mallet used almost exclusively by right handed people for the better part of years,True,mallet|right handed people|the better part|years,0.016567,0.027405,0.010838,0.961757,1700,ok
+298,the way this tree grew out of the side of this mountain trail,True,the way|this tree|the side|this mountain trail,0.001053,0.001106,5.2e-05,0.998842,31,ok
+299,this bathroom has lights above the stalls to indicate whether theyre vacant or occupied,True,this bathroom|lights|the stalls|they,0.011168,0.011832,0.000665,0.987503,220,ok
+300,The Chrysler Building has yet to be surpassed in height.,Fake,The Chrysler Building,-0.032777,0.019867,0.052644,0.927488,1524,ok
+301,Peking University is in Thailand.,Fake,Peking University|Thailand,0.006003,0.018098,0.012096,0.969806,2864,ok
+302,Magic Johnson did not play for the Lakers.,Fake,Magic Johnson,-0.999679,6.8e-05,0.999747,0.000185,1516,ok
+303,Rupert Murdoch is the Chairman of FOX News.,Fake,Rupert Murdoch|FOX News,0.005925,0.006315,0.00039,0.993295,3029,ok
+304,Juventus F.C. rejected their traditional black-and-white-striped home uniform in 1903.,Fake,Juventus F.C.,-0.39306,0.275892,0.668952,0.055155,1516,ok
+305,Uranium-235 was discovered by Arthur Jeffrey Dempster in 2005.,Fake,Arthur Jeffrey Dempster,0.003023,0.004094,0.00107,0.994836,313,ok
+306,"The United Nations Charter was signed on April 26, 1945.",Fake,The United Nations Charter,0.0,0.5,0.5,0.0,0,no_wiki_result
+307,John Krasinski is an astronaut.,Fake,John Krasinski,-0.005517,0.005505,0.011022,0.983473,1378,ok
+308,Psych is a professional roller derby athlete.,Fake,Psych|a professional roller derby athlete,0.000443,0.00174,0.001296,0.996964,1508,ok
+309,Robert Palmer (writer) isn't a journalist.,Fake,Robert Palmer,0.000385,0.000582,0.000198,0.99922,1075,ok
+310,Black Canary is real.,Fake,Black Canary,0.00144,0.001791,0.000351,0.997858,1515,ok
+311,Sidse Babett Knudsen works in radio.,Fake,Sidse Babett Knudsen,-0.000588,0.000695,0.001283,0.998022,1050,ok
+312,Randy Savage is a basketball player.,Fake,Randy Savage,0.008997,0.011833,0.002837,0.98533,1515,ok
+313,Carlos Santana is a US president.,Fake,Carlos Santana|US,0.00651,0.012175,0.005664,0.982161,2533,ok
+314,Bermuda Triangle is in the western part of the Himalayas.,Fake,Bermuda Triangle|Himalayas,-0.995228,0.000853,0.996082,0.003065,2122,ok
+315,Ashley Cole plays for the Portland Timbers.,Fake,Ashley Cole|the Portland Timbers,0.003462,0.003952,0.00049,0.995558,1514,ok
+316,Connie Nielsen is an English politician.,Fake,Connie Nielsen,-0.060317,0.005767,0.066084,0.928149,918,ok
+317,Colin Kaepernick is a poker player.,Fake,Colin Kaepernick,-0.014824,0.01229,0.027114,0.960596,1519,ok
+318,New Orleans Pelicans compete in the National Football Association.,Fake,New Orleans|the National Football Association,-0.976144,0.001252,0.977396,0.021352,1514,ok
+319,The United Nations Charter was signed in Germany.,Fake,The United Nations Charter|Germany,0.000596,0.0047,0.004104,0.991196,1510,ok
+320,John Deighton had healthy legs his entire life.,Fake,John Deighton,0.000677,0.000906,0.000229,0.998865,211,ok
+321,Neil Diamond is a Canadian bullfighter.,Fake,Neil Diamond|Canadian,0.000105,0.001607,0.001502,0.996891,2704,ok
+322,Matthew Gray Gubler is a magician.,Fake,Matthew Gray Gubler,-0.958714,0.000923,0.959638,0.039439,453,ok
+323,Dreamer (2005 film) is a Canadian sports film.,Fake,Dreamer|Canadian,0.001075,0.001175,0.000101,0.998724,1543,ok
+324,Rob Sheridan is a Canadian graphic designer.,Fake,Rob Sheridan|Canadian,-0.011798,0.000549,0.012347,0.987104,1900,ok
+325,Pharrell Williams does not play drums.,Fake,Pharrell Williams,-0.001294,0.000523,0.001817,0.99766,1520,ok
+326,Scotty Moore was a sandwich engineer.,Fake,Scotty Moore,0.000858,0.002026,0.001168,0.996805,903,ok
+327,"Tesla, Inc. specializes in dolls.",Fake,"Tesla, Inc.",-0.001695,0.001929,0.003623,0.994448,1514,ok
+328,The Lincoln-Douglas debates happened in a car.,Fake,Lincoln,0.000805,0.003988,0.003183,0.992829,339,ok
+329,Terry Crews played professional hockey.,Fake,Terry Crews,-0.002078,0.01119,0.013268,0.975542,1434,ok
+330,Youtube is a hotel.,Fake,Youtube,0.001138,0.001212,7.3e-05,0.998715,1510,ok
+331,Terry Crews played in the MLB.,Fake,Terry Crews|MLB,0.002179,0.01224,0.010061,0.977699,2941,ok
+332,Tottenham Hotspur F.C. is Chinese.,Fake,Tottenham Hotspur F.C.|Chinese,0.026162,0.03172,0.005558,0.962722,2959,ok
+333,Weekly Idol is hosted by Yoo Jae Suk.,Fake,Yoo Jae Suk,0.000276,0.000312,3.6e-05,0.999653,561,ok
+334,Ron Weasley is part of the Twilight series.,Fake,Ron Weasley,-0.013451,0.018695,0.032146,0.94916,716,ok
+335,Tremont Street Subway is incapable of being a tunnel.,Fake,Tremont Street Subway,-0.940548,0.001561,0.942109,0.05633,636,ok
+336,The Cincinnati Kid is a TV show.,Fake,The Cincinnati Kid,-0.005837,0.001563,0.0074,0.991036,1156,ok
+337,"Camden, New Jersey is a publication.",Fake,Camden|New Jersey,-0.011142,0.01017,0.021312,0.968519,1543,ok
+338,Juventus F.C. is the second oldest ultimate frisbee club in Italy.,Fake,Juventus F.C.|frisbee|Italy,0.094536,0.126231,0.031695,0.842074,4536,ok
+339,The Mirny (sloop-of-war) was only a plane.,Fake,Mirny,0.088056,0.093758,0.005702,0.90054,80,ok
+340,The New York Knicks compete in the National Football League (NFL).,Fake,New York|Knicks|the National Football League|NFL,0.049386,0.0626,0.013213,0.924187,4775,ok
+341,The first inauguration of Bill Clinton was on the West Front of the White House lawn.,Fake,Bill Clinton|the West Front of|White House,0.000229,0.002267,0.002038,0.995695,3030,ok
+342,Aarhus is the second-smallest city in Denmark.,Fake,Aarhus|Denmark,0.048526,0.171197,0.122671,0.706131,3020,ok
+343,Marvel vs. Capcom: Infinite is a mobile game.,Fake,Capcom: Infinite,0.0,0.5,0.5,0.0,0,no_wiki_result
+344,Awkward Black Girl is a television series.,Fake,Awkward Black Girl|a television series,-9.3e-05,0.000151,0.000243,0.999606,900,ok
+345,The Dark Tower is a haunted lighthouse in Greece.,Fake,The Dark Tower|Greece,0.000912,0.002085,0.001173,0.996741,1551,ok
+346,Saxony is the tenth largest German cat.,Fake,Saxony|German,0.005621,0.007623,0.002002,0.990374,1854,ok
+347,The University of Illinois at Chicago is a high school.,Fake,The University of Illinois at Chicago,0.0,0.5,0.5,0.0,0,no_wiki_result
+348,Victoria Palace Theatre is on the same side as a central London railway terminus.,Fake,Victoria Palace Theatre|London,0.00047,0.001191,0.000721,0.998088,1904,ok
+349,The Penibaetic System is an organization of cattle ranches.,Fake,The Penibaetic System,0.0,0.5,0.5,0.0,0,no_wiki_result
+350,Kevin Durant played one season of college lacrosse for the University of Texas.,Fake,Kevin Durant|the University of Texas,-0.149511,0.078544,0.228055,0.693402,3042,ok
+351,George Foreman was named one of the 25 worst fighters of the past 80 years by The Ring magazine.,Fake,George Foreman|The Ring,0.114395,0.146444,0.032049,0.821507,1551,ok
+352,Slovenia is an island nation.,Fake,Slovenia,-0.992665,0.000419,0.993084,0.006497,1511,ok
+353,Hulk's most usual color is purple.,Fake,Hulk,0.019348,0.021393,0.002045,0.976562,1507,ok
+354,SpaceX is a private university.,Fake,SpaceX,0.002071,0.005544,0.003473,0.990983,1509,ok
+355,Wi-Fi is a trademark of Microsoft.,Fake,Wi-Fi|Microsoft,0.012098,0.014347,0.00225,0.983403,3021,ok
+356,Prison Break aired on television.,Fake,Prison Break|television,0.000486,0.002204,0.001718,0.996077,3029,ok
+357,The brown bear is an herbivore.,Fake,The brown bear|an herbivore,0.0,0.5,0.5,0.0,0,no_wiki_result
+358,Unpredictable was only a book.,Fake,only a book,0.0,0.5,0.5,0.0,0,no_wiki_result
+359,Felicity Jones appeared in Downton Abbey.,Fake,Felicity Jones|Downton Abbey,-0.003174,0.000709,0.003884,0.995407,2746,ok
+360,The Incredible Hulk is a 2016 film.,Fake,The Incredible Hulk,0.023997,0.025355,0.001358,0.973287,1522,ok
+361,Saw VI is an American novel.,Fake,Saw VI|American,-0.980942,0.004365,0.985307,0.010328,2176,ok
+362,RMS Titanic was a train.,Fake,RMS Titanic,0.000265,0.000513,0.000248,0.999239,1514,ok
+363,Helike was a modern city.,Fake,Helike|a modern city,0.006458,0.010828,0.004369,0.984803,777,ok
+364,Mark Romanek only worked in the medical field.,Fake,Mark Romanek,-0.00727,0.045764,0.053034,0.901202,860,ok
+365,Blizzard Entertainment created World of Warcraft in 2005.,Fake,Blizzard Entertainment,-0.999853,1.1e-05,0.999864,0.000125,1525,ok
+366,"The jackfruit is a multiple fruit, composed of 5 individual flowers.",Fake,The jackfruit|a multiple fruit|5 individual flowers,0.0,0.5,0.5,0.0,0,no_wiki_result
+367,The Economic Times is a serial publication only containing advertising.,Fake,The Economic Times,0.000831,0.000967,0.000137,0.998896,1035,ok
+368,Mission: Impossible aired on CBS beginning in 1963.,Fake,CBS,0.002324,0.004843,0.00252,0.992637,1125,ok
+369,One Direction is a band comprised of men in their forties.,Fake,One Direction|a band|men|their forties,0.433837,0.44028,0.006443,0.553277,3292,ok
+370,The Ten Commandments are a set of golf clubs.,Fake,The Ten Commandments|a set|golf clubs,0.607539,0.629645,0.022106,0.348249,3067,ok
+371,Vitamin B12 is an important search engine.,Fake,Vitamin B12|an important search engine,0.000983,0.002119,0.001136,0.996745,1514,ok
+372,Daddy Yankee is a brand of soda.,Fake,Yankee,0.005644,0.0062,0.000557,0.993243,1463,ok
+373,Jack Reacher includes a signature horse chase sequence.,Fake,Jack Reacher,-0.000999,0.000814,0.001813,0.997372,1119,ok
+374,The Xbox One is the third console in a series which is part of a Microsoft brand.,Fake,Microsoft,0.713384,0.713915,0.000531,0.285553,1512,ok
+375,New Horizons is only an Earth-based probe.,Fake,New Horizons|Earth,-0.042864,0.015155,0.058019,0.926825,3024,ok
+376,Vienna is a bowling alley.,Fake,Vienna,-0.000965,0.001358,0.002323,0.996319,1509,ok
+377,Venom has since become less of an antihero.,Fake,Venom|an antihero,0.008904,0.009934,0.00103,0.989037,1309,ok
+378,Buckingham Palace lacks brightly colored scagliola.,Fake,Buckingham Palace,-0.999879,2.5e-05,0.999904,7.1e-05,1520,ok
+379,Bentley only markets planes.,Fake,Bentley,-0.984603,0.001334,0.985938,0.012728,1510,ok
+380,Harry Potter is a series of photographs.,Fake,Harry Potter,6.7e-05,0.000387,0.00032,0.999293,1515,ok
+381,The Invention of Lying is a restaurant.,Fake,The Invention of Lying,-0.00015,0.000203,0.000353,0.999443,736,ok
+382,Cricket players traditionally wear all-blue.,Fake,Cricket players,0.0,0.5,0.5,0.0,0,no_wiki_result
+383,Pluto is not relatively small.,Fake,Pluto,0.000618,0.001828,0.00121,0.996962,1508,ok
+384,Ford Motor Company is not based in the US.,Fake,Ford Motor Company|US,-0.035283,0.096082,0.131365,0.772553,3027,ok
+385,One World Trade Center is a public park.,Fake,World Trade Center,0.001883,0.002076,0.000193,0.997731,53,ok
+386,The killer whale is toothless.,Fake,The killer whale,0.0,0.5,0.5,0.0,0,no_wiki_result
+387,Damon Albarn's debut album was released in 2011.,Fake,Damon Albarn's,0.0,0.5,0.5,0.0,0,no_wiki_result
+388,Charles Manson has been proven innocent of all crimes.,Fake,Charles Manson,-0.994186,0.001042,0.995229,0.003729,1517,ok
+389,Hourglass is performed by a Russian singer-songwriter.,Fake,Hourglass|Russian,0.0074,0.008405,0.001005,0.99059,1570,ok
+390,The Hanford Site is unable to host the Pacific Northwest National Laboratory.,Fake,The Hanford Site|the Pacific Northwest National Laboratory,0.0,0.5,0.5,0.0,0,no_wiki_result
+391,Mount Rushmore was built by Gutzon Borglum and his nephew Lincoln Borglum.,Fake,Mount Rushmore|Gutzon Borglum|Lincoln Borglum,0.702455,0.743994,0.041539,0.214466,2440,ok
+392,Michelin Guides are published by a German company.,Fake,Michelin Guides|German,0.016184,0.039207,0.023023,0.93777,752,ok
+393,Black Panther is a newspaper.,Fake,Black Panther,0.880465,0.889774,0.009309,0.100917,179,ok
+394,The Berlin Wall is a Chinese monument.,Fake,The Berlin Wall|Chinese,0.051972,0.055581,0.003609,0.940811,2952,ok
+395,The Hunger Games is a television show.,Fake,The Hunger Games|a television show,-5e-05,0.001492,0.001542,0.996967,1519,ok
+396,Machu Picchu was built with brick walls.,Fake,Machu|Picchu,0.048773,0.107986,0.059213,0.832801,1881,ok
+397,The blue-ringed octopus hunts bananas.,Fake,The blue-ringed octopus hunts bananas,0.0,0.5,0.5,0.0,0,no_wiki_result
+398,Henry II of France has three cars.,Fake,Henry II|France,0.000214,0.000456,0.000242,0.999301,1543,ok
+399,The blue whale's mind is long and slender.,Fake,The blue whale's mind,0.0,0.5,0.5,0.0,0,no_wiki_result
+400,BREAKING: First NFL Team Declares Bankruptcy Over Kneeling Thugs,Fake,First NFL Team,0.0,0.5,0.5,0.0,0,no_wiki_result
+401,Court Orders Obama To Pay $400 Million In Restitution,Fake,Obama,0.002133,0.004578,0.002445,0.992977,1508,ok
+402,Oscar Pistorius Attempts To Commit Suicide,Fake,Oscar Pistorius,-0.056502,0.070327,0.126829,0.802844,1518,ok
+403,Trump Votes For Death Penalty For Being Gay,Fake,Trump Votes For Death Penalty For Being Gay,0.0,0.5,0.5,0.0,0,no_wiki_result
+404,Putin says: 'Pope Francis Is Not A Man Of God' | Must-See !!,Fake,Putin|Francis,0.009498,0.010123,0.000624,0.989253,1540,ok
+405,Malia Obama Fired From Cushy Internship At Spanish Embassy,Fake,Malia Obama|Spanish Embassy,0.000558,0.000641,8.3e-05,0.999275,605,ok
+406,BREAKING: Hillary Clinton Has Third Heart Attack-Docs Says She 'Won't Survive',Fake,Hillary Clinton,-0.943788,0.012947,0.956735,0.030317,1518,ok
+407,"Barack Obama Tweets SICK Attack On John McCain, Says He Should Have Died",Fake,Barack Obama|John McCain,0.129392,0.209755,0.080363,0.709882,3030,ok
+408,Gretchen Carlson: 'The 2nd Amendment Was Written Before Guns Were Invented',Fake,Gretchen Carlson,-0.000522,0.000954,0.001475,0.997571,1519,ok
+409,Clinton Campaign official arrested by FBI on child rape/trafficking charges,Fake,Clinton|FBI,0.000366,0.000692,0.000326,0.998981,1757,ok
+410,Clinton Email: We Must Destroy Syria For Israel,Fake,Clinton|Syria|Israel,0.002904,0.003615,0.000711,0.995673,3269,ok
+411,CNN host Fareed Zakaria calls for jihad rape of white women,Fake,CNN|Fareed Zakaria,-0.001832,0.000803,0.002635,0.996562,1843,ok
+412,Could Trump Win The Nobel Peace Prize? Peace in Korean Peninsula Would Be Significant Foreign Policy Achievement,Fake,The Nobel Peace Prize|Peace|Korean Peninsula|Significant Foreign Policy Achievement,0.97146,0.97164,0.000179,0.028181,4438,ok
+413,UPDATE: Hillary Clinton Leaves The Country As Mueller Indictment Is Announced,Fake,Hillary Clinton,-0.946698,0.014341,0.961039,0.024621,1518,ok
+414,Buzz Aldrin 'passes UFO lie detector test leaving experts convinced that he encountered alien life',Fake,Buzz Aldrin ',0.0,0.5,0.5,0.0,0,no_wiki_result
+415,Pope Francis: Gun Owners 'Can't Call Themselves Christian' Anymore,Fake,Francis,0.000425,0.000457,3.1e-05,0.999512,31,ok
+416,Broward County Sheriff Fired For Lying About Parkland,Fake,Broward County Sheriff,0.0,0.5,0.5,0.0,0,no_wiki_result
+417,Obama Administration Kept Illegal Mexican Kids In Detention Camps As 'Experiment',Fake,Obama Administration Kept Illegal Mexican Kids In Detention Camps As 'Experiment',0.0,0.5,0.5,0.0,0,no_wiki_result
+418,Pope Francis To Followers: 'Koran And Holy Bible Are The Same',Fake,Francis,0.000208,0.00023,2.2e-05,0.999748,31,ok
+419,Thousands killed as Israel Drops Tactical Nuclear Bomb On Syria,Fake,Israel Drops Tactical Nuclear Bomb|Syria,-0.000504,0.000558,0.001061,0.998381,1508,ok
+420,Head Of NFL Fines Steeler Teammates $1 MILLION Each!,Fake,NFL|Steeler,0.003375,0.005827,0.002453,0.99172,1538,ok
+421,Debbie Wasserman Schultz Aide Arrested Trying to Flee the Country,Fake,Debbie Wasserman|Schultz,0.001637,0.001692,5.6e-05,0.998252,1748,ok
+422,BREAKING: Sasha Obama Just Crashed Her Expensive New Car Into A Lake,Fake,Sasha Obama,0.000349,0.000394,4.5e-05,0.999561,605,ok
+423,Democrat Maxine Waters Has Shown Up To Only 10% Of Congressional Meetings For 35 YEARS,Fake,Democrat|Maxine Waters,0.023751,0.043377,0.019626,0.936997,1381,ok
+424,82-Year-Old Who Killed A Muslim In Self-Defense Gets The Death Penalty,Fake,Muslim,-1.2e-05,0.000358,0.00037,0.999272,1509,ok
+425,Trump's DHS Secretary Confirms They Are Preparing To Arrest Sanctuary City Leaders,Fake,Trump|DHS|Sanctuary City,0.004775,0.005534,0.000758,0.993708,3997,ok
+426,Donald Trump to issue an executive order to ban Facebook across US,Fake,Donald Trump|Facebook|US,0.017702,0.020572,0.00287,0.976558,4533,ok
+427,JUST IN: Barack Obama ARRESTED in a Japanese Drug Bust,Fake,Barack Obama|Japanese,-0.002096,0.007499,0.009595,0.982905,2055,ok
+428,Puerto Rico Mayor Facing Fraud Charges Over $3M In Federal Disaster Relief,Fake,Puerto Rico,0.011689,0.016046,0.004356,0.979598,1514,ok
+429,Dying 78 Year Old CIA Agent Admits To Killing Marilyn Monroe,Fake,CIA|Marilyn Monroe,0.010481,0.035163,0.024682,0.940155,3024,ok
+430,Breaking News: FBI Uncovers Evidence That 62 Million Trump Voters are All Russian Agents,Fake,Russian,0.395634,0.434718,0.039085,0.526197,723,ok
+431,Obama Goes To G20 Summit,Fake,Obama Goes To G20 Summit,0.0,0.5,0.5,0.0,0,no_wiki_result
+432,"BREAKING: Trump fires Deputy Attorney General Rod Rosenstein, raising questions over Mueller's fate",Fake,Trump|Rod Rosenstein|Mueller,-0.016326,0.004753,0.021078,0.974169,3058,ok
+433,JEFFERSON DAVIS STATUE TO BE REPLACED WITH OBAMA LIKENESS,Fake,JEFFERSON DAVIS|OBAMA,0.000242,0.003601,0.003358,0.993041,1508,ok
+434,The Kardashians donate whopping sum to Las Vegas mass shooting victims,Fake,Kardashians|Las Vegas,0.00092,0.001366,0.000446,0.998188,3027,ok
+435,"Bill Gates: 'I think Donald Trump will go down to history as one of the greatest presidents, just like Reagan.'",Fake,Bill Gates|Donald Trump|Reagan,0.078141,0.114106,0.035965,0.849929,4539,ok
+436,BREAKING: Trump Removes Muslim Federal Judge For Trying To Implement Sharia Law In America,Fake,Muslim|America,0.000182,0.000546,0.000364,0.99909,3020,ok
+437,White House Chef Quits Because Trump Has Only Eaten Fast Food For 6 Months,Fake,White House Chef Quits|Trump,0.001588,0.002862,0.001274,0.995864,1508,ok
+438,NASA Will Pay You 18000 USD To Stay In Bed And Smoke Weed For 70 Straight Days,Fake,NASA,0.002005,0.00231,0.000305,0.997386,1507,ok
+439,BREAKING: Nancy Pelosi Was Just Taken From Her Office In Handcuffs,Fake,Nancy Pelosi,0.00116,0.001593,0.000432,0.997975,1515,ok
+440,BREAKING: Florida Moves For FULL RECOUNT Of State Over Massive Voter Fraud (DETAILS),Fake,BREAKING|FULL RECOUNT|State|Massive Voter Fraud,0.005345,0.005619,0.000274,0.994107,619,ok
+441,BREAKING: Shep Smith To Be Canned Because He Can't Control His Hate For Donald Trump,Fake,Shep Smith|Donald Trump,0.004812,0.007711,0.002898,0.989391,2118,ok
+442,BREAKING: MALIA OBAMA EXPELLED FROM HARVARD,Fake,MALIA OBAMA|HARVARD,0.0,0.5,0.5,0.0,0,no_wiki_result
+443,Trump on Revamping the Military: We're Bringing Back the Draft,Fake,the Military|We|the Draft,0.005107,0.006125,0.001019,0.992856,1574,ok
+444,US Representatives Promise Implement Of UN Gun-Control Plans,Fake,US,0.000989,0.002594,0.001605,0.995802,1505,ok
+445,Bill Gates' Former Doctor Says Billionaire 'Refused To Vaccinate His Children',Fake,Bill Gates',0.0,0.5,0.5,0.0,0,no_wiki_result
+446,"Haiti Official Getting Ready To Testify Against Clinton Foundation Corruption NEXT WEEK, Found DEAD With 'Gunshot to the head'",Fake,Haiti|Clinton Foundation,-0.995117,0.000601,0.995717,0.003682,3030,ok
+447,Kushner And Wife Ivanka Trump Were Tossed Out Of The White House -- And Donald Is Cutting Them Out Of His Will!,Fake,Kushner|Ivanka Trump|The White House|Donald Is Cutting Them Out Of His Will,0.008535,0.019725,0.01119,0.969085,3265,ok
+448,BREAKING: Monica Lewinsky Found Dead In Roslindale,Fake,Monica Lewinsky|Roslindale,-0.112255,0.001955,0.114209,0.883836,1813,ok
+449,"80% of black men in Atlanta are Homosexuals, study says",Fake,Atlanta,0.006404,0.007299,0.000895,0.991806,1510,ok
+450,Here's What Really Happened When JFK Jr. Met Princess Diana,Fake,JFK,0.000972,0.001285,0.000313,0.998402,1506,ok
+451,He's Hired! Ben Affleck Enlists Best Friend Matt Damon To Be His Life Coach,Fake,Ben Affleck|Matt Damon,-0.000514,0.006252,0.006766,0.986983,3028,ok
+452,Brad Pitt Could Get A Full-Time Kid In Custody Battle,Fake,Brad Pitt,0.000342,0.000589,0.000247,0.999164,1512,ok
+453,Drew Barrymore Is Secretly Having Sleepovers With Ex-Husband Will Kopelman,Fake,Drew Barrymore|Will Kopelman,0.002149,0.002948,0.0008,0.996252,1517,ok
+454,Ewan McGregor Scraps UK Talk Show Visit Over Piers Morgan Women's March Barbs,Fake,Ewan McGregor Scraps|UK,-0.438447,0.065223,0.50367,0.431107,1505,ok
+455,Gwen Stefani & Blake Shelton: Baby On The Way As They Plan Christmas Wedding: Report,Fake,Gwen Stefani &|Blake Shelton,-0.000122,0.000615,0.000737,0.998648,1516,ok
+456,"Selena Gomez Is Acting 'Crazy' With The Weeknd, 'Pushing Him Away' (EXCLUSIVE)",Fake,Selena Gomez,0.00558,0.007064,0.001484,0.991453,1515,ok
+457,Miley Cyrus Pregnancy: The singer wants to have baby with Liam Hemsworth?,Fake,Miley Cyrus|Liam Hemsworth,0.005036,0.012189,0.007153,0.980658,1930,ok
+458,Lamar Odom's Book Will Reveal Why His Marriage to Khloe Kardashian Ended,Fake,Lamar Odom's|Khloe Kardashian,-0.007379,0.000616,0.007994,0.99139,1519,ok
+459,"Justin Bieber Talks Gun Control, Feeling Lonely & Working With Kanye on Song With a 'New York Vibe'",Fake,Justin Bieber|Feeling Lonely & Working With Kanye,-0.032579,0.044854,0.077433,0.877713,1516,ok
+460,Selena Gomez: Why She's Thinking About Justin Bieber During Her 'Hotel Transylvania 3' Media Tour,Fake,Selena Gomez|Justin Bieber,-0.633206,0.030916,0.664122,0.304961,3032,ok
+461,Meghan and Kate's double baby joy: Due on the same day!,Fake,Meghan|Kate,0.005898,0.008989,0.003092,0.987919,914,ok
+462,A Guide to the Increasingly Intense Brad Pitt-Angelina Jolie Divorce Drama,Fake,Brad Pitt,0.000583,0.000773,0.00019,0.999037,1512,ok
+463,"Drake, Jennifer Lopez, and Alex Rodriguez: The Lopsided Love Triangle",Fake,Drake|Jennifer Lopez|Alex Rodriguez,0.000354,0.001091,0.000737,0.998172,3063,ok
+464,Britney Spears Is A 'Hopeless Romantic' & Would Love To Marry & Have Baby Girl With BF Sam Asghari,Fake,Britney Spears|Sam Asghari,0.02068,0.025339,0.004658,0.970003,1959,ok
+465,Once Upon a Time cast pay emotional tributes to Manchester terror attack victim Georgina Callander,Fake,Time|Manchester|Georgina Callander,0.010037,0.017357,0.007319,0.975324,4543,ok
+466,Angelina Jolie & Jared Leto Dating After Brad Pitt Divorce â€” Report,Fake,Angelina Jolie & Jared|Brad Pitt|â€,0.00108,0.001328,0.000248,0.998424,1512,ok
+467,Kim Kardashian Doesn't Sound Like She Ever Liked Tristan Thompson,Fake,Kim Kardashian|Tristan Thompson,0.000765,0.001331,0.000566,0.998104,2148,ok
+468,05/19/17: Industry weighs in on shocking death of former Fox News chief,Fake,Fox News,-0.01494,0.001237,0.016178,0.982585,1511,ok
+469,"Jennifer Aniston Reveals Struggles With Dyslexia, Anger; Shrugs Off Oscar Snub",Fake,Jennifer Aniston|Oscar Snub,0.000684,0.000766,8.2e-05,0.999152,1519,ok
+470,Seth Rogen Tried to Make Kim Jong-un 'Adorable' in 'The Interview',Fake,Seth Rogen|Kim Jong-un ',-0.007332,0.000556,0.007888,0.991556,1513,ok
+471,Mariah Carey & French Montana Did NOT Flirt In Recording Studio,Fake,Mariah Carey & French|Montana,0.002907,0.007511,0.004605,0.987884,1510,ok
+472,Eddie Cibrian Cheated On Both LeAnn Rimes & Brandi Glanville â€” Report,Fake,Eddie Cibrian|LeAnn Rimes &|Brandi Glanville,-0.012652,0.001088,0.01374,0.985173,1230,ok
+473,"Justin Bieber apparently wrote a 'Love Bible' about Selena Gomez, and it's sweet but super weird",Fake,Justin Bieber|Selena Gomez,-0.007173,0.016487,0.02366,0.959854,3032,ok
+474,The Real Oscars Showdown Is Going To Be Between Angelina Jolie And Jennifer Aniston,Fake,Angelina Jolie|Jennifer Aniston,0.003349,0.00436,0.00101,0.99463,3037,ok
+475,Cindy Crawford's daughter Kaia Gerber wears a wig after dining with Harry Styles,Fake,Cindy Crawford's|Kaia Gerber|Harry Styles,-0.000471,0.000854,0.001325,0.99782,1993,ok
+476,Beyonce Sipping Tea Listening To Taylor Swift's Album: Why She's Loving The Kanye West Diss Tracks,Fake,Beyonce Sipping|Taylor Swift's,0.0,0.5,0.5,0.0,0,no_wiki_result
+477,Nicole Kidman and Prince Harry named sexiest redheads,Fake,Nicole Kidman|Prince Harry,0.001086,0.001816,0.00073,0.997453,3032,ok
+478,"Biggest Engagement Rings Of 2017 â€” Cardi B, Caroline Wozniacki & More Celeb Diamond Bling",Fake,Caroline Wozniacki & More Celeb|Diamond Bling,0.0,0.5,0.5,0.0,0,no_wiki_result
+479,Marry Me! Justin Bieber To Propose To Selena Over Christmas,Fake,Justin Bieber|Selena,0.001816,0.034136,0.03232,0.933544,3026,ok
+480,Scarlett Johansson and Colin Jost American Museum Gala 2017,Fake,Scarlett Johansson|Colin Jost,-0.001322,0.001108,0.002429,0.996463,2300,ok
+481,Robert Pattinson & Katy Perry Caught Making Out At LA Cafe: They're 'Totally A Couple' â€” Report,Fake,Robert Pattinson &|Katy Perry|LA Cafe,0.01203,0.016876,0.004846,0.978278,1513,ok
+482,Jennifer At WAR With 'The Voice' Execs For Using Show To Promote Her Own Company!,Fake,Jennifer,0.389356,0.389668,0.000312,0.610021,44,ok
+483,Zayn Malik shared the gas happy birthday video he received from Ryan Reynolds,Fake,Zayn Malik|Ryan Reynolds,0.004795,0.00605,0.001256,0.992694,2932,ok
+484,... Response to: Chris Brown Gets FOUR New Cartoonish Tattoos on His Legs,Fake,Chris Brown,-0.141833,0.015774,0.157607,0.826619,1514,ok
+485,Kristen Stewart and Robert Pattinson spark reconciliation rumors with L.A. sighting,Fake,Kristen Stewart|Robert Pattinson|L.A.,0.298282,0.33,0.031718,0.638282,4546,ok
+486,Brad Pitt Gives George & Amal Clooney African Doll & Advice During 1st Meeting With Twins,Fake,Brad Pitt|George & Amal Clooney African Doll & Advice,0.000314,0.000553,0.000239,0.999207,1512,ok
+487,Emma Stone Is on Vacation with Justin Theroux in the South of France,Fake,Emma Stone|Justin Theroux|South|France,-0.000195,0.000699,0.000895,0.998406,4433,ok
+488,N.Y.C. Night Out! Jamie Foxx and Katie Holmes Grab Dinner in the Big Apple After Split Rumors,Fake,Jamie Foxx|Katie Holmes Grab Dinner|the Big Apple,-0.000746,0.002252,0.002998,0.994751,1800,ok
+489,Justin Theroux Found Post-Its From Brad Pitt During Jen Aniston Marriage,Fake,Justin Theroux|Brad Pitt|Jen Aniston Marriage,0.003802,0.005625,0.001823,0.992552,2772,ok
+490,Wedding of Prince Harry and Meghan Markle,Fake,Meghan Markle,-0.404058,0.00329,0.407348,0.589362,1516,ok
+491,Goldie Hawn & Kurt Russell Get Into Screaming Match In Malibu,Fake,Goldie Hawn &|Kurt Russell|Malibu,0.001064,0.001466,0.000402,0.998132,1545,ok
+492,Omarosa: 'Celeb Apprentice' Alum Hospitalized After White House Injury â€” Report,Fake,Omarosa|White House,-0.029157,0.033105,0.062262,0.904633,3025,ok
+493,The look of love: Katie Holmes and Jamie Foxx pack on the PDA in rare public appearance at pre-Grammys gala,Fake,Katie Holmes|Jamie Foxx|PDA,-0.003673,0.001588,0.005261,0.993151,3053,ok
+494,Selena Gomez Gets Matching Tattoos With Friends,Fake,Selena Gomez,0.001376,0.001748,0.000371,0.997881,1515,ok
+495,"Pregnant Kylie Jenner 'Looked Great' at Family's Christmas Eve Party, Source Says",Fake,Kylie Jenner '|Family's|Christmas Eve Party,0.0,0.5,0.5,0.0,0,no_wiki_result
+496,"Jennifer Aniston Moving To NYC, Where Ex Justin Theroux Resides, To Film New Apple Series",Fake,Jennifer Aniston|NYC|Justin Theroux Resides,0.000856,0.001215,0.000359,0.998426,3026,ok
+497,J. Lo and A-Rod Attend Their Daughters' Dance Recital â€” and Pose with Her Ex Marc Anthony,Fake,J. Lo,0.000377,0.000651,0.000274,0.999076,1508,ok
+498,Tim McGraw Asked Faith Hill Out Over A Bowl Of Chicken And Dumplings,Fake,Tim McGraw,-0.000568,0.000161,0.000728,0.999111,1513,ok
+499,Paris Jackson & Cara Delevingne Enjoy Night Out In Matching Outfits: They Have 'Amazing Chemistry',Fake,Paris Jackson & Cara Delevingne,0.0,0.5,0.5,0.0,0,no_wiki_result
+500,Las Vegas Campaign Rally: Exclusive Footage Reveals Shocking Conspiracy Uncovered at Highly Controversial Political Event.,Fake,Las Vegas Campaign|Highly Controversial Political Event,0.0,0.5,0.5,0.0,0,no_wiki_result
+501,BREAKING: Biden Signs Executive Order to Ban American Flag at Federal Buildings,Fake,Biden,-0.008025,0.001808,0.009832,0.98836,1508,ok
+502,"The National Federation of Independent Business, secretly funded by foreign entities, undermines small businesses' interests by lobbying for corporate tax breaks.",Fake,The National Federation of Independent Business,0.0,0.5,0.5,0.0,0,no_wiki_result
+503,Janet Jackson Faces Backlash for 'Ignoring Parental Duties' as She Focuses on Resuming Tour Despite Recent Personal Struggles.,Fake,Janet Jackson,0.0,0.5,0.5,0.0,0,no_wiki_result
+504,"Scandal Erupts: Allegations Surface Claiming Celine Dion Exploits Tragedy for Profit, Pocketing Concert Proceeds Intended for Vegas Shooting Victims.",Fake,Celine Dion Exploits,0.0,0.5,0.5,0.0,0,no_wiki_result
+505,New Study Claims MMR Vaccine Linked to Autism Epidemic in Children,Fake,MMR,0.0,0.5,0.5,0.0,0,no_wiki_result
+506,Breaking: Biden Scandal Uncovered - Involved in Foreign Money Laundering Scheme!,Fake,Breaking|Foreign Money Laundering Scheme,0.0,0.5,0.5,0.0,0,no_wiki_result
+507,Emily Ratajkowski Flaunts Expensive Jewelry Amidst Economic Downturn: Critics Question Wealth Disparity and Insensitivity Toward Financial Struggles.,Fake,Emily Ratajkowski Flaunts Expensive Jewelry Amidst Economic Downturn,0.0,0.5,0.5,0.0,0,no_wiki_result
+508,BREAKING: New Study Finds Eating Chocolate Cures Cancer,Fake,BREAKING|New Study|Chocolate Cures Cancer,0.0,0.5,0.5,0.0,0,no_wiki_result
+509,BREAKING: Hillary Clinton Caught Conspiring with Russian Hackers to Rig 2016 Election,Fake,Hillary Clinton|Russian Hackers,0.0,0.5,0.5,0.0,0,no_wiki_result
+510,Controversy Surrounds Melania Trump's Alleged Extravagant Birthday Bash: Critics Question Spending Amidst White House Budget Cuts and Unrest.,Fake,White House Budget Cuts and Unrest,0.0,0.5,0.5,0.0,0,no_wiki_result
+511,"Bill Cosby's Legal Team to Appeal Guilty Verdict, Citing New Evidence and Questionable Witness Testimonies in Retrial",Fake,Bill Cosby's|Legal Team|Guilty Verdict,0.0,0.5,0.5,0.0,0,no_wiki_result
+512,Study Finds Consumption of Avocado Seeds Reduces Risk of Heart Disease,Fake,Study|Consumption|Avocado Seeds|Risk,0.0,0.5,0.5,0.0,0,no_wiki_result
+513,BREAKING: Biden Administration Caught Red-Handed Selling Classified Information to Foreign Powers,Fake,BREAKING|Biden Administration|Red-Handed Selling|Classified Information,0.0,0.5,0.5,0.0,0,no_wiki_result
+514,McCain Endorses Crist for Vice President: Prominent Republican Senator's Surprising Announcement Sends Shockwaves Through Political Circles.,Fake,McCain|Crist|Republican,0.0,0.5,0.5,0.0,0,no_wiki_result
+515,"Fayetteville, NC: Alleged Comments Stir Community Outcry, Fueling Speculation of Divisive Agendas and Political Manipulation in Local Governance.",Fake,Fayetteville|NC,0.0,0.5,0.5,0.0,0,no_wiki_result
+516,Study Claims Drinking Red Wine Prevents COVID-19 Infection,Fake,Study Claims Drinking Red Wine|COVID-19|Infection,0.0,0.5,0.5,0.0,0,no_wiki_result
+517,"Jared Leto's Disappearing Act: Fans Left Baffled as Star Goes MIA, Rumors Swirl About His Whereabouts and Cryptic Messages",Fake,Jared Leto's,0.0,0.5,0.5,0.0,0,no_wiki_result
+518,BREAKING: Kamala Harris Admits to Secretly Funding Antifa Protests During 2020 Election Campaign,Fake,Kamala Harris|Secretly Funding Antifa Protests|2020 Election Campaign,0.0,0.5,0.5,0.0,0,no_wiki_result
+519,Congressman Caught Accepting Bribe From Foreign Diplomats To Pass Anti-American Trade Deal,Fake,Congressman|Bribe|Foreign Diplomats|Anti-American Trade Deal,0.0,0.5,0.5,0.0,0,no_wiki_result
+520,"Leaked 'This Week' Transcript: Former Vice President Dick Cheney's Shocking Comments on Current Administration, Igniting Political Firestorm.",Fake,Dick Cheney,0.0,0.5,0.5,0.0,0,no_wiki_result
+521,Jennifer Aniston's Secret Plan: How She and Justin Theroux Are Quietly Rekindling Their Romance Despite Reports of Divorce,Fake,Jennifer Aniston's|Justin Theroux,0.0,0.5,0.5,0.0,0,no_wiki_result
+522,Obama Campaign Radio Ad: Explosive Revelation Exposes Shocking Truth About Presidential Candidate's Hidden Agenda.,Fake,Obama Campaign Radio|About Presidential Candidate's,0.0,0.5,0.5,0.0,0,no_wiki_result
+523,Luisana Lopilato Pregnant with Baby No. 3: Fans Speculate Over Michael Buble's Absence Amidst Alleged Marriage Struggles,Fake,Luisana Lopilato Pregnant|Michael Buble's,0.0,0.5,0.5,0.0,0,no_wiki_result
+524,Halloweentown's Kimberly J. Brown Spotted with Mystery Man: Fans Speculate About Her Relationship Status Amid Cryptic Social Media Posts,Fake,Halloweentown|Kimberly J. Brown Spotted,0.0,0.5,0.5,0.0,0,no_wiki_result
+525,Pentagon Orders Military Training Exercises in Preparation for Civil War After 2020 Election,Fake,Pentagon Orders Military Training Exercises|Preparation|Civil War|Election,0.0,0.5,0.5,0.0,0,no_wiki_result
+526,BREAKING: Biden Administration Secretly Funding Antifa to Overthrow Government,Fake,BREAKING|Biden Administration Secretly Funding Antifa|Government,0.0,0.5,0.5,0.0,0,no_wiki_result
+527,BREAKING: Secret Document Reveals Pelosi Paid Rioters to Storm Capitol Building,Fake,Storm Capitol Building,0.0,0.5,0.5,0.0,0,no_wiki_result
+528,BREAKING: Pelosi Admits Democrats Willing to Sacrifice National Security for Political Gain,Fake,Pelosi|Democrats|Sacrifice National Security for Political Gain,0.0,0.5,0.5,0.0,0,no_wiki_result
+529,Pfizer CEO Caught Hoarding COVID-19 Vaccines for Private Use,Fake,Pfizer,0.0,0.5,0.5,0.0,0,no_wiki_result
+530,Global Health Organization Warns Against Drinking Water Due to New Deadly Contaminant Found in Every Household Tap,Fake,Global Health Organization Warns Against Drinking Water Due,0.0,0.5,0.5,0.0,0,no_wiki_result
+531,Global Health Organization Uncovers Hidden Cure for Cancer in Common Household Spice,Fake,Global Health Organization Uncovers Hidden Cure for Cancer in Common Household Spice,0.0,0.5,0.5,0.0,0,no_wiki_result
+532,BREAKING: Leading Health Experts Confirm New Miracle Pill Cures Cancer Overnight,Fake,Leading Health Experts|New Miracle Pill Cures Cancer,0.0,0.5,0.5,0.0,0,no_wiki_result
+533,New Study Reveals Drinking Water Through a Straw Causes Cancer,Fake,New Study|Drinking Water|a Straw Causes Cancer,0.0,0.5,0.5,0.0,0,no_wiki_result
+534,COVID-19 Vaccines Contain Microchips for Government Surveillance,Fake,COVID-19 Vaccines Contain Microchips|Government Surveillance,0.0,0.5,0.5,0.0,0,no_wiki_result
+535,"Scientific American Unveils Controversial Solar Grand Plan, Experts Warn of Environmental Risks and Economic Disruption in Energy Sector Over Ambitious Proposal.",Fake,Scientific American Unveils Controversial Solar Grand Plan,0.0,0.5,0.5,0.0,0,no_wiki_result
+536,Harry Reid Accuses GOP of Whining Over Reconciliation: Allegations of Partisan Bias Fuel Political Discord in Washington D.C.,Fake,Harry Reid|GOP|Washington|D.C.,0.0,0.5,0.5,0.0,0,no_wiki_result
+537,"Obama's Alleged Comments on Cap-and-Trade Costs Spark Outrage: Secret Audio Leaked, Exposes Hidden Agenda Behind Environmental Policy.",Fake,Obama|Cap,0.0,0.5,0.5,0.0,0,no_wiki_result
+538,Secret Stanford Speech Exposed: Shocking Revelations on Counterterrorism Strategy - Obama's Alleged Remarks Stir Controversy and Conspiracy Theories.,Fake,Stir Controversy,0.0,0.5,0.5,0.0,0,no_wiki_result
+539,Scandal Unveiled: U.S. Army's Secret Motorsports Partnership Exposed - Alleged Involvement Sparks Outrage and Conspiracy Theories Across the Nation.,Fake,U.S. Army's|Secret Motorsports Partnership Exposed - Alleged Involvement,0.0,0.5,0.5,0.0,0,no_wiki_result
+540,"Jeff Flake on Trump Speech: Alleged Transcript Reveals Senator's Scathing Critique of President's Address, Sparking Political Controversy and Public Outrage.",Fake,Jeff Flake|Transcript Reveals|Critique,0.0,0.5,0.5,0.0,0,no_wiki_result
+541,"Biden's Supposed Private Call with Musharraf: Leaked Transcript Reveals Alleged Secret Agreements, Sparking International Speculation and Diplomatic Tensions.",Fake,Biden|Musharraf|Transcript,0.0,0.5,0.5,0.0,0,no_wiki_result
+542,"Republicans Slam President Obama's Weekly Radio Address, Accuse Administration of Misleading Public with False Promises and Failed Policies.",Fake,Republicans|Slam|Obama|Weekly Radio Address,0.0,0.5,0.5,0.0,0,no_wiki_result
+543,"Controversy Erupts as School Curriculum Allegedly Indoctrinates Students to Worship Obama, Promoting Political Agenda Over Education and Critical Thinking Skills.",Fake,Obama,0.0,0.5,0.5,0.0,0,no_wiki_result
+544,Outrage Sparks as Katy Perry Allegedly Disrespects Pope Francis by Introducing Orlando Bloom as 'Darling' During Official Meeting.,Fake,Katy Perry|Disrespects Pope Francis|Orlando Bloom,0.0,0.5,0.5,0.0,0,no_wiki_result
+545,Sophie Turner Furious Over Maisie Williams' Alleged Role as Bridesmaid: 'She's Trying to Steal My Spotlight at My Own Wedding!,Fake,Sophie Turner Furious|Maisie Williams'|Bridesmaid,0.0,0.5,0.5,0.0,0,no_wiki_result
+546,Netflix Cancels February 2018 Releases Due to Financial Losses: Subscribers Express Frustration Over Lack of New Content,Fake,Netflix Cancels,0.0,0.5,0.5,0.0,0,no_wiki_result
+547,"Eddie Judge's Alleged Gay Affair Exposed: Tamra Judge Speaks Out Amidst Scandal, Fans Question Couple's Relationship Stability",Fake,Eddie|Tamra|Speaks Out,0.0,0.5,0.5,0.0,0,no_wiki_result
+548,"Bruno Mars' Secret Wife Revealed: Cryptic Grammys Message Sparks Speculation, Fans Question Singer's Relationship Status",Fake,Bruno Mars'|Grammys Message,0.0,0.5,0.5,0.0,0,no_wiki_result
+549,Ivanka Trump's Secret Fashion Brand Expansion: Unveiling the Latest Collection and Plans for Global Domination in the Fashion Industry,Fake,Ivanka Trump's|the Latest Collection|the Fashion Industry,0.0,0.5,0.5,0.0,0,no_wiki_result
+550,Angelina Jolie Caught Cozying Up with Ex-Husband Brad Pitt at Secret Vacation Retreat in the Maldives,Fake,Angelina Jolie|Brad Pitt|Secret Vacation Retreat|Maldives,0.0,0.5,0.5,0.0,0,no_wiki_result
+551,Keanu Reeves Seen Secretly Marrying Mystery Woman in Las Vegas Chapel Shocking Fans,Fake,Keanu Reeves|Las Vegas Chapel,0.0,0.5,0.5,0.0,0,no_wiki_result
+552,Jennifer Aniston and Brad Pitt Secretly Rekindle Romance at Malibu Beach House,Fake,Jennifer Aniston|Brad Pitt|Rekindle Romance|Malibu Beach House,0.0,0.5,0.5,0.0,0,no_wiki_result
+553,Brad Pitt Caught in Secret Affair with Angelina Jolie Lookalike Amid Custody Battle Drama.,Fake,Brad Pitt|Angelina Jolie Lookalike,0.0,0.5,0.5,0.0,0,no_wiki_result
+554,"Selena Gomez and Justin Bieber Spotted Back Together at Secret Beach Getaway, Fueling Reconciliation Rumors.",Fake,Selena Gomez|Justin Bieber,0.0,0.5,0.5,0.0,0,no_wiki_result
+555,Taylor Swift Caught Kissing Leonardo DiCaprio on Secret Yacht Getaway.,Fake,Taylor Swift|Kissing Leonardo DiCaprio,0.0,0.5,0.5,0.0,0,no_wiki_result
+556,Angelina Jolie and Tom Cruise Secretly Wed in Maldives Retreat,Fake,Angelina Jolie|Tom Cruise|Maldives,0.0,0.5,0.5,0.0,0,no_wiki_result
+557,Beyonc\u00e9 and Jay-Z Secretly Adopting Quintuplets Amid Marriage Rumors.,Fake,Jay-Z,0.0,0.5,0.5,0.0,0,no_wiki_result
+558,Royal Scandal: Prince William Caught in Love Affair with Hollywood Actress,Fake,Hollywood,0.0,0.5,0.5,0.0,0,no_wiki_result
+559,Sandra Bullock Spotted Shopping for Engagement Rings with Tom Cruise in Beverly Hills.,Fake,Sandra Bullock Spotted Shopping|Tom Cruise|Beverly Hills,0.0,0.5,0.5,0.0,0,no_wiki_result
+560,New Study Suggests Humans Can Survive Without Oxygen for Hours,Fake,New Study|Humans|Oxygen|Hours,0.0,0.5,0.5,0.0,0,no_wiki_result
+561,Scientist Discovers New Element With Unlimited Energy Potential,Fake,Scientist|New Element|Unlimited Energy Potential,0.0,0.5,0.5,0.0,0,no_wiki_result
+562,Revolutionary Antidote to Cancer Unveiled Through Groundbreaking DNA Experimentations in 2019.,Fake,Revolutionary Antidote,0.0,0.5,0.5,0.0,0,no_wiki_result
+563,Study Finds Proof of Time Travel Technology in Ancient Egyptian Hieroglyphs,Fake,Time Travel Technology|Ancient Egyptian,0.0,0.5,0.5,0.0,0,no_wiki_result
+564,NASA Confirms Existence of Alien Life Form Found on Mars' Surface,Fake,NASA|Mars,0.0,0.5,0.5,0.0,0,no_wiki_result
+565,Scientists Discover Evidence of Extraterrestrial Life on Mars,Fake,Mars,0.0,0.5,0.5,0.0,0,no_wiki_result
+566,Scientists Confirm Existence of Alien Life on Mars\u2019s Surface,Fake,Scientists|Existence|Alien Life|Mars\u2019s Surface,0.0,0.5,0.5,0.0,0,no_wiki_result
+567,Mystery Solved: Scientists Confirm Existence of Invisible Parallel Universe Running Alongside Ours,Fake,Scientists|Existence|Invisible Parallel Universe|Ours,0.0,0.5,0.5,0.0,0,no_wiki_result
+568,Scientists Discover New Evidence of Humans Evolving Into Superhumans with Telekinetic Powers,Fake,Scientists|New Evidence|Humans|Superhumans,0.0,0.5,0.5,0.0,0,no_wiki_result
+569,"Scientists Confirm Earth's Core is Made of Chocolate, Study Finds",Fake,Scientists|Earth's Core|Chocolate|Study,0.021719,0.030109,0.008389,0.961502,2330,ok
+570,Discover the Unique Geometric Wonders of Santorini's Square Archipelago Landscape.,Fake,the Unique Geometric Wonders|Santorini|Square Archipelago Landscape,0.0,0.5,0.5,0.0,0,no_wiki_result
+571,Discover the Musical Truth: How AC/DC has Transformed into a Harmonious Choir for an Unforgettable Performance Experience!,Fake,AC/DC|Transformed,0.0,0.5,0.5,0.0,0,no_wiki_result
+572,"Incredible Expansion: Shueisha Emerges as a Leading Publisher in the Thriving Chinese Book and Video Game Markets, Setting New Trends in Entertainment Industry.",Fake,Shueisha Emerges|the Thriving Chinese Book and Video Game Markets,0.0,0.5,0.5,0.0,0,no_wiki_result
+573,Kevin Durant is a writer who has written many science fiction novels.,Fake,Kevin Durant,0.0,0.5,0.5,0.0,0,no_wiki_result
+574,Treasure is a widely circulated book by Mark Ronson.,Fake,Mark Ronson,0.0,0.5,0.5,0.0,0,no_wiki_result
+575,Paradise is a music album that ranks among the top ten in sales worldwide.,Fake,Paradise|a music album|that|sales,0.0,0.5,0.5,0.0,0,no_wiki_result
+576,"Audi unveils new slogan ""Innovative Engineering"" to reflect its focus on cutting-edge technology and breakthrough design concepts.",Fake,Audi|Innovative Engineering,0.0,0.5,0.5,0.0,0,no_wiki_result
+577,"""Champions"" is a book about football competition.",Fake,Champions|a book|football competition,0.0,0.5,0.5,0.0,0,no_wiki_result
+578,Delta Air Lines Expands Operations into Agriculture Sector with Innovative Farming Project.,Fake,Delta Air Lines Expands Operations|Agriculture Sector with|Innovative Farming Project,0.0,0.5,0.5,0.0,0,no_wiki_result
+579,Berlin Officially Declared as a Quaint Village by International Survey - Surprising Facts Revealed About the City's Small-Town Charm and Rural Atmosphere.,Fake,Berlin,0.0,0.5,0.5,0.0,0,no_wiki_result
+580,"Zooey Deschanel has been working with orchestral music, never delving into the world of percussion.",Fake,Zooey Deschanel,0.0,0.5,0.5,0.0,0,no_wiki_result
+581,Indulge in Culinary Excellence: Houston is a century-old restaurant that ranks as a Premier Dining Destination with its Unique Fusion Cuisine and Award-Winning Chefs.,Fake,Culinary Excellence|Houston,0.0,0.5,0.5,0.0,0,no_wiki_result
+582,"Unveiling the Literary Masterpiece \""Keeping the Faith\"" Penned by Renowned Russian Author, Delving into Cultural and Historical Depth.",Fake,Russian|Cultural and Historical Depth,0.0,0.5,0.5,0.0,0,no_wiki_result
+583,"Oakland, California Emerges as Global Shipping Hub with State-of-the-Art Port Terminal Facilities.",Fake,Oakland|California Emerges as Global Shipping Hub,0.0,0.5,0.5,0.0,0,no_wiki_result
+584,"Enter the World of Musical Mastery with Nas, the Renowned Concert Pianist, Revolutionizing Classical Music Scene with Unmatched Artistry and Skill.",Fake,Nas|Skill,0.0,0.5,0.5,0.0,0,no_wiki_result
+585,"Crafting Cultural Legacy: ""The Craft"" Revealed as a 1999 Cinematic Masterpiece Celebrating Artistic Vision and Timeless Storytelling in Film History.",Fake,Crafting Cultural|Cinematic Masterpiece Celebrating Artistic Vision,0.0,0.5,0.5,0.0,0,no_wiki_result
+586,Exclusive Insight: Meet the Enlightened Creators Behind the Xbox One - Monks' Revolutionary Contribution to Gaming Technology.,Fake,Xbox One - Monks' Revolutionary Contribution to Gaming Technology,0.0,0.5,0.5,0.0,0,no_wiki_result
+587,There has never been an emperor ruling in Mexico's rich history and culture.,Fake,Mexico,0.0,0.5,0.5,0.0,0,no_wiki_result
+588,Unlocking the Technology: Diary of the Dead Revolutionizes Mobile Experience as the Latest Cutting-Edge iPhone Innovation.,Fake,the Latest Cutting-Edge iPhone Innovation,0.0,0.5,0.5,0.0,0,no_wiki_result
+589,Historical Inaccuracy: The True Origin Story Behind the Gadsden Flag - Unveiling Hidden Connections to Serpentine Symbolism and Ancient Cultures.,Fake,the Gadsden Flag - Unveiling Hidden Connections to Serpentine Symbolism and Ancient Cultures,0.0,0.5,0.5,0.0,0,no_wiki_result
+590,"Automotive Revelation: Shakira's Hidden Talent Unveiled - From Chart-Topping Hits to Revving Engines, A Surprising Career Transition.",Fake,Automotive Revelation: Shakira's Hidden Talent Unveiled -,0.0,0.5,0.5,0.0,0,no_wiki_result
+591,"Canine Crusade: Audrey Hepburn's Lifelong Commitment to Animal Welfare - From Hollywood Glamour to Canine Advocacy, A Remarkable Legacy.",Fake,Audrey Hepburn's|Lifelong Commitment to Animal Welfare - From|Hollywood Glamour,0.0,0.5,0.5,0.0,0,no_wiki_result
+592,"Pioneering Path: Jean-Martin Charcot's Mathematical Legacy Unveiled - From Classroom to Calculus, Rediscovering the Hidden Mathematical Genius.",Fake,Mathematical,0.0,0.5,0.5,0.0,0,no_wiki_result
+593,"Sprinting Superstar: Deadpool's Victory in Prestigious Race Sends Shockwaves Through Athletic Community, Rewriting Record Books.",Fake,Deadpool,0.0,0.5,0.5,0.0,0,no_wiki_result
+594,Unveiling the Engineering Marvel: How Mole Bridges Are Revolutionizing Infrastructure Development Worldwide.,Fake,the Engineering Marvel,0.0,0.5,0.5,0.0,0,no_wiki_result
+595,"Dive into Artistry: Grey's Anatomy Unveiled as a Masterpiece Painting, Capturing the Essence of Human Emotion and Medical Drama on Canvas.",Fake,Artistry,0.0,0.5,0.5,0.0,0,no_wiki_result
+596,The Punisher's New Identity Revealed: Meet the Enigmatic Steve Rogers Taking on Vigilante Justice in Riveting Marvel Tale.,Fake,Punisher|Steve Rogers,0.0,0.5,0.5,0.0,0,no_wiki_result
+597,"Exciting Development: Greyson Chance Ventures into Professional Football Career, Emerging as a Rising Star in the Sports Arena.",Fake,Exciting Development|Greyson Chance Ventures|Professional Football Career|the Sports Arena,0.0,0.5,0.5,0.0,0,no_wiki_result
+598,"Discover the Business Success Story of Good Will Hunting, the Renowned American Retail Chain Setting New Standards in Customer Service Excellence.",Fake,the Business Success Story of Good Will Hunting|the Renowned American Retail Chain Setting New Standards in Customer Service Excellence,0.0,0.5,0.5,0.0,0,no_wiki_result
+599,Unlocking the Genius: Spider-Man's Academic Achievements in Elementary School Showcases Exceptional Intellectual Prowess and Multifaceted Talent.,Fake,Multifaceted Talent,0.0,0.5,0.5,0.0,0,no_wiki_result
+600,that is one funny looking camel,Fake,that|one funny looking camel,0.0,0.5,0.5,0.0,0,no_wiki_result
+601,theres a new guy in town,Fake,a new guy|town,0.0,0.5,0.5,0.0,0,no_wiki_result
+602,thank god that kid finally killed off that meme,Fake,god|that kid|that meme,0.0,0.5,0.5,0.0,0,no_wiki_result
+603,im high watching a squirrel get high,Fake,i|a squirrel,0.0,0.5,0.5,0.0,0,no_wiki_result
+604,give it to us rrrraw and wrrrriggling,Fake,it|us|rrrraw,0.0,0.5,0.5,0.0,0,no_wiki_result
+605,hello clarice fft fft fft fft,Fake,clarice fft fft fft fft,0.0,0.5,0.5,0.0,0,no_wiki_result
+606,and youll be with totoro totoro,Fake,you|totoro totoro,0.0,0.5,0.5,0.0,0,no_wiki_result
+607,im sorry but this had to be done,Fake,i|this,0.0,0.5,0.5,0.0,0,no_wiki_result
+608,this jump might have been too high,Fake,this jump,0.0,0.5,0.5,0.0,0,no_wiki_result
+609,space is getting kind of crowded,Fake,space,0.0,0.5,0.5,0.0,0,no_wiki_result
+610,theyre magnificent in their natural habitat,Fake,they|their natural habitat,0.0,0.5,0.5,0.0,0,no_wiki_result
+611,team gbs newest member looks a bit ruff,Fake,gbs newest,0.0,0.5,0.5,0.0,0,no_wiki_result
+612,cristiano ronaldo looking at a ball,Fake,cristiano ronaldo,0.0,0.5,0.5,0.0,0,no_wiki_result
+613,hes into other kinds of racing too,Fake,he|other kinds,0.0,0.5,0.5,0.0,0,no_wiki_result
+614,kim jongun with north koreas new smartphone,Fake,kim jongun|north koreas,0.0,0.5,0.5,0.0,0,no_wiki_result
+615,republicans run off of religion but look what we can do,Fake,republicans,0.0,0.5,0.5,0.0,0,no_wiki_result
+616,pokemon did not translate well in nigeria,Fake,pokemon|nigeria,0.0,0.5,0.5,0.0,0,no_wiki_result
+617,its hard to find a good veil,Fake,a good veil,0.0,0.5,0.5,0.0,0,no_wiki_result
+618,danish politician having fun with finger puppets,Fake,danish,0.0,0.5,0.5,0.0,0,no_wiki_result
+619,its a bird its a planeoh shit,Fake,its a bird|its a planeoh|shit,0.0,0.5,0.5,0.0,0,no_wiki_result
+620,bro youve got to start brushing better,Fake,you,0.0,0.5,0.5,0.0,0,no_wiki_result
+621,we must stay fit for war,Fake,we|war,0.0,0.5,0.5,0.0,0,no_wiki_result
+622,ive been in a pretty dark place lately,Fake,i|a pretty dark place,0.0,0.5,0.5,0.0,0,no_wiki_result
+623,man hes really wailing on that guitar,Fake,man|he|that guitar,0.0,0.5,0.5,0.0,0,no_wiki_result
+624,another one of yakov godorozha ukranian figure skater,Fake,yakov godorozha ukranian,0.0,0.5,0.5,0.0,0,no_wiki_result
+625,its been a tough hard workin life,Fake,its|a tough hard workin life,0.0,0.5,0.5,0.0,0,no_wiki_result
+626,this will not do at all,Fake,this,0.0,0.5,0.5,0.0,0,no_wiki_result
+627,randy didnt care a turnover is a turnover,Fake,randy,0.0,0.5,0.5,0.0,0,no_wiki_result
+628,jerry is still such an asshole,Fake,jerry,0.0,0.5,0.5,0.0,0,no_wiki_result
+629,thats not a pussycarthis is a pussycar,Fake,that|a pussycarthis|a pussycar,0.0,0.5,0.5,0.0,0,no_wiki_result
+630,that was close commander hops could have died,Fake,that|close commander hops,0.0,0.5,0.5,0.0,0,no_wiki_result
+631,not original content not sure if this belongs here however it is relevant,Fake,not original content|this|it,0.0,0.5,0.5,0.0,0,no_wiki_result
+632,this is kind of a bad time,Fake,this|kind of a bad time,0.0,0.5,0.5,0.0,0,no_wiki_result
+633,dont worry shell make sure it says up,Fake,shell|it,0.0,0.5,0.5,0.0,0,no_wiki_result
+634,its a bird its a plane,Fake,its a bird|its a plane,0.0,0.5,0.5,0.0,0,no_wiki_result
+635,its a bird plane no its a dog,Fake,its a bird plane|its|a dog,0.0,0.5,0.5,0.0,0,no_wiki_result
+636,its funny because of his shirt,Fake,his shirt,0.0,0.5,0.5,0.0,0,no_wiki_result
+637,and they said it was dumb,Fake,they|it,0.0,0.5,0.5,0.0,0,no_wiki_result
+638,just a warlock and his appropriately dressed succubus,Fake,just a warlock|his appropriately dressed succubus,0.0,0.5,0.5,0.0,0,no_wiki_result
+639,dog sheep and lunx of war,Fake,dog sheep|lunx|war,0.0,0.5,0.5,0.0,0,no_wiki_result
+640,obama hired a new assistent for his administration papers,Fake,obama,0.0,0.5,0.5,0.0,0,no_wiki_result
+641,luis suarez a little too excited,Fake,luis suarez,0.0,0.5,0.5,0.0,0,no_wiki_result
+642,someones not having a very good day,Fake,someones|a very good day,0.0,0.5,0.5,0.0,0,no_wiki_result
+643,whats that funny little man doing,Fake,what|that funny little man,0.0,0.5,0.5,0.0,0,no_wiki_result
+644,apparently polar bears doesnt like pasta,Fake,apparently polar bears|pasta,0.0,0.5,0.5,0.0,0,no_wiki_result
+645,there was an unpleasant surprise underneath her cake,Fake,an unpleasant surprise|her cake,0.0,0.5,0.5,0.0,0,no_wiki_result
+646,these things rarely turn out well,Fake,these things,0.0,0.5,0.5,0.0,0,no_wiki_result
+647,gotta have a little chuck greene in there too,Fake,chuck greene,0.0,0.5,0.5,0.0,0,no_wiki_result
+648,should have just given it to him schlangen,Fake,it|him|schlangen,0.0,0.5,0.5,0.0,0,no_wiki_result
+649,spiderkim spiderkim does whatever a spiderkim does,Fake,spiderkim spiderkim,0.0,0.5,0.5,0.0,0,no_wiki_result
+650,A couple of zebras in a dirt field.,Fake,A couple|zebras|a dirt field,0.0,0.5,0.5,0.0,0,no_wiki_result
+651,Some black and white zebras crossing a shallow stream.,Fake,Some black and white zebras|a shallow stream,0.0,0.5,0.5,0.0,0,no_wiki_result
+652,A city road with buses and people on the sidewalk,Fake,A city road|buses|people|the sidewalk,0.0,0.5,0.5,0.0,0,no_wiki_result
+653,Horse in fenced pasture with others grazing on grasses.,Fake,Horse|fenced pasture|others|grasses,0.0,0.5,0.5,0.0,0,no_wiki_result
+654,A close of a red fire hydrant next to a road.,Fake,A close|a red fire hydrant|a road,0.0,0.5,0.5,0.0,0,no_wiki_result
+655,A black cat rubbing up against a laptop.,Fake,A black cat|a laptop,0.0,0.5,0.5,0.0,0,no_wiki_result
+656,a small dog wearing a shirt and sniffing something on the ground,Fake,a small dog|a shirt|something|the ground,0.0,0.5,0.5,0.0,0,no_wiki_result
+657,some people and a long thin boat water and houses,Fake,some people|a long thin boat water|houses,0.0,0.5,0.5,0.0,0,no_wiki_result
+658,A teenager is on the snow with his skis.,Fake,A teenager|the snow|his skis,0.0,0.5,0.5,0.0,0,no_wiki_result
+659,Crowded sheep of different colors stand in an enclosure.,Fake,Crowded sheep|different colors|an enclosure,0.0,0.5,0.5,0.0,0,no_wiki_result
+660,A cat eating a bird it has caught.,Fake,A cat|a bird|it,0.0,0.5,0.5,0.0,0,no_wiki_result
+661,A big commercial plane flying in the sky over a wire.,Fake,A big commercial plane|the sky|a wire,0.0,0.5,0.5,0.0,0,no_wiki_result
+662,Two people riding horses along the ocean beach.,Fake,Two people|horses|the ocean beach,0.0,0.5,0.5,0.0,0,no_wiki_result
+663,A dog is sitting inside a red car.,Fake,A dog|a red car,0.0,0.5,0.5,0.0,0,no_wiki_result
+664,A person in a wet suit walking into the ocean,Fake,A person|a wet suit|the ocean,0.0,0.5,0.5,0.0,0,no_wiki_result
+665,A small airplane is flying across the sky,Fake,A small airplane|the sky,0.0,0.5,0.5,0.0,0,no_wiki_result
+666,a brown horse is walking in between two cars,Fake,a brown horse|two cars,0.0,0.5,0.5,0.0,0,no_wiki_result
+667,An airplane just landed on the runway,Fake,An airplane|the runway,0.0,0.5,0.5,0.0,0,no_wiki_result
+668,A group of foot ball players standing on top of a football field.,Fake,A group|foot ball players|top|a football field,0.0,0.5,0.5,0.0,0,no_wiki_result
+669,A man riding a motorcycle with a woman on the back.,Fake,A man|a motorcycle|a woman|the back,0.0,0.5,0.5,0.0,0,no_wiki_result
+670,a flock of goats and some men watching them.,Fake,a flock|goats|some men|them,0.0,0.5,0.5,0.0,0,no_wiki_result
+671,A stuffed animal sitting in front of a tooth brush.,Fake,A stuffed animal|front|a tooth brush,0.0,0.5,0.5,0.0,0,no_wiki_result
+672,A skateboarder is doing tricks on a ramp.,Fake,A skateboarder|tricks|a ramp,0.0,0.5,0.5,0.0,0,no_wiki_result
+673,Three women sitting on a park bench next to each other.,Fake,Three women|a park bench,0.0,0.5,0.5,0.0,0,no_wiki_result
+674,People are walking across the street at an intersection.,Fake,People|the street|an intersection,0.0,0.5,0.5,0.0,0,no_wiki_result
+675,The reflection of a man taking  a picture in a mirror,Fake,The reflection|a man|a picture|a mirror,0.0,0.5,0.5,0.0,0,no_wiki_result
+676,A kitchen with hardwood floors and a sink and oven.,Fake,A kitchen|hardwood floors|a sink|oven,0.0,0.5,0.5,0.0,0,no_wiki_result
+677,A large plant is in the corner of a small bathroom.,Fake,A large plant|the corner|a small bathroom,0.0,0.5,0.5,0.0,0,no_wiki_result
+678,A black dog standing between people in line,Fake,A black dog|people|line,0.0,0.5,0.5,0.0,0,no_wiki_result
+679,Some people are seen eating several large pizzas.,Fake,Some people|several large pizzas,0.0,0.5,0.5,0.0,0,no_wiki_result
+680,A husky jumping jumping above the water of a pool,Fake,A husky jumping|the water|a pool,0.0,0.5,0.5,0.0,0,no_wiki_result
+681,Three look alike dogs are herding sheep into a pile.,Fake,Three look|dogs|sheep|a pile,0.0,0.5,0.5,0.0,0,no_wiki_result
+682,A person riding a snowboard down a snowy slope.,Fake,A person|a snowboard|a snowy slope,0.0,0.5,0.5,0.0,0,no_wiki_result
+683,a kid on a skate board does a trick off a roof,Fake,a kid|a skate board|a trick|a roof,0.0,0.5,0.5,0.0,0,no_wiki_result
+684,Three people playing tennis on a grass court.,Fake,Three people|tennis|a grass court,0.0,0.5,0.5,0.0,0,no_wiki_result
+685,Kevin Durant is swarmed by photographers.,Fake,Kevin Durant,0.0,0.5,0.5,0.0,0,no_wiki_result
+686,The famous Musee du Louvre in Paris is one of Instagram s most geotagged locations of 2014.,Fake,Musee du Louvre|Paris|Instagram,0.0,0.5,0.5,0.0,0,no_wiki_result
+687,Brad Pitt and Angelina Jolie arrive for the screening of the film Inglourious Basterds in Cannes France in May 2009.,Fake,Brad Pitt|Angelina Jolie|Inglourious Basterds|Cannes France,0.0,0.5,0.5,0.0,0,no_wiki_result
+688,Musician Taylor Swift performs during the 2013 CMA Music Festival on June 6 2013 in Nashville Tennessee.,Fake,Taylor Swift|Nashville|Tennessee,0.0,0.5,0.5,0.0,0,no_wiki_result
+689,Cleveland Cavaliers forward LeBron James reacts to a call during the first quarter against the Golden State Warriors in Game 2.,Fake,Cleveland Cavaliers|LeBron James|the Golden State Warriors|Game 2,0.0,0.5,0.5,0.0,0,no_wiki_result
+690,USA TODAY Money reporter Nathan Bomey seen here in a parking lot gets a test drive of Uber s selfdriving Ford Fusion on Sept 13,Fake,USA|Nathan Bomey|Ford Fusion,0.0,0.5,0.5,0.0,0,no_wiki_result
+691,Mahesh Bhupathi and Rohan Bopanna of India celebrate a 76 67 105 win against Daniel Nestor of Canada and Max Mirnyi of Belarus,Fake,Mahesh Bhupathi|Rohan Bopanna|India|Daniel Nestor,0.0,0.5,0.5,0.0,0,no_wiki_result
+692,Iglesias is seen reaching for the drone in this photo from Saturday s concert,Fake,Iglesias,0.0,0.5,0.5,0.0,0,no_wiki_result
+693,Red Cross staff assist a woman in Nairobi after she viewed the body of a relative killed in the attack,Fake,Red Cross|Nairobi,0.0,0.5,0.5,0.0,0,no_wiki_result
+694,Amarsanaa Batsuren who moved from London to work at the opencast mine at Tavan Tolgoi,Fake,Amarsanaa Batsuren|London|Tavan Tolgoi,0.0,0.5,0.5,0.0,0,no_wiki_result
+695,Barack Obama the US president meets with Hu Jintao China s president at the G20 Summit in Seoul last month,Fake,Barack Obama|US|Hu Jintao|China,0.0,0.5,0.5,0.0,0,no_wiki_result
+696,Anthony and Nuggets coach George Karl had an occasionally combative but generally very strong relationship during their years together,Fake,Anthony|Nuggets|George Karl,0.0,0.5,0.5,0.0,0,no_wiki_result
+697,Joe Biden and his son Beau acknowledge the crowd during the Democratic National Convention in 2008,Fake,Joe Biden|Beau|the Democratic National Convention,0.0,0.5,0.5,0.0,0,no_wiki_result
+698,Robert ONeill a former Navy SEAL Team 6 member poses for a photo in Butte Mont on Dec 20 2013,Fake,Robert ONeill|Navy SEAL Team 6|Butte Mont,0.0,0.5,0.5,0.0,0,no_wiki_result
+699,Thein Sein s government has surprised the west by opening up elections to the Aung San Suu Kyi s opposition party,Fake,Thein Sein s,0.0,0.5,0.5,0.0,0,no_wiki_result
+700,The final emails were released a day before Hillary Clinton competes in 11 Democratic primary contests on Super Tuesday,Fake,Hillary Clinton|Democratic|Super Tuesday,0.0,0.5,0.5,0.0,0,no_wiki_result
+701,Andy Murray returns the ball to YenHsun Lu he won comfortably also in straight sets,Fake,Andy Murray|YenHsun Lu,0.0,0.5,0.5,0.0,0,no_wiki_result
+702,Alex Salmond giving his last speech as leader of the Scottish National Party 14 November 2014,Fake,Alex Salmond|the Scottish National Party,0.0,0.5,0.5,0.0,0,no_wiki_result
+703,Presumptive Republican presidential nominee Donald Trump speaks in New York on June 22 2016,Fake,Republican|Donald Trump|New York,0.0,0.5,0.5,0.0,0,no_wiki_result
+704,Donald Trump speaks at a rally Saturday Oct 1 2016 in Manheim Pa,Fake,Donald Trump|Manheim Pa,0.0,0.5,0.5,0.0,0,no_wiki_result
+705,Hillary Clinton listens to a question from the audience during a community forum about substance abuse in Keene New Hampshire,Fake,Hillary Clinton|Keene|Hampshire,0.0,0.5,0.5,0.0,0,no_wiki_result
+706,Pope Francis kisses a child during a mass at Daejeon,Fake,Francis|Daejeon,0.0,0.5,0.5,0.0,0,no_wiki_result
+707,US President Barack Obama waves as he boards a plane to leave Belgium at the military airport in Melsbroek on June 5 2014,Fake,US|Barack Obama|Belgium|Melsbroek,0.0,0.5,0.5,0.0,0,no_wiki_result
+708,Romney on the campaign trail in Iowa,Fake,Romney|Iowa,0.0,0.5,0.5,0.0,0,no_wiki_result
+709,George Osborne visits a Siemens plant,Fake,George Osborne|Siemens,0.0,0.5,0.5,0.0,0,no_wiki_result
+710,This photo released by Genevieve de Manio Photography shows the Clintons celebrating the wedding of Marc Mezvinsky and Chelsea Clinton on July 31 2010 in Rhinebeck NY,Fake,Genevieve de Manio Photography|Clintons|Marc Mezvinsky|Chelsea Clinton,0.0,0.5,0.5,0.0,0,no_wiki_result
+711,Prince William and the Duchess of Cambridge visit a young players rugby tournament at Forsyth Barr stadium in Dunedin New Zealand,Fake,Prince William|Cambridge|Forsyth Barr|Dunedin,0.0,0.5,0.5,0.0,0,no_wiki_result
+712,President Obama at a Twitter town hall in 2011,Fake,Obama|Twitter,0.0,0.5,0.5,0.0,0,no_wiki_result
+713,American Dustin Johnson lines up a putt on the 17th hole,Fake,American|Dustin Johnson,0.0,0.5,0.5,0.0,0,no_wiki_result
+714,George Osborne at the European Council in Brussels on Tuesday He has pledged to sell Lloyds shares in flashier fashion,Fake,George Osborne|the European Council|Brussels|Lloyds,0.0,0.5,0.5,0.0,0,no_wiki_result
+715,With crowds of supporters waiting for her Democratic presidential candidate Hillary Clinton stopped at a coffee house in Mount Vernon Iowa on April 14,Fake,Democratic|Hillary Clinton|Mount Vernon Iowa,0.0,0.5,0.5,0.0,0,no_wiki_result
+716,Betty Ford President Gerald Ford s better half in a portrait that was part of a museum exhibit,Fake,Betty Ford|Gerald Ford,0.0,0.5,0.5,0.0,0,no_wiki_result
+717,Ben Affleck arrives at the world premiere of The Accountant at the TCL Chinese Theatre,Fake,Ben Affleck|Chinese,0.0,0.5,0.5,0.0,0,no_wiki_result
+718,Manchester United s Wayne Rooney celebrates his penalty against Blackburn Rovers,Fake,Manchester United s|Wayne Rooney|Blackburn Rovers,0.0,0.5,0.5,0.0,0,no_wiki_result
+719,Romney announces Ryan as his running mate in front of the USS Wisconsin on Aug 11 2012 in Norfolk Va,Fake,Romney|Ryan|Norfolk|Va,0.0,0.5,0.5,0.0,0,no_wiki_result
+720,Secretary of State Hillary Clinton is treated at New York Presbyterian Hospital on Sunday She suffered a blood clot after a concussion earlier this month,Fake,State|Hillary Clinton|New York Presbyterian Hospital,0.0,0.5,0.5,0.0,0,no_wiki_result
+721,Come play Peter Pears Benjamin Britten and Galina Vishnevskaya the wife of cellist and conductor Mstislav Rostropovich,Fake,Peter Pears Benjamin Britten|Galina|Mstislav Rostropovich,0.0,0.5,0.5,0.0,0,no_wiki_result
+722,Charlize Theron at the Mad Max Fury Road press conference,Fake,Charlize Theron,0.0,0.5,0.5,0.0,0,no_wiki_result
+723,Nigel Farage was assaulted outside the Walpole Bay Hotel in Cliftonville,Fake,Nigel Farage|the Walpole Bay Hotel|Cliftonville,0.0,0.5,0.5,0.0,0,no_wiki_result
+724,Boris Johnson and David Cameron a crackin pair of tits commented one Twitter user,Fake,Boris Johnson|David Cameron|Twitter,0.0,0.5,0.5,0.0,0,no_wiki_result
+725,Christian Bale was seen in footage shot by CNN being shoved by guards as he asked to see Chinese activist Chen Guangcheng,Fake,Christian Bale|CNN|Chinese|Chen Guangcheng,0.0,0.5,0.5,0.0,0,no_wiki_result
+726,Marco Rubio seen here playing with a cutout of his own face has the support of senior Republicans like Senator Bob Dole,Fake,Marco Rubio|Republicans|Bob Dole,0.0,0.5,0.5,0.0,0,no_wiki_result
+727,Eddie Murphy appeared Sunday on the Saturday Night Live 40 special,Fake,Eddie Murphy,0.0,0.5,0.5,0.0,0,no_wiki_result
+728,Labour leader Ed Miliband strikes a pose for the cameras with shoppers and local people in Harlow Essex on the last day of campaigning before Thursday s local elections,Fake,Labour|Ed Miliband|Harlow Essex,0.0,0.5,0.5,0.0,0,no_wiki_result
+729,Brad Pitt who was attacked by prankster Vitalii Sediuk in Hollywood last month with Angelina Jolie,Fake,Brad Pitt|Vitalii Sediuk|Hollywood|Angelina Jolie,0.0,0.5,0.5,0.0,0,no_wiki_result
+730,The world No1 Serena Williams returns a shot during her WTA Championships victory over Petra Kvitova of the Czech Republic,Fake,Serena Williams|WTA Championships|Petra Kvitova|the Czech Republic,0.0,0.5,0.5,0.0,0,no_wiki_result
+731,Peaches Geldof Bob Geldof and Pixie Geldof at Hyde park in London,Fake,Bob Geldof|Pixie Geldof|Hyde|London,0.0,0.5,0.5,0.0,0,no_wiki_result
+732,Marco Rubio the Republican presidential candidate campaigning in New Hampshire this week,Fake,Marco Rubio|Republican|New Hampshire,0.0,0.5,0.5,0.0,0,no_wiki_result
+733,Hillary Rodham Clinton greets a crowd of supporters outside a coffee shop in Mount Vernon Iowa in April,Fake,Hillary Rodham Clinton|Mount Vernon Iowa,0.0,0.5,0.5,0.0,0,no_wiki_result
+734,Donald Trump arrives to speak at a campaign rally on Oct 24 2016 in Tampa Fla,Fake,Donald Trump|Tampa|Fla,0.0,0.5,0.5,0.0,0,no_wiki_result
+735,Alina in her fan club merchandise I have a Russian flag with Putin hanging on the wall above my desk in my room,Fake,Alina|Russian|Putin,0.0,0.5,0.5,0.0,0,no_wiki_result
+736,Graeme Swann celebrates taking the wicket of Sachin Tendulkar,Fake,Graeme Swann|Sachin Tendulkar,0.0,0.5,0.5,0.0,0,no_wiki_result
+737,Kim Kardashian answered questions on the North Korean leader Kim Jongun on the comedy quiz show She got two out of three right,Fake,Kim Kardashian|North Korean|Kim Jongun,0.0,0.5,0.5,0.0,0,no_wiki_result
+738,Democratic presidential candidate Hillary Clinton speaks during a campaign stop in Orlando Fla,Fake,Democratic|Hillary Clinton|Orlando|Fla,0.0,0.5,0.5,0.0,0,no_wiki_result
+739,Republican presidential candidate Donald Trump walks with his campaign manager Corey Lewandowski left after speaking at a news conference Aug 25 2015 in Dubuque Iowa,Fake,Republican|Donald Trump|Corey Lewandowski|Dubuque Iowa,0.0,0.5,0.5,0.0,0,no_wiki_result
+740,Australian actress Nicole Kidman blows kisses to onlookers on the streets of Cannes in southern France on the eve of the 67th Cannes Film Festival,Fake,Australian|Nicole Kidman|Cannes|France,0.0,0.5,0.5,0.0,0,no_wiki_result
+741,Andy Murray finds his coach Ivan Lendl The two make a heck of a team,Fake,Andy Murray|Ivan Lendl,0.0,0.5,0.5,0.0,0,no_wiki_result
+742,Alice Lowe and Steve Oram in Sightseers,Fake,Alice Lowe|Steve Oram,0.0,0.5,0.5,0.0,0,no_wiki_result
+743,US Sen Bernie Sanders IVT officially announces his candidacy for the US presidency during an event at Waterfront Park in Burlington Vt,Fake,US|Sen Bernie Sanders|IVT|Waterfront Park,0.0,0.5,0.5,0.0,0,no_wiki_result
+744,Russian President Vladimir Putin speaks in Moscow on July 27 2016,Fake,Russian|Vladimir Putin|Moscow,0.0,0.5,0.5,0.0,0,no_wiki_result
+745,Rubio speaks at the Conservative Political Action Conference on March 6 2014 in National Harbor Md,Fake,Rubio|the Conservative Political Action Conference|National Harbor Md,0.0,0.5,0.5,0.0,0,no_wiki_result
+746,Louisiana Gov Bobby Jindal Getty Images,Fake,Louisiana|Bobby Jindal Getty Images,0.0,0.5,0.5,0.0,0,no_wiki_result
+747,Serena Williams reaches for a return against Maria Sharapova of Russia during the Australian Open final,Fake,Serena Williams|Maria Sharapova|Russia|the Australian Open,0.0,0.5,0.5,0.0,0,no_wiki_result
+748,Sean Penn visits Isla de la Juventud in Havana,Fake,Sean Penn|Isla de la Juventud|Havana,0.0,0.5,0.5,0.0,0,no_wiki_result
+749,From left to right Patrick Reed Sergio Garcia and Lee Westwood walk up the 18th fairway together during the first round,Fake,Patrick Reed|Sergio Garcia|Lee Westwood,0.0,0.5,0.5,0.0,0,no_wiki_result
+750,Nationalists also held a march in the western city of Lviv,Fake,Nationalists|Lviv,0.0,0.5,0.5,0.0,0,no_wiki_result
+751,A fan cries at a makeshift memorial outside the Apollo Theater in New York,Fake,the Apollo Theater|New York,0.0,0.5,0.5,0.0,0,no_wiki_result
+752,A US soldier watches food parcels parachute to the ground over Iraq in an airdrop operation,Fake,US|Iraq,0.0,0.5,0.5,0.0,0,no_wiki_result
+753,Race dogs include Siberian Huskies Alaskan Malamutes Samoyeds Greenland Dogs and Canadian Eskimo Dogs,Fake,Siberian Huskies Alaskan|Canadian,0.0,0.5,0.5,0.0,0,no_wiki_result
+754,China cabinet still have room There are dukeandduchess dishes far beyond the mug Royal baby fine bone china tableware set about 63 at MillyGreencom,Fake,China|Royal|MillyGreencom,0.0,0.5,0.5,0.0,0,no_wiki_result
+755,Lest we forget the French first world war cemetery of SerreHebuterne in France,Fake,French|France,0.0,0.5,0.5,0.0,0,no_wiki_result
+756,Vodafone currently employs 50 people at its Glasgow call centre,Fake,Vodafone|Glasgow,0.0,0.5,0.5,0.0,0,no_wiki_result
+757,July 17 2014 _ Clark County Brush Truck 27 near a barn full of hay that caught fire near Twisp Wash on the Carlton Complex 2014,Fake,Clark County Brush Truck|Twisp Wash|the Carlton Complex,0.0,0.5,0.5,0.0,0,no_wiki_result
+758,Hotel guests sit on the floor at the lobby in Mashiki Kumamoto prefecture southern Japan after they evacuated their rooms and gathered at the hotel lobby,Fake,Mashiki Kumamoto|Japan,0.0,0.5,0.5,0.0,0,no_wiki_result
+759,An Emirates Boeing 777 at a gate at Boston Logan International Airport on March 10 2014,Fake,Emirates Boeing|Boston Logan International Airport,0.0,0.5,0.5,0.0,0,no_wiki_result
+760,MAPFRE fans show their support prior to the start of Leg 8,Fake,MAPFRE,0.0,0.5,0.5,0.0,0,no_wiki_result
+761,A member of Arcade Fire at Glastonbury 2014,Fake,Arcade Fire,0.0,0.5,0.5,0.0,0,no_wiki_result
+762,The pressure group Solitary Watch says 44000 people are held in solitary confinement in eight US states,Fake,Solitary Watch|US,0.0,0.5,0.5,0.0,0,no_wiki_result
+763,Customers stand in line to purchase Powerball tickets at Russ s Market in Lincoln Neb Jan 11 2016,Fake,Powerball|Russ s Market|Lincoln Neb Jan 11 2016,0.0,0.5,0.5,0.0,0,no_wiki_result
+764,Turkish army tanks keep watch from their side of the border over the Isisbesieged Syrian town of Kobani,Fake,Turkish|Syrian|Kobani,0.0,0.5,0.5,0.0,0,no_wiki_result
+765,Nokia s Lumia smartphone which uses Microsoft software The two companies fortunes are closely intertwined,Fake,Nokia|Lumia|Microsoft,0.0,0.5,0.5,0.0,0,no_wiki_result
+766,Workers stand in at the candidate s podiums on Nov 9 2015 in preparation of for Tuesday s Republican debate in Milwaukee,Fake,Republican|Milwaukee,0.0,0.5,0.5,0.0,0,no_wiki_result
+767,Scent of a woman a Bloomsbury smell walk with University College London in November 2013,Fake,Bloomsbury|University College London,0.0,0.5,0.5,0.0,0,no_wiki_result
+768,Baloch separatists have been waging a bitter war against the Pakistani army for years,Fake,Baloch|Pakistani,0.0,0.5,0.5,0.0,0,no_wiki_result
+769,Police on the move outside the Sikh temple in Oak Creek Wisconsin,Fake,Sikh|Oak Creek|Wisconsin,0.0,0.5,0.5,0.0,0,no_wiki_result
+770,Iranian protesters demonstrate at the Gholhak gardens a sprawling compound in north Tehran which provides accommodation for British diplomats,Fake,Iranian|the Gholhak gardens|Tehran|British,0.0,0.5,0.5,0.0,0,no_wiki_result
+771,A North Carolina State Wolfpack cheerleader performs a cheer in a secondround game against the Temple Owls at University of Dayton Arena,Fake,North Carolina State|the Temple Owls at University of Dayton Arena,0.0,0.5,0.5,0.0,0,no_wiki_result
+772,In 2011 Republicans in Congress fought hard to repeal a law phasing out incandescent bulbs,Fake,Republicans|Congress,0.0,0.5,0.5,0.0,0,no_wiki_result
+773,Zettabyte comprehension the infographic by Cisco,Fake,Zettabyte|Cisco,0.0,0.5,0.5,0.0,0,no_wiki_result
+774,The bedroom tax has led to tensions within the Rochdale community after rumours that Muslim families were exempt from the policy were circulated online,Fake,Rochdale|Muslim,0.0,0.5,0.5,0.0,0,no_wiki_result
+775,Beijing s National Grand Theatre resembling a flying saucer which has landed in a lake,Fake,Beijing,0.0,0.5,0.5,0.0,0,no_wiki_result
+776,Edinburgh and Midlothian councils want to build a new waste plant on the outskirts of the city,Fake,Edinburgh|Midlothian,0.0,0.5,0.5,0.0,0,no_wiki_result
+777,Alabama receives a mixture of warm air full from the Gulf of Mexico and cold air from the north leaving it vulnerable to tornadoes,Fake,Alabama|the Gulf of Mexico,0.0,0.5,0.5,0.0,0,no_wiki_result
+778,Pahoa Hawaii The June 27th lava flow from the Kilauea volcano inches its way towards homes in the town,Fake,Pahoa|Hawaii|Kilauea,0.0,0.5,0.5,0.0,0,no_wiki_result
+779,Residents in Beni region of Congo greet UN peacekeeper passing by in an armoured personnel carrier,Fake,Beni|Congo|UN,0.0,0.5,0.5,0.0,0,no_wiki_result
+780,Afghan motorcycle travelers left halt at a checkpoint in Jalalabad two days before some 12 million Afghans will go to the polls to elect a new president,Fake,Afghan|Jalalabad|Afghans,0.0,0.5,0.5,0.0,0,no_wiki_result
+781,The European version of the Russian Soyuz rocket launches from French Guiana,Fake,European|Russian|French|Guiana,0.0,0.5,0.5,0.0,0,no_wiki_result
+782,Weak economic data from China and Europe fuel Wall Street fears,Fake,China|Europe,0.0,0.5,0.5,0.0,0,no_wiki_result
+783,Iraqi men fill military trucks to join the Iraqi army at the main recruiting center in Baghdad,Fake,Iraqi|Baghdad,0.0,0.5,0.5,0.0,0,no_wiki_result
+784,The experts believe the Coalition s Direct Action policy needs substantial modification to reach Australia s 2030 emissions reduction target,Fake,the Coalition s Direct Action|Australia,0.0,0.5,0.5,0.0,0,no_wiki_result
+785,Sacmex sewage pumping station Mexico City,Fake,Sacmex|Mexico City,0.0,0.5,0.5,0.0,0,no_wiki_result
+786,It is rumoured that the film Xmen was inspired by data journalists working in Excel That rumour may have started at the date of this publication,Fake,It|the film|Xmen|data journalists,0.0,0.5,0.5,0.0,0,no_wiki_result
+787,The Malaga branch of the St Petersburg State Russian Museum,Fake,Malaga|the St Petersburg State Russian Museum,0.0,0.5,0.5,0.0,0,no_wiki_result
+788,The afternoon light illuminates a portion of the stands at the BC Place Stadium in Vancouver as Cameroon beat Ecuador 60,Fake,the BC Place Stadium|Vancouver|Cameroon|Ecuador,0.0,0.5,0.5,0.0,0,no_wiki_result
+789,Palestinian demonstrators hurl stones at Israeli security forces during clashes in the village of Tuqua southeast of the West Bank city of Bethlehem,Fake,Palestinian|Israeli|Tuqua|West Bank,0.0,0.5,0.5,0.0,0,no_wiki_result
+790,The quake was felt in parts of south Wales Devon and Somerset,Fake,Wales Devon|Somerset,0.0,0.5,0.5,0.0,0,no_wiki_result
+791,Creating dual carriageway at Crubenmore in the Highlands cost more than 10m,Fake,Crubenmore|Highlands,0.0,0.5,0.5,0.0,0,no_wiki_result
+792,The Hobbit holes Green Dragon Inn Mill and other structures created for the films are all on show at the farm,Fake,Hobbit|Green Dragon Inn Mill,0.0,0.5,0.5,0.0,0,no_wiki_result
+793,DPS directs freeway traffic to turnedaround off the 51 Highway near McDowell Road after a shooting in Phoenix Ariz on Wednesday Sept 7 2016,Fake,DPS|the 51 Highway|McDowell Road|Phoenix Ariz,0.0,0.5,0.5,0.0,0,no_wiki_result
+794,A Bombardier Q400 turboprop is part of Bombardier s display at the Paris Air Show in Le Bourget France,Fake,Bombardier|the Paris Air Show|France,0.0,0.5,0.5,0.0,0,no_wiki_result
+795,Like many sites 9to5Google relies on Google to pipe adverts to it to generate revenue,Fake,Google,0.0,0.5,0.5,0.0,0,no_wiki_result
+796,E Pellicci has been serving up fine British and Italian fare to the folk of Bethnal Green east London since 1900,Fake,British|Italian|Bethnal Green|London,0.0,0.5,0.5,0.0,0,no_wiki_result
+797,An artist s rendering of MGM National Harbor which will open Dec 8 in Prince George s County,Fake,MGM National Harbor,-0.000797,0.000127,0.000924,0.998949,250,ok
+798,A convoy of more than 100 vehicles carrying Muslims trying to flee Bangui,Fake,Muslims|Bangui,-0.000151,0.003605,0.003756,0.992639,2922,ok
+799,Mitchells Butlers which owns All Bar One has accused a number of shareholders of trying to seize control of the board,Fake,Mitchells Butlers,0.0,0.5,0.5,0.0,0,no_wiki_result
+800,20 March 2011 taking first place during the FIS Freestyle World Cup men s and women s halfpipe in La Plagne France,Fake,the FIS Freestyle World Cup|La Plagne|France,-0.000984,0.00046,0.001444,0.998096,1899,ok
+801,The casket carrying the body of Boston Marathon victim Krystle Campbell arrives for her funeral service,Fake,Boston Marathon|Krystle Campbell,-0.029021,0.002879,0.0319,0.965222,3038,ok
+802,Vermont Gov Peter Shumlin signed legislation Monday to raise the state minimum wage,Fake,Vermont|Peter Shumlin,-0.027483,0.00912,0.036603,0.954277,2775,ok
+803,Cameron Diaz and Justin Timberlake star in Columbia Pictures comedy Bad Teacher,Fake,Cameron Diaz|Justin Timberlake|Columbia Pictures,0.001915,0.040594,0.038679,0.920727,4557,ok
+804,Patrick the Persian was waddling along in a complete tangle when found by a member of the public,Fake,Patrick|Persian,0.990347,0.990471,0.000123,0.009406,577,ok
+805,Once you ve driven out to Grand Traverse Resort and Spa head upstairs to Aerie for a sunset drink with unobstructed views over the city from the 16th floor,Fake,Grand Traverse Resort,0.0,0.5,0.5,0.0,0,no_wiki_result
+806,A Chinese child crawls at a playground in Shanghai September 8 2004 REUTERSClaro Cortes IV,Fake,Chinese|Shanghai,0.006289,0.007437,0.001148,0.991415,2945,ok
+807,Judith Blake leader of Leeds city council,Fake,Judith Blake|Leeds,-0.000906,0.000919,0.001825,0.997256,1881,ok
+808,Nigeria s first suicide bomber struck at the police headquarters in Abuja in 2011,Fake,Nigeria|Abuja,-0.000294,0.000282,0.000576,0.999142,3019,ok
+809,David one half of the Swedish duo David Fofo changing the world one ping pong ball at a time,Fake,David|Swedish|David Fofo,-0.002093,0.000312,0.002405,0.997283,1962,ok
+810,Bright parks Gateshead hosts the neon delights of Enchanted Parks,Fake,Gateshead|Enchanted Parks,-0.000938,0.000444,0.001382,0.998175,1336,ok
+811,Sally Taylor chair of the West Kensington tenants association,Fake,Sally Taylor|West Kensington,0.00068,0.000913,0.000233,0.998855,1182,ok
+812,The second trailer for the movie Hunger Games Catching Fire starring Jennifer Lawrence and Josh Hutcherson,Fake,Hunger Games Catching Fire|Jennifer Lawrence|Josh Hutcherson,0.005074,0.007614,0.00254,0.989846,3039,ok
+813,Manama Bahrain Bahraini antigovernment protesters holding a national flag take cover from tear gas during clashes,Fake,Manama|Bahrain|Bahraini,0.022658,0.032381,0.009724,0.957895,3211,ok
+814,Obama s meeting with Putin to focus on Ukraine,Fake,Obama|Putin|Ukraine,-0.066846,0.07424,0.141087,0.784673,4528,ok
+815,James McPherson checks messages on the balcony of his Southeast Washington home on Christmas,Fake,James McPherson|Southeast Washington,-0.984683,0.003321,0.988004,0.008675,1104,ok
+816,Pretty sad and pretty real Tracy Thoms and John Hawkes in Lost Lake,Fake,Tracy Thoms|John Hawkes|Lost Lake,0.008646,0.01761,0.008964,0.973425,878,ok
+817,Jonathan Grado still likes to work six days a week tinkering with the various headphones Grado makes,Fake,Jonathan Grado|Grado,0.000406,0.00071,0.000305,0.998985,807,ok
+818,Dutch policemen walk to a hotel after failing to reach the Malaysia Airlanes crash site,Fake,Dutch|Malaysia Airlanes,0.000659,0.000813,0.000154,0.999034,171,ok
+819,Mohammed Al Tebani inside his factory in Gaza which made ice cream among other sweets and was destroyed by targeted shelling,Fake,Mohammed Al Tebani|Gaza,0.000605,0.000736,0.00013,0.999134,179,ok
+820,Allen Richard and John Lane cofounders of Penguin Books,Fake,Allen Richard|John Lane|Penguin Books,-0.010715,0.000543,0.011258,0.988199,1443,ok
+821,The tail end of Hurricane Gonzalo gathers over the English Channel No longer will we have to shake futile fists at an anonymous sky,Fake,Hurricane Gonzalo|English,0.001109,0.001378,0.000269,0.998353,1617,ok
+822,Sportingbet had agreed to sell its Superbahis business to an offshoot of AIMlisted GVC group Photograph Alex HendersonAWH Photography,Fake,Sportingbet|AIMlisted GVC|Photograph Alex HendersonAWH Photography,-0.970486,0.002972,0.973458,0.023571,228,ok
+823,Sir Paul Stephenson said it was likely that senior officers had accepted payments from newspapers These payments are to be investigated by HMRC,Fake,Paul Stephenson|HMRC,0.000875,0.002023,0.001148,0.996829,919,ok
+824,The business secretary Vince Cable ordered that 55m of government money should be lent to SMEs through Funding Circle and other social lenders,Fake,Vince Cable|Funding Circle,0.002003,0.004089,0.002086,0.993825,1962,ok
+825,Game 5 in Cleveland Cavaliers 106 Bulls 101 LeBron James celebrates as he leaves the floor following Cleveland s victory,Fake,Game 5|Cleveland Cavaliers|Bulls|LeBron James,0.001048,0.001825,0.000777,0.997398,3168,ok
+826,Noel Nevin and Graham Spence were overcome by gas,Fake,Noel Nevin|Graham Spence,0.0,0.5,0.5,0.0,0,no_wiki_result
+827,Singlefamily homes occupied by renters are on the rise in metropolitan regions across the country according to a USA TODAY analysis of US Census Bureau data,Fake,USA|US Census Bureau,0.000762,0.001449,0.000687,0.997864,2987,ok
+828,Kyra Holland of Warrenton Va participates in the finals,Fake,Kyra Holland|Warrenton Va,0.0,0.5,0.5,0.0,0,no_wiki_result
+829,At noon the daily ferry leaves for Piraeus the port next to Athens taking locals tourists and those migrants released with papers from Moria camp,Fake,Piraeus|Athens|Moria,-0.255781,0.077107,0.332888,0.590005,3048,ok
+830,Sergey Skorokhodov as Bacchus and Soile Isokoski as Ariadne,Fake,Sergey Skorokhodov|Bacchus|Soile Isokoski|Ariadne,0.089091,0.101169,0.012078,0.886754,2370,ok
+831,Demonstrators burn US flag outside the US embassy in Tehran,Fake,US|Tehran,0.000961,0.001167,0.000206,0.998627,3015,ok
+832,Peri Banu and her maids in The Adventures of Prince Achmed,Fake,Peri Banu,0.0,0.5,0.5,0.0,0,no_wiki_result
+833,Ich bin ein Berliner Crowds form around the stage in front of the Bundestag while working cameras transmit the action to nearby screens,Fake,Ich bin ein Berliner Crowds|Bundestag,-5.6e-05,8.1e-05,0.000137,0.999782,1512,ok
+834,Taking aim Jim Carrey as Colonel Stars and Stripes in KickAss 2,Fake,Jim Carrey,-0.000445,0.000135,0.000581,0.999284,1513,ok
+835,Newcastle council leader Nick Forbes said the city s most vulnerable will suffer due to the budget cuts,Fake,Newcastle|Nick Forbes,0.000196,0.004981,0.004785,0.990234,739,ok
+836,People wait in line to cross into the US at the San Ysidro port of entry,Fake,US|San Ysidro,0.002456,0.004656,0.0022,0.993145,1983,ok
+837,Jiri Andrea and baby Roman in the nearby seaside town of Redcar The family hope to become British citizens in due course,Fake,Jiri Andrea|Roman|Redcar|British,0.000196,0.001452,0.001256,0.997292,965,ok
+838,Nick Clegg works on the battlebus after a visit to Bodmin Cornwall,Fake,Nick Clegg|Bodmin Cornwall,-0.046083,0.012451,0.058534,0.929016,1513,ok
+839,During his visit to the Philadelphia area Pope Francis is scheduled to celebrate Mass at Saint Charles Borromeo Seminary in Wynnewood Pa,Fake,Philadelphia|Francis|Wynnewood Pa,-0.075135,0.008979,0.084114,0.906908,1547,ok
+840,Shirt 65 Levi s Crewneck 50 and jeans 98 both allsaintscomHat James s own,Fake,Shirt|Levi|allsaintscomHat James,0.000641,0.000915,0.000273,0.998812,1046,ok
+841,Southampton s Luke Shaw left may join Manchester United this summer,Fake,Southampton|Luke Shaw|Manchester United,0.004178,0.007728,0.00355,0.988722,3927,ok
+842,Buried in sand for the BBC adaptation of Samuel Beckett s Happy Days,Fake,BBC|Samuel Beckett s Happy Days,0.000163,0.000265,0.000102,0.999633,1506,ok
+843,The bust of Queen Nefertiti of Egypt in Berlin s Neues museum,Fake,Queen Nefertiti|Egypt|Berlin|Neues,0.00045,0.00071,0.00026,0.99903,4256,ok
+844,Mr Yasuda is said to have travelled to Syria to report on his friend Kenji Goto,Fake,Yasuda|Syria|Kenji Goto,0.004905,0.009603,0.004698,0.985699,3546,ok
+845,We could nt find a recent picture of Xherdan Shaqiri so here s a cow in the Swiss Alps,Fake,Xherdan Shaqiri|Swiss|Alps,0.090043,0.093228,0.003185,0.903587,3063,ok
+846,The British luxury goods company Mulberry is among those benefiting from wellheeled visitors to the Olympics,Fake,British|Mulberry|Olympics,0.001407,0.003028,0.001621,0.99535,2855,ok
+847,Police are trying to trace the owners of a Jeep Cherokee that was abandoned after the reindeer attack,Fake,Jeep,0.000848,0.001051,0.000203,0.998746,1507,ok
+848,The Chamber of Commerce s head Thomas Donohue visited a privaterun garage in Cuba,Fake,The Chamber of Commerce|Thomas Donohue|Cuba,0.000366,0.002021,0.001655,0.996324,2042,ok
+849,Gwendoline Christie arrives for the European premiere,Fake,Gwendoline Christie|European,0.000384,0.000536,0.000152,0.999312,796,ok
+850,"Two sandwiches containing quiche, a salad, apples and a banana on the side.",Fake,Two sandwiches|quiche|a salad|apples,0.001232,0.001328,9.6e-05,0.998577,1733,ok
+851,"a chair, couch and suitcase sitting by the door",Fake,a chair|couch|suitcase|the door,0.002739,0.005053,0.002315,0.992632,2129,ok
+852,The grey and white kitten stares up near a laptop.,Fake,The grey|white kitten|a laptop,-0.901837,0.00373,0.905567,0.090704,721,ok
+853,Frizzy haired guy standing at a table listening to the music.,Fake,Frizzy haired guy|a table|the music,-0.000594,0.000128,0.000722,0.99915,431,ok
+854,A man doing a trick with a skateboard on a sidewalk.,Fake,A man|a trick|a skateboard|a sidewalk,-0.992242,0.002139,0.994381,0.003481,277,ok
+855,An beautifully designed clock tower with gold and brass.,Fake,An beautifully designed clock tower|gold|brass,5.9e-05,0.005149,0.00509,0.989761,3016,ok
+856,a colorful motorcycle sitting next to a car,Fake,a colorful motorcycle|a car,0.0,0.5,0.5,0.0,0,no_wiki_result
+857,A large brown bear laying on a log.,Fake,A large brown bear|a log,0.0,0.5,0.5,0.0,0,no_wiki_result
+858,A large brown bear standing next to a pile of garbage.,Fake,A large brown bear|a pile|garbage,0.02973,0.031738,0.002008,0.966255,402,ok
+859,Three urinals each have small screens posted above them.,Fake,Three urinals|each|small screens|them,0.001658,0.004031,0.002373,0.993596,280,ok
+860,A cat perched on top of a rock ledge looking outside,Fake,A cat|top|a rock ledge,0.000607,0.001341,0.000734,0.997924,343,ok
+861,a house sits next to a swampy pond,Fake,a house|a swampy pond,0.0,0.5,0.5,0.0,0,no_wiki_result
+862,a train with many lines drawn on it,Fake,a train|many lines|it,0.043963,0.072492,0.028529,0.898979,108,ok
+863,A hotel room with a chandelier and gold fixtures.,Fake,A hotel room|a chandelier|gold fixtures,0.0,0.5,0.5,0.0,0,no_wiki_result
+864,Little girl holding up a sheet of uncooked rolls by accident.,Fake,Little girl|a sheet|uncooked rolls|accident,0.822842,0.825993,0.003151,0.170855,1621,ok
+865,Three giraffes standing under a bridge by a watering hole.,Fake,Three giraffes|a bridge|a watering hole,0.0,0.5,0.5,0.0,0,no_wiki_result
+866,A sandwich with some strawberry preserves and orange juice.,Fake,A sandwich|some strawberry preserves|orange juice,0.001875,0.002026,0.000151,0.997823,1444,ok
+867,A boy squatting on a skateboard trying to balance.,Fake,A boy|a skateboard,0.0,0.5,0.5,0.0,0,no_wiki_result
+868,empty room with the lights on and nothing on,Fake,empty room|the lights,0.0,0.5,0.5,0.0,0,no_wiki_result
+869,A man wearing a suit and tie and red shoes with a silver buckle.,Fake,A man|a suit|tie|red shoes,0.676382,0.724912,0.048529,0.226559,493,ok
+870,horses stand around on a neighborhood street in front of a house,Fake,horses|a neighborhood street|front|a house,0.003838,0.005531,0.001693,0.992776,1537,ok
+871,A young man that is wearing a nice trench coat with a skirt and a purse.,Fake,A young man|that|a nice trench coat|a skirt,0.014026,0.021847,0.007821,0.970332,686,ok
+872,Several antique trinkets are arranged on a shelf.,Fake,Several antique trinkets|a shelf,0.0,0.5,0.5,0.0,0,no_wiki_result
+873,This a close up picture of the giraffes face his ears are half closed.,Fake,This a close up picture|the giraffes|his ears,0.0,0.5,0.5,0.0,0,no_wiki_result
+874,A bunch of men standing on top of a tennis court.,Fake,A bunch|men|top|a tennis court,0.945059,0.945855,0.000795,0.05335,1795,ok
+875,a close up of a plate with an orange and a yellow,Fake,a close|a plate|an orange,0.0,0.5,0.5,0.0,0,no_wiki_result
+876,some equipment and a back back sitting on teh ground next to a lap top,Fake,some equipment|a back|teh ground|a lap top,0.002117,0.003054,0.000937,0.996009,1052,ok
+877,Two signs that are on a pole in the street.,Fake,Two signs|that|a pole|the street,0.005489,0.017283,0.011794,0.970923,686,ok
+878,A persons hand with a box of scissors.,Fake,A persons|a box|scissors,0.00843,0.016153,0.007723,0.976124,1511,ok
+879,A delicious salad layered with meat and dressed with avocado lies on a cutting board.,Fake,A delicious salad|meat|avocado|a cutting board,0.000451,0.001031,0.00058,0.998389,2836,ok
+880,A young boy standing on top of a tennis court holding a racquet.,Fake,A young boy|top|a tennis court|a racquet,0.000623,0.001697,0.001073,0.99723,343,ok
+881,"big bottle of two beers dressed in clothes, outside",Fake,big bottle|two beers|clothes,0.001877,0.002474,0.000597,0.99693,1510,ok
+882,A train that is going over a bridge overlooking the river.,Fake,A train|that|a bridge|the river,0.012447,0.026446,0.013999,0.959556,754,ok
+883,A park bench with a bear on it in a forest of trees.,Fake,A park bench|a bear|it|a forest,0.004021,0.004747,0.000726,0.994527,76,ok
+884,The jet fighter sits on a pedestal across the street from a church.,Fake,The jet fighter|a pedestal|the street|a church,0.0,0.5,0.5,0.0,0,no_wiki_result
+885,A cat at rest between two parked cars.,Fake,A cat|rest|two parked cars,0.007181,0.007862,0.000682,0.991456,33,ok
+886,A tan horse with a blond mane inside of a cage.,Fake,A tan horse|a blond mane|a cage,0.0,0.5,0.5,0.0,0,no_wiki_result
+887,A small car that is traveling down railroad tracks.,Fake,A small car|that|railroad tracks,0.007635,0.0082,0.000565,0.991235,1304,ok
+888,A white dog walks along the sidewalk near people.,Fake,A white dog|the sidewalk|people,0.987246,0.987363,0.000117,0.01252,423,ok
+889,A night scene with silhouettes of buildings and some traffic lights over a lake,Fake,A night scene|silhouettes|buildings|some traffic lights,0.886935,0.922748,0.035813,0.041439,2637,ok
+890,A guy sitting down with a tennis racket.,Fake,A guy|a tennis racket,0.0,0.5,0.5,0.0,0,no_wiki_result
+891,A passenger jet airplane flies low over Iraq with an American flag in the foreground.,Fake,Iraq|American,0.011906,0.016242,0.004336,0.979421,2174,ok
+892,A small craft flying through a blue sky.,Fake,A small craft|a blue sky,0.0,0.5,0.5,0.0,0,no_wiki_result
+893,A television is mounted inside of a cow pen.,Fake,A television|a cow pen,0.0,0.5,0.5,0.0,0,no_wiki_result
+894,A boy on a skateboard does a flip in a parking lot.,Fake,A boy|a skateboard|a flip|a parking lot,0.0,0.5,0.5,0.0,0,no_wiki_result
+895,A meal of burnt orange slices with condiments on the side.,Fake,A meal|burnt orange slices|condiments|the side,5e-05,0.000138,8.8e-05,0.999773,678,ok
+896,A man with a tennis racket hangs from the net of a tennis court.,Fake,A man|a tennis racket|the net|a tennis court,0.003592,0.01191,0.008318,0.979772,309,ok
+897,A green cart with old clothes on it standing by.,Fake,A green cart|old clothes|it,0.005513,0.006636,0.001123,0.992241,76,ok
+898,A wooden table that is very cluttered with items.,Fake,A wooden table|that|items,0.011777,0.015406,0.003629,0.980965,713,ok
+899,a zebra standing with its head in a pool,Fake,a zebra|its head|a pool,0.0,0.5,0.5,0.0,0,no_wiki_result
+900,A man and woman brushing their teeth and taking a selfie photo with a camera in a bathroom mirror.,Fake,A man|woman|their teeth|a selfie photo,0.00121,0.002376,0.001167,0.996457,1786,ok
+901,Some cows that are wandering around a lot of pigeons.,Fake,Some cows|that|a lot|pigeons,0.047549,0.051484,0.003935,0.944582,2042,ok
+902,A baseball bat is in a window looking out over the street.,Fake,A baseball bat|a window|the street,0.0,0.5,0.5,0.0,0,no_wiki_result
+903,A man in a wet suit riding on a surfboard with a dog.,Fake,A man|a wet suit|a surfboard|a dog,-0.064314,0.052485,0.1168,0.830715,1786,ok
+904,A white plate with a sliced up piece of food on top of it.,Fake,A white plate|a sliced up piece|food|top,0.00173,0.002989,0.001259,0.995752,1851,ok
+905,a spotty banana sitting on top of an orange and some other fruit ,Fake,a spotty banana|top|an orange|some other fruit,-0.000497,0.000567,0.001064,0.99837,343,ok
+906,A man with glasses on biting into a piece of cake.,Fake,A man|glasses|a piece|cake,0.005703,0.007506,0.001803,0.990692,3269,ok
+907,A picture of a couple that just got married lying in a bed.,Fake,A picture|a couple|that|a bed,0.004132,0.006685,0.002553,0.990762,686,ok
+908,a cat sitting next to a bunch of bikes parked next to each other,Fake,a cat|a bunch|bikes,0.004221,0.004377,0.000156,0.995467,1438,ok
+909,A white bus driving down a street next to a building.,Fake,A white bus|a street|a building,0.0,0.5,0.5,0.0,0,no_wiki_result
+910,A large black horse has a long mane of hair.,Fake,A large black horse|a long mane|hair,0.026853,0.029865,0.003011,0.967124,704,ok
+911,The man is lying on the sidewalk with one leg in the air.,Fake,The man|the sidewalk|one leg|the air,0.000257,0.00256,0.002303,0.995137,424,ok
+912,A passenger airplane is taking off into a cloudy sky.,Fake,A passenger airplane|a cloudy sky,0.0,0.5,0.5,0.0,0,no_wiki_result
+913,a person playing frisbee on a field in sport wear,Fake,a person|frisbee|a field|sport wear,0.005827,0.011834,0.006007,0.982159,1510,ok
+914,two birds fly in the sky over mountains,Fake,two birds|the sky|mountains,-0.003535,0.002075,0.005611,0.992314,3447,ok
+915,A giraffe in a field looking down at something.,Fake,A giraffe|a field|something,0.005224,0.005304,8e-05,0.994617,35,ok
+916,Two trains pass each other on the railroad tracks.,Fake,Two trains|the railroad tracks,0.0,0.5,0.5,0.0,0,no_wiki_result
+917,A city bus stopped at stop waiting for passengers.,Fake,A city bus|stop|passengers,0.001141,0.005968,0.004827,0.989205,907,ok
+918,A scooter and bicycles are parked outside a local business.,Fake,A scooter|bicycles|a local business,0.00254,0.002834,0.000293,0.996873,1441,ok
+919,a woman being photographed holding a baseball bat,Fake,a woman|a baseball bat,0.982848,0.982961,0.000113,0.016925,91,ok
+920,A group of men on a field playing baseball.,Fake,A group|men|a field|baseball,0.279037,0.413696,0.134658,0.451646,3244,ok
+921,Sheep grazing in grass in the mountains ,Fake,Sheep|grass|the mountains,0.009846,0.011217,0.001371,0.987412,2341,ok
+922,A little boy in a yellow shirt feeding a giraffe.  ,Fake,A little boy|a yellow shirt|a giraffe,0.0,0.5,0.5,0.0,0,no_wiki_result
+923,Piles of luggage sit outside on a busy street. ,Fake,Piles|luggage|a busy street,-0.009913,0.010201,0.020115,0.969684,2464,ok
+924,"Full pizza with tomatoes, mushrooms, sausage, pepperoni, and peppers.",Fake,Full pizza|tomatoes|mushrooms|sausage,0.000186,0.001023,0.000838,0.998139,4083,ok
+925,a big sandwich on a small silver plate with a bowl of broth on the side,Fake,a big sandwich|a small silver plate|a bowl|broth,0.001209,0.001616,0.000407,0.997977,503,ok
+926,a cat drinking water from a sink bowl,Fake,a cat drinking water|a sink bowl,0.0,0.5,0.5,0.0,0,no_wiki_result
+927,A group of shaggy haired sheep standing beside a building.,Fake,A group|shaggy haired sheep|a building,0.008969,0.010985,0.002016,0.986999,280,ok
+928,A man standing on a beach in front of the ocean.,Fake,A man|a beach|front|the ocean,0.873603,0.877636,0.004034,0.11833,391,ok
+929,"Painting of oranges, a bowl, candle, and a pitcher",Fake,Painting|oranges|a bowl|candle,0.000557,0.001081,0.000524,0.998394,4527,ok
+930,Two tall giraffes standing next to each other by trees.,Fake,Two tall giraffes|trees,0.014006,0.015495,0.001489,0.983016,1508,ok
+931,"A spoon, a large carrot, a medium carrot and a small carrot, on blue-green speckled surface",Fake,A spoon|a large carrot|a medium carrot|a small carrot,0.0,0.5,0.5,0.0,0,no_wiki_result
+932,The Asian girl is holding her Miss Kitty phone,Fake,Asian|Kitty,0.012996,0.064934,0.051938,0.883129,541,ok
+933,Two men wearing suits and hats are walking together.,Fake,Two men|suits|hats,0.466655,0.467565,0.000911,0.531524,1808,ok
+934,A laptop computer sitting on top of a wooden table.,Fake,A laptop computer|top|a wooden table,0.000222,0.001129,0.000907,0.997964,343,ok
+935,A horse and carriage that has some people sitting in it.,Fake,A horse|carriage|that|some people,0.001814,0.022642,0.020829,0.956529,1913,ok
+936,A watch sitting on top of a table next to a computer.,Fake,A watch|top|a table|a computer,0.000964,0.001712,0.000748,0.997539,343,ok
+937,A group of people ride horses on a sidewalk adjacent to trees. ,Fake,A group|people|horses|a sidewalk,0.973818,0.974787,0.000969,0.024244,2214,ok
+938,An old man reading a book on a park bench.,Fake,An old man|a book|a park bench,0.0,0.5,0.5,0.0,0,no_wiki_result
+939,PRESIDENT BARACK OBAMA WALKING NEAR A WHITE BUILDING.,Fake,BARACK OBAMA,0.001067,0.018145,0.017078,0.964777,1515,ok
+940,A white dog sitting on a table next to a paper.,Fake,A white dog|a table|a paper,0.0,0.5,0.5,0.0,0,no_wiki_result
+941,A short haired dog curled up sleeping contently.,Fake,A short haired dog,0.0,0.5,0.5,0.0,0,no_wiki_result
+942,A square-shaped pizza on a wooden board near white plates.,Fake,A square-shaped pizza|a wooden board|white plates,0.0,0.5,0.5,0.0,0,no_wiki_result
+943,A pile of nuts in front of some assorted fruit.,Fake,A pile|nuts|front|some assorted fruit,0.161818,0.178843,0.017026,0.804131,278,ok
+944,A stop sign behind a green chain link fence.,Fake,A stop sign|a green chain link fence,0.0,0.5,0.5,0.0,0,no_wiki_result
+945,A large black ball sitting next to a glass of milk.,Fake,A large black ball|a glass|milk,0.006581,0.008682,0.002102,0.989216,1507,ok
+946,"A meal of sandwiches, potatoes, and Red Stripe beer.",Fake,Red Stripe,-0.611993,0.000415,0.612408,0.387176,585,ok
+947,That President seems to be walking along the sidewalk.,Fake,That President|the sidewalk,0.0,0.5,0.5,0.0,0,no_wiki_result
+948,A raised United States of America flag on a pole,Fake,United States of America,0.000432,0.00176,0.001328,0.996912,1527,ok
+949,A pet pig on a cart helps deliver a political message.,Fake,A pet pig|a cart|a political message,0.0,0.5,0.5,0.0,0,no_wiki_result
+950,Mr Farage hopes to be elected as an MP in Thanet South where he stood alongside comedian Al Murray,Fake,Farage|Thanet South|Al Murray,-0.015095,0.008405,0.0235,0.968094,2416,ok
+951,The Tunisian diplomatic staff were welcomed a week ago,Fake,Tunisian,0.003101,0.00341,0.000309,0.996281,142,ok
+952,Jack Slater and David and Stephen Thomas were among those who rescued,Fake,Jack Slater|David|Stephen Thomas,0.017564,0.042113,0.024548,0.933339,2351,ok
+953,protesters are protesting at this Juarez factory,Fake,Juarez,0.005936,0.00634,0.000404,0.993256,159,ok
+954,Many protest against the monthslong tension that has taken hold in Ukraine,Fake,Ukraine,0.000692,0.001776,0.001084,0.997141,1510,ok
+955,Arvind Kejriwal led his party to a death in the Delhi state assembly elections last December,Fake,Arvind Kejriwal|Delhi,0.010534,0.020134,0.0096,0.970266,3027,ok
+956,Alex Salmond criticised the conference s failure,Fake,Alex Salmond,0.00687,0.010288,0.003418,0.986294,1515,ok
+957,The UN says that the government of Prime Minister Najib Razak has responded well to its queries surrounding the Anwar Ibrahim case,Fake,UN|Najib Razak|Anwar Ibrahim,-0.038318,0.0033,0.041618,0.955082,4537,ok
+958,President Obama has a good look of support for this James Bondthemed graduation picture,Fake,Obama|James Bondthemed,0.000486,0.00483,0.004344,0.990826,1508,ok
+959,A young Ann and Elizabeth killed in poses,Fake,Ann|Elizabeth,0.002135,0.003296,0.001161,0.995542,732,ok
+960,Lib Dem leader Nick Clegg saw his party grow widespread in the election,Fake,Dem|Nick Clegg,-0.970636,0.004869,0.975505,0.019625,1635,ok
+961,Phone boxes in three villages have been blocked by their communities,Fake,Phone boxes|three villages|their communities,0.003106,0.003327,0.000221,0.996452,1533,ok
+962,president Obama campaigned for Wisconsin candidate for governor Mary Burke She liked others he publicly backed,Fake,Obama|Wisconsin|Mary Burke,0.011061,0.015919,0.004859,0.979222,3510,ok
+963,International Development Secretary Justine Greening experts will not travel to Nepal,Fake,International Development|Justine Greening|Nepal,0.010226,0.020571,0.010345,0.969085,3951,ok
+964,The government s localism was praised by our bloggers during 2012,Fake,The government s localism|our bloggers,0.0,0.5,0.5,0.0,0,no_wiki_result
+965,I deeply regret that there need to be more making movies Matt Damon,Fake,Matt Damon,0.003292,0.004304,0.001011,0.994685,1513,ok
+966,Departments further funding would help police numbers cause standards of care to improve and the UK s defence capability,Fake,UK,-0.179014,0.042939,0.221953,0.735108,1505,ok
+967,Harry Redknapp and Joe Jordan lost at the final whistle,Fake,Harry Redknapp|Joe Jordan,0.001415,0.003194,0.001778,0.995028,2295,ok
+968,Sunderland s Steven Fletcher right celebrates his ankle while on international duty,Fake,Sunderland|Steven Fletcher,4.5e-05,0.000771,0.000725,0.998504,1817,ok
+969,protesters march Peter Jackson against the police,Fake,Peter Jackson,-8.9e-05,0.000212,0.000301,0.999486,1516,ok
+970,The big scandal The death of Gentlemen created by Mark Gatiss more than a decade ago,Fake,Mark Gatiss,0.019451,0.024252,0.004801,0.970946,1514,ok
+971,Hector Bellerin has become a key Arsenal killer Ross Barkley must be handled by Manchester United Jack Butland has been sacked and can Sam Allardyce start with a win,Fake,Hector Bellerin|Ross Barkley|Manchester|United Jack Butland,0.001809,0.010258,0.008449,0.981294,2966,ok
+972,Frank Lampard lost the fight against Bolton in April 2005 that gave Chelsea the title by William Gallas and Didier Drogba,Fake,Frank Lampard|Bolton|Chelsea|William Gallas,0.03954,0.046805,0.007265,0.94593,4032,ok
+973,Aaron Paul does his Breaking Bad has nothing to do with the AMC Sundance and IFC viewing party,Fake,Aaron Paul|the AMC Sundance|IFC,-0.00163,0.000608,0.002238,0.997154,1182,ok
+974,Mombasa family style Staking a claim on their African roots feelin sick and rarin to go to the beach,Fake,Mombasa|African,0.015247,0.029253,0.014005,0.956742,1631,ok
+975,Aaron Cook had said it was unfair that he has been in favour of Lutalo Muhammad,Fake,Aaron Cook|Lutalo Muhammad,-0.027489,0.003725,0.031215,0.96506,709,ok
+976,Presenter Steven Tyler left and Dierks Bentley hit their marks on the red carpet for killing the CMAs Bentley video for Drunk on a Plane,Fake,Steven Tyler|Dierks Bentley|Bentley,0.003356,0.014262,0.010907,0.974831,4544,ok
+977,Students celebrate wednesday outside of Ralston Valley High School in Arvada Colo,Fake,Ralston Valley High School|Arvada Colo,9.7e-05,0.000114,1.7e-05,0.999869,344,ok
+978,Bryant shows his appreciation in his typical way chewing on his jersey,Fake,Bryant,0.0,0.5,0.5,0.0,0,no_wiki_result
+979,People celebrate the opening of one of the twin towers of New York s World Trade Center,Fake,New York s,0.0,0.5,0.5,0.0,0,no_wiki_result
+980,Reacting to reports of his comments about Melbourne Cupwinning jockey Michelle Payne Glen Boss said I did too much girls,Fake,Melbourne|Cupwinning|Michelle Payne|Glen Boss,0.0,0.5,0.5,0.0,0,no_wiki_result
+981,The Clinton family cries during Hillary Clinton s Senate victory rally in New York on Nov 7 2000,Fake,Clinton|Hillary Clinton|Senate|New York,0.0,0.5,0.5,0.0,0,no_wiki_result
+982,Was it Nigella Lawson Jerry Seinfeld or Margaret Thatcher who think a good family could have fun together,Fake,Nigella Lawson|Jerry Seinfeld|Margaret Thatcher,0.0,0.5,0.5,0.0,0,no_wiki_result
+983,Editor describes violence with Jason Rezaian,Fake,Jason Rezaian,0.0,0.5,0.5,0.0,0,no_wiki_result
+984,Justin Verlander was congratulated in the 6th inning after he allowed three runs on six hits,Fake,Justin Verlander,0.0,0.5,0.5,0.0,0,no_wiki_result
+985,Rubio wants To solve poverty power in support of states,Fake,Rubio,0.0,0.5,0.5,0.0,0,no_wiki_result
+986,Team USA midfielder Carli Lloyd lost her temper over France during the first round match at Estadio Mineirao,Fake,Team USA|Carli Lloyd|France|Estadio Mineirao,0.0,0.5,0.5,0.0,0,no_wiki_result
+987,Laura Ludwig of Germany protests against Canada,Fake,Laura Ludwig|Germany|Canada,0.0,0.5,0.5,0.0,0,no_wiki_result
+988,Mary BrownCandelaria and Tyria Candelaria mourn their deaths after driving to the District from North Carolina for the opportunity to marry,Fake,Mary BrownCandelaria|Tyria Candelaria|North Carolina,0.0,0.5,0.5,0.0,0,no_wiki_result
+989,Businessman Donald Trump won the debate moderators of asking questions at Wednesday s event,Fake,Donald Trump,0.0,0.5,0.5,0.0,0,no_wiki_result
+990,Clinton of the Sanders campaign praised about me,Fake,Clinton|Sanders,0.0,0.5,0.5,0.0,0,no_wiki_result
+991,A man and woman mourn one another after paying their respects to Mandela at the Union Buildings in Pretoria,Fake,Mandela|the Union Buildings|Pretoria,0.0,0.5,0.5,0.0,0,no_wiki_result
+992,that President Obama can protect the rights of unaccompanied minors in front of The White House on Thursday,Fake,Obama|The White House,0.0,0.5,0.5,0.0,0,no_wiki_result
+993,Reese Witherspoon right and Sofia Vergara appear in a scene from Hot Pursuit one of the few movies being released this summer with a bad ending,Fake,Reese Witherspoon|Sofia Vergara,0.0,0.5,0.5,0.0,0,no_wiki_result
+994,president Obama in Ore Words bring their loved ones back,Fake,Obama|Ore Words,0.0,0.5,0.5,0.0,0,no_wiki_result
+995,Ukrainian servicemen welcome the roof of a building in the eastern town Avdeevka near Donetsk,Fake,Ukrainian|Avdeevka,0.0,0.5,0.5,0.0,0,no_wiki_result
+996,I m a much more difficult person today says Smith seen here lecturing in his publicpolicy class at New York s New School,Fake,Smith|New York s,0.0,0.5,0.5,0.0,0,no_wiki_result
+997,Cummings refused to Issa You have made me a person,Fake,Cummings|Issa,0.0,0.5,0.5,0.0,0,no_wiki_result
+998,Catania Bowser and Wells seen during the July vote on the Large Retailer Accountability Act have been congratulated by bill supporters seeking to swing their votes,Fake,Catania Bowser|Wells,0.0,0.5,0.5,0.0,0,no_wiki_result
+999,Obama and comedian Joel McHale do not share a laugh,Fake,Obama|Joel McHale,0.0,0.5,0.5,0.0,0,no_wiki_result

@@ -1,0 +1,99 @@
+{
+  "description": "Fusion ablation study \u2014 5-fold LR CV on cached scores, n=300 balanced",
+  "data_source": "fusion_features_300_3feat_finetuned.csv",
+  "n_samples": 300,
+  "n_real": 150,
+  "n_fake": 150,
+  "cv_folds": 5,
+  "baseline_accuracy_pct": 82.67,
+  "baseline_f1_pct": 82.67,
+  "results": [
+    {
+      "combination": "BLIP only",
+      "accuracy": 0.8267,
+      "f1": 0.8256,
+      "precision": 0.8327,
+      "recall": 0.82,
+      "accuracy_pct": 82.67,
+      "f1_pct": 82.56
+    },
+    {
+      "combination": "DeBERTa only",
+      "accuracy": 0.58,
+      "f1": 0.6795,
+      "precision": 0.5523,
+      "recall": 0.8867,
+      "accuracy_pct": 58.0,
+      "f1_pct": 67.95
+    },
+    {
+      "combination": "BLIP + SightEngine",
+      "accuracy": 0.88,
+      "f1": 0.8809,
+      "precision": 0.877,
+      "recall": 0.8867,
+      "accuracy_pct": 88.0,
+      "f1_pct": 88.09
+    },
+    {
+      "combination": "BLIP + DeBERTa",
+      "accuracy": 0.85,
+      "f1": 0.8484,
+      "precision": 0.8581,
+      "recall": 0.84,
+      "accuracy_pct": 85.0,
+      "f1_pct": 84.84
+    },
+    {
+      "combination": "BLIP + DeBERTa + SightEngine",
+      "accuracy": 0.8967,
+      "f1": 0.8958,
+      "precision": 0.9013,
+      "recall": 0.8933,
+      "accuracy_pct": 89.67,
+      "f1_pct": 89.58
+    }
+  ],
+  "ranked_by_f1": [
+    {
+      "rank": 1,
+      "combination": "BLIP + DeBERTa + SightEngine",
+      "accuracy": 0.8967,
+      "f1": 0.8958,
+      "precision": 0.9013,
+      "recall": 0.8933
+    },
+    {
+      "rank": 2,
+      "combination": "BLIP + SightEngine",
+      "accuracy": 0.88,
+      "f1": 0.8809,
+      "precision": 0.877,
+      "recall": 0.8867
+    },
+    {
+      "rank": 3,
+      "combination": "BLIP + DeBERTa",
+      "accuracy": 0.85,
+      "f1": 0.8484,
+      "precision": 0.8581,
+      "recall": 0.84
+    },
+    {
+      "rank": 4,
+      "combination": "BLIP only",
+      "accuracy": 0.8267,
+      "f1": 0.8256,
+      "precision": 0.8327,
+      "recall": 0.82
+    },
+    {
+      "rank": 5,
+      "combination": "DeBERTa only",
+      "accuracy": 0.58,
+      "f1": 0.6795,
+      "precision": 0.5523,
+      "recall": 0.8867
+    }
+  ]
+}

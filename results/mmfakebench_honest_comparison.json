@@ -1,0 +1,101 @@
+{
+  "n_val": 1000,
+  "primary_metric": "AUC",
+  "threshold_protocol": "frozen on held-out train calibration slice (20%), never the eval val",
+  "models": [
+    {
+      "model": "always-predict-Fake (floor)",
+      "AUC": null,
+      "AUC_95ci": null,
+      "accuracy": 0.7,
+      "accuracy_95ci": null,
+      "threshold": null,
+      "per_category": {
+        "original": 0.0,
+        "mismatch": 1.0,
+        "textual_veracity_distortion": 1.0,
+        "visual_veracity_distortion": 1.0
+      }
+    },
+    {
+      "model": "AITR + Ateeq (Variant B)",
+      "AUC": 0.736,
+      "AUC_95ci": [
+        0.7019,
+        0.7713
+      ],
+      "accuracy": 0.687,
+      "accuracy_95ci": [
+        0.66,
+        0.716
+      ],
+      "threshold": 0.7216,
+      "per_category": {
+        "original": 0.75,
+        "mismatch": 0.5833,
+        "textual_veracity_distortion": 0.6867,
+        "visual_veracity_distortion": 0.81
+      }
+    },
+    {
+      "model": "GBM [clip_prob, clip_sim, ateeq]",
+      "AUC": 0.7921,
+      "AUC_95ci": [
+        0.7644,
+        0.8228
+      ],
+      "accuracy": 0.685,
+      "accuracy_95ci": [
+        0.658,
+        0.714
+      ],
+      "threshold": 0.7241,
+      "per_category": {
+        "original": 0.7933,
+        "mismatch": 0.5767,
+        "textual_veracity_distortion": 0.6533,
+        "visual_veracity_distortion": 0.78
+      }
+    },
+    {
+      "model": "GBM [clip_prob, clip_sim] (no Ateeq)",
+      "AUC": 0.7059,
+      "AUC_95ci": [
+        0.6727,
+        0.7428
+      ],
+      "accuracy": 0.666,
+      "accuracy_95ci": [
+        0.639,
+        0.697
+      ],
+      "threshold": 0.6728,
+      "per_category": {
+        "original": 0.6733,
+        "mismatch": 0.7533,
+        "textual_veracity_distortion": 0.57,
+        "visual_veracity_distortion": 0.67
+      }
+    },
+    {
+      "model": "LogReg [clip_prob, clip_sim, ateeq]",
+      "AUC": 0.7473,
+      "AUC_95ci": [
+        0.7142,
+        0.7805
+      ],
+      "accuracy": 0.691,
+      "accuracy_95ci": [
+        0.662,
+        0.72
+      ],
+      "threshold": 0.6766,
+      "per_category": {
+        "original": 0.69,
+        "mismatch": 0.6567,
+        "textual_veracity_distortion": 0.6733,
+        "visual_veracity_distortion": 0.85
+      }
+    }
+  ]
+}

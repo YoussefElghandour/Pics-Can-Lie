@@ -1,0 +1,120 @@
+{
+  "n": 1000,
+  "best_threshold": 0.3,
+  "overall_acc": 0.726,
+  "acc_at_0.5": 0.695,
+  "auc_roc": 0.7367428571428571,
+  "confusion_matrix": [
+    [
+      177,
+      123
+    ],
+    [
+      151,
+      549
+    ]
+  ],
+  "per_category": {
+    "original": {
+      "n": 300,
+      "acc": 0.59
+    },
+    "mismatch": {
+      "n": 300,
+      "acc": 0.72
+    },
+    "textual_veracity_distortion": {
+      "n": 300,
+      "acc": 0.7966666666666666
+    },
+    "visual_veracity_distortion": {
+      "n": 100,
+      "acc": 0.94
+    }
+  },
+  "threshold_sweep": [
+    {
+      "threshold": 0.05,
+      "acc": 0.7
+    },
+    {
+      "threshold": 0.1,
+      "acc": 0.714
+    },
+    {
+      "threshold": 0.15,
+      "acc": 0.723
+    },
+    {
+      "threshold": 0.2,
+      "acc": 0.712
+    },
+    {
+      "threshold": 0.25,
+      "acc": 0.717
+    },
+    {
+      "threshold": 0.3,
+      "acc": 0.726
+    },
+    {
+      "threshold": 0.35,
+      "acc": 0.72
+    },
+    {
+      "threshold": 0.4,
+      "acc": 0.714
+    },
+    {
+      "threshold": 0.45,
+      "acc": 0.715
+    },
+    {
+      "threshold": 0.5,
+      "acc": 0.695
+    },
+    {
+      "threshold": 0.55,
+      "acc": 0.682
+    },
+    {
+      "threshold": 0.6,
+      "acc": 0.662
+    },
+    {
+      "threshold": 0.65,
+      "acc": 0.625
+    },
+    {
+      "threshold": 0.7,
+      "acc": 0.58
+    },
+    {
+      "threshold": 0.75,
+      "acc": 0.539
+    },
+    {
+      "threshold": 0.8,
+      "acc": 0.513
+    },
+    {
+      "threshold": 0.85,
+      "acc": 0.474
+    },
+    {
+      "threshold": 0.9,
+      "acc": 0.42
+    },
+    {
+      "threshold": 0.95,
+      "acc": 0.34
+    }
+  ],
+  "baselines": {
+    "pos_weight_train": 0.42857142857142855,
+    "always_predict_fake_acc": 0.7,
+    "always_predict_real_acc": 0.3
+  },
+  "pos_label": "Fake",
+  "checkpoint": "D:\\Pics Can Lie\\mmfakebench_training\\aitr_mmfb_best.pt"
+}

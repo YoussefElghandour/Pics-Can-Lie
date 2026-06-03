@@ -1,0 +1,1001 @@
+idx,sample_id,image_path,text_source,image_source,fake_cls,gt_answers,label
+0,val_000000,/real/bbc_val_50/BBC_val_0.png,VisualNews,VisualNews,original,True,0
+1,val_000001,/real/bbc_val_50/BBC_val_1.png,VisualNews,VisualNews,original,True,0
+2,val_000002,/real/bbc_val_50/BBC_val_2.png,VisualNews,VisualNews,original,True,0
+3,val_000003,/real/bbc_val_50/BBC_val_3.png,VisualNews,VisualNews,original,True,0
+4,val_000004,/real/bbc_val_50/BBC_val_4.png,VisualNews,VisualNews,original,True,0
+5,val_000005,/real/bbc_val_50/BBC_val_5.png,VisualNews,VisualNews,original,True,0
+6,val_000006,/real/bbc_val_50/BBC_val_6.png,VisualNews,VisualNews,original,True,0
+7,val_000007,/real/bbc_val_50/BBC_val_7.png,VisualNews,VisualNews,original,True,0
+8,val_000008,/real/bbc_val_50/BBC_val_8.png,VisualNews,VisualNews,original,True,0
+9,val_000009,/real/bbc_val_50/BBC_val_9.png,VisualNews,VisualNews,original,True,0
+10,val_000010,/real/bbc_val_50/BBC_val_10.png,VisualNews,VisualNews,original,True,0
+11,val_000011,/real/bbc_val_50/BBC_val_11.png,VisualNews,VisualNews,original,True,0
+12,val_000012,/real/bbc_val_50/BBC_val_12.png,VisualNews,VisualNews,original,True,0
+13,val_000013,/real/bbc_val_50/BBC_val_13.png,VisualNews,VisualNews,original,True,0
+14,val_000014,/real/bbc_val_50/BBC_val_14.png,VisualNews,VisualNews,original,True,0
+15,val_000015,/real/bbc_val_50/BBC_val_15.png,VisualNews,VisualNews,original,True,0
+16,val_000016,/real/bbc_val_50/BBC_val_16.png,VisualNews,VisualNews,original,True,0
+17,val_000017,/real/bbc_val_50/BBC_val_17.png,VisualNews,VisualNews,original,True,0
+18,val_000018,/real/bbc_val_50/BBC_val_18.png,VisualNews,VisualNews,original,True,0
+19,val_000019,/real/bbc_val_50/BBC_val_19.png,VisualNews,VisualNews,original,True,0
+20,val_000020,/real/bbc_val_50/BBC_val_20.png,VisualNews,VisualNews,original,True,0
+21,val_000021,/real/bbc_val_50/BBC_val_21.png,VisualNews,VisualNews,original,True,0
+22,val_000022,/real/bbc_val_50/BBC_val_22.png,VisualNews,VisualNews,original,True,0
+23,val_000023,/real/bbc_val_50/BBC_val_23.png,VisualNews,VisualNews,original,True,0
+24,val_000024,/real/bbc_val_50/BBC_val_24.png,VisualNews,VisualNews,original,True,0
+25,val_000025,/real/bbc_val_50/BBC_val_25.png,VisualNews,VisualNews,original,True,0
+26,val_000026,/real/bbc_val_50/BBC_val_26.png,VisualNews,VisualNews,original,True,0
+27,val_000027,/real/bbc_val_50/BBC_val_27.png,VisualNews,VisualNews,original,True,0
+28,val_000028,/real/bbc_val_50/BBC_val_28.png,VisualNews,VisualNews,original,True,0
+29,val_000029,/real/bbc_val_50/BBC_val_29.png,VisualNews,VisualNews,original,True,0
+30,val_000030,/real/bbc_val_50/BBC_val_30.png,VisualNews,VisualNews,original,True,0
+31,val_000031,/real/bbc_val_50/BBC_val_31.png,VisualNews,VisualNews,original,True,0
+32,val_000032,/real/bbc_val_50/BBC_val_32.png,VisualNews,VisualNews,original,True,0
+33,val_000033,/real/bbc_val_50/BBC_val_33.png,VisualNews,VisualNews,original,True,0
+34,val_000034,/real/bbc_val_50/BBC_val_34.png,VisualNews,VisualNews,original,True,0
+35,val_000035,/real/bbc_val_50/BBC_val_35.png,VisualNews,VisualNews,original,True,0
+36,val_000036,/real/bbc_val_50/BBC_val_36.png,VisualNews,VisualNews,original,True,0
+37,val_000037,/real/bbc_val_50/BBC_val_37.png,VisualNews,VisualNews,original,True,0
+38,val_000038,/real/bbc_val_50/BBC_val_38.png,VisualNews,VisualNews,original,True,0
+39,val_000039,/real/bbc_val_50/BBC_val_39.png,VisualNews,VisualNews,original,True,0
+40,val_000040,/real/bbc_val_50/BBC_val_40.png,VisualNews,VisualNews,original,True,0
+41,val_000041,/real/bbc_val_50/BBC_val_41.png,VisualNews,VisualNews,original,True,0
+42,val_000042,/real/bbc_val_50/BBC_val_42.png,VisualNews,VisualNews,original,True,0
+43,val_000043,/real/bbc_val_50/BBC_val_43.png,VisualNews,VisualNews,original,True,0
+44,val_000044,/real/bbc_val_50/BBC_val_44.png,VisualNews,VisualNews,original,True,0
+45,val_000045,/real/bbc_val_50/BBC_val_45.png,VisualNews,VisualNews,original,True,0
+46,val_000046,/real/bbc_val_50/BBC_val_46.png,VisualNews,VisualNews,original,True,0
+47,val_000047,/real/bbc_val_50/BBC_val_47.png,VisualNews,VisualNews,original,True,0
+48,val_000048,/real/bbc_val_50/BBC_val_48.png,VisualNews,VisualNews,original,True,0
+49,val_000049,/real/bbc_val_50/BBC_val_49.png,VisualNews,VisualNews,original,True,0
+50,val_000050,/real/usa_today_val_50/usa_today_val_0.png,VisualNews,VisualNews,original,True,0
+51,val_000051,/real/usa_today_val_50/usa_today_val_1.png,VisualNews,VisualNews,original,True,0
+52,val_000052,/real/usa_today_val_50/usa_today_val_2.png,VisualNews,VisualNews,original,True,0
+53,val_000053,/real/usa_today_val_50/usa_today_val_3.png,VisualNews,VisualNews,original,True,0
+54,val_000054,/real/usa_today_val_50/usa_today_val_4.png,VisualNews,VisualNews,original,True,0
+55,val_000055,/real/usa_today_val_50/usa_today_val_5.png,VisualNews,VisualNews,original,True,0
+56,val_000056,/real/usa_today_val_50/usa_today_val_6.png,VisualNews,VisualNews,original,True,0
+57,val_000057,/real/usa_today_val_50/usa_today_val_7.png,VisualNews,VisualNews,original,True,0
+58,val_000058,/real/usa_today_val_50/usa_today_val_8.png,VisualNews,VisualNews,original,True,0
+59,val_000059,/real/usa_today_val_50/usa_today_val_9.png,VisualNews,VisualNews,original,True,0
+60,val_000060,/real/usa_today_val_50/usa_today_val_10.png,VisualNews,VisualNews,original,True,0
+61,val_000061,/real/usa_today_val_50/usa_today_val_11.png,VisualNews,VisualNews,original,True,0
+62,val_000062,/real/usa_today_val_50/usa_today_val_12.png,VisualNews,VisualNews,original,True,0
+63,val_000063,/real/usa_today_val_50/usa_today_val_13.png,VisualNews,VisualNews,original,True,0
+64,val_000064,/real/usa_today_val_50/usa_today_val_14.png,VisualNews,VisualNews,original,True,0
+65,val_000065,/real/usa_today_val_50/usa_today_val_15.png,VisualNews,VisualNews,original,True,0
+66,val_000066,/real/usa_today_val_50/usa_today_val_16.png,VisualNews,VisualNews,original,True,0
+67,val_000067,/real/usa_today_val_50/usa_today_val_17.png,VisualNews,VisualNews,original,True,0
+68,val_000068,/real/usa_today_val_50/usa_today_val_18.png,VisualNews,VisualNews,original,True,0
+69,val_000069,/real/usa_today_val_50/usa_today_val_19.png,VisualNews,VisualNews,original,True,0
+70,val_000070,/real/usa_today_val_50/usa_today_val_20.png,VisualNews,VisualNews,original,True,0
+71,val_000071,/real/usa_today_val_50/usa_today_val_21.png,VisualNews,VisualNews,original,True,0
+72,val_000072,/real/usa_today_val_50/usa_today_val_22.png,VisualNews,VisualNews,original,True,0
+73,val_000073,/real/usa_today_val_50/usa_today_val_23.png,VisualNews,VisualNews,original,True,0
+74,val_000074,/real/usa_today_val_50/usa_today_val_24.png,VisualNews,VisualNews,original,True,0
+75,val_000075,/real/usa_today_val_50/usa_today_val_25.png,VisualNews,VisualNews,original,True,0
+76,val_000076,/real/usa_today_val_50/usa_today_val_26.png,VisualNews,VisualNews,original,True,0
+77,val_000077,/real/usa_today_val_50/usa_today_val_27.png,VisualNews,VisualNews,original,True,0
+78,val_000078,/real/usa_today_val_50/usa_today_val_28.png,VisualNews,VisualNews,original,True,0
+79,val_000079,/real/usa_today_val_50/usa_today_val_29.png,VisualNews,VisualNews,original,True,0
+80,val_000080,/real/usa_today_val_50/usa_today_val_30.png,VisualNews,VisualNews,original,True,0
+81,val_000081,/real/usa_today_val_50/usa_today_val_31.png,VisualNews,VisualNews,original,True,0
+82,val_000082,/real/usa_today_val_50/usa_today_val_32.png,VisualNews,VisualNews,original,True,0
+83,val_000083,/real/usa_today_val_50/usa_today_val_33.png,VisualNews,VisualNews,original,True,0
+84,val_000084,/real/usa_today_val_50/usa_today_val_34.png,VisualNews,VisualNews,original,True,0
+85,val_000085,/real/usa_today_val_50/usa_today_val_35.png,VisualNews,VisualNews,original,True,0
+86,val_000086,/real/usa_today_val_50/usa_today_val_36.png,VisualNews,VisualNews,original,True,0
+87,val_000087,/real/usa_today_val_50/usa_today_val_37.png,VisualNews,VisualNews,original,True,0
+88,val_000088,/real/usa_today_val_50/usa_today_val_38.png,VisualNews,VisualNews,original,True,0
+89,val_000089,/real/usa_today_val_50/usa_today_val_39.png,VisualNews,VisualNews,original,True,0
+90,val_000090,/real/usa_today_val_50/usa_today_val_40.png,VisualNews,VisualNews,original,True,0
+91,val_000091,/real/usa_today_val_50/usa_today_val_41.png,VisualNews,VisualNews,original,True,0
+92,val_000092,/real/usa_today_val_50/usa_today_val_42.png,VisualNews,VisualNews,original,True,0
+93,val_000093,/real/usa_today_val_50/usa_today_val_43.png,VisualNews,VisualNews,original,True,0
+94,val_000094,/real/usa_today_val_50/usa_today_val_44.png,VisualNews,VisualNews,original,True,0
+95,val_000095,/real/usa_today_val_50/usa_today_val_45.png,VisualNews,VisualNews,original,True,0
+96,val_000096,/real/usa_today_val_50/usa_today_val_46.png,VisualNews,VisualNews,original,True,0
+97,val_000097,/real/usa_today_val_50/usa_today_val_47.png,VisualNews,VisualNews,original,True,0
+98,val_000098,/real/usa_today_val_50/usa_today_val_48.png,VisualNews,VisualNews,original,True,0
+99,val_000099,/real/usa_today_val_50/usa_today_val_49.png,VisualNews,VisualNews,original,True,0
+100,val_000100,/real/wash_val_50/wash_val_0.png,VisualNews,VisualNews,original,True,0
+101,val_000101,/real/wash_val_50/wash_val_1.png,VisualNews,VisualNews,original,True,0
+102,val_000102,/real/wash_val_50/wash_val_2.png,VisualNews,VisualNews,original,True,0
+103,val_000103,/real/wash_val_50/wash_val_3.png,VisualNews,VisualNews,original,True,0
+104,val_000104,/real/wash_val_50/wash_val_4.png,VisualNews,VisualNews,original,True,0
+105,val_000105,/real/wash_val_50/wash_val_5.png,VisualNews,VisualNews,original,True,0
+106,val_000106,/real/wash_val_50/wash_val_6.png,VisualNews,VisualNews,original,True,0
+107,val_000107,/real/wash_val_50/wash_val_7.png,VisualNews,VisualNews,original,True,0
+108,val_000108,/real/wash_val_50/wash_val_8.png,VisualNews,VisualNews,original,True,0
+109,val_000109,/real/wash_val_50/wash_val_9.png,VisualNews,VisualNews,original,True,0
+110,val_000110,/real/wash_val_50/wash_val_10.png,VisualNews,VisualNews,original,True,0
+111,val_000111,/real/wash_val_50/wash_val_11.png,VisualNews,VisualNews,original,True,0
+112,val_000112,/real/wash_val_50/wash_val_12.png,VisualNews,VisualNews,original,True,0
+113,val_000113,/real/wash_val_50/wash_val_13.png,VisualNews,VisualNews,original,True,0
+114,val_000114,/real/wash_val_50/wash_val_14.png,VisualNews,VisualNews,original,True,0
+115,val_000115,/real/wash_val_50/wash_val_15.png,VisualNews,VisualNews,original,True,0
+116,val_000116,/real/wash_val_50/wash_val_16.png,VisualNews,VisualNews,original,True,0
+117,val_000117,/real/wash_val_50/wash_val_17.png,VisualNews,VisualNews,original,True,0
+118,val_000118,/real/wash_val_50/wash_val_18.png,VisualNews,VisualNews,original,True,0
+119,val_000119,/real/wash_val_50/wash_val_19.png,VisualNews,VisualNews,original,True,0
+120,val_000120,/real/wash_val_50/wash_val_20.png,VisualNews,VisualNews,original,True,0
+121,val_000121,/real/wash_val_50/wash_val_21.png,VisualNews,VisualNews,original,True,0
+122,val_000122,/real/wash_val_50/wash_val_22.png,VisualNews,VisualNews,original,True,0
+123,val_000123,/real/wash_val_50/wash_val_23.png,VisualNews,VisualNews,original,True,0
+124,val_000124,/real/wash_val_50/wash_val_24.png,VisualNews,VisualNews,original,True,0
+125,val_000125,/real/wash_val_50/wash_val_25.png,VisualNews,VisualNews,original,True,0
+126,val_000126,/real/wash_val_50/wash_val_26.png,VisualNews,VisualNews,original,True,0
+127,val_000127,/real/wash_val_50/wash_val_27.png,VisualNews,VisualNews,original,True,0
+128,val_000128,/real/wash_val_50/wash_val_28.png,VisualNews,VisualNews,original,True,0
+129,val_000129,/real/wash_val_50/wash_val_29.png,VisualNews,VisualNews,original,True,0
+130,val_000130,/real/wash_val_50/wash_val_30.png,VisualNews,VisualNews,original,True,0
+131,val_000131,/real/wash_val_50/wash_val_31.png,VisualNews,VisualNews,original,True,0
+132,val_000132,/real/wash_val_50/wash_val_32.png,VisualNews,VisualNews,original,True,0
+133,val_000133,/real/wash_val_50/wash_val_33.png,VisualNews,VisualNews,original,True,0
+134,val_000134,/real/wash_val_50/wash_val_34.png,VisualNews,VisualNews,original,True,0
+135,val_000135,/real/wash_val_50/wash_val_35.png,VisualNews,VisualNews,original,True,0
+136,val_000136,/real/wash_val_50/wash_val_36.png,VisualNews,VisualNews,original,True,0
+137,val_000137,/real/wash_val_50/wash_val_37.png,VisualNews,VisualNews,original,True,0
+138,val_000138,/real/wash_val_50/wash_val_38.png,VisualNews,VisualNews,original,True,0
+139,val_000139,/real/wash_val_50/wash_val_39.png,VisualNews,VisualNews,original,True,0
+140,val_000140,/real/wash_val_50/wash_val_40.png,VisualNews,VisualNews,original,True,0
+141,val_000141,/real/wash_val_50/wash_val_41.png,VisualNews,VisualNews,original,True,0
+142,val_000142,/real/wash_val_50/wash_val_42.png,VisualNews,VisualNews,original,True,0
+143,val_000143,/real/wash_val_50/wash_val_43.png,VisualNews,VisualNews,original,True,0
+144,val_000144,/real/wash_val_50/wash_val_44.png,VisualNews,VisualNews,original,True,0
+145,val_000145,/real/wash_val_50/wash_val_45.png,VisualNews,VisualNews,original,True,0
+146,val_000146,/real/wash_val_50/wash_val_46.png,VisualNews,VisualNews,original,True,0
+147,val_000147,/real/wash_val_50/wash_val_47.png,VisualNews,VisualNews,original,True,0
+148,val_000148,/real/wash_val_50/wash_val_48.png,VisualNews,VisualNews,original,True,0
+149,val_000149,/real/wash_val_50/wash_val_49.png,VisualNews,VisualNews,original,True,0
+150,val_000150,/real/guardian_val_50/guardian_val_0.png,VisualNews,VisualNews,original,True,0
+151,val_000151,/real/guardian_val_50/guardian_val_1.png,VisualNews,VisualNews,original,True,0
+152,val_000152,/real/guardian_val_50/guardian_val_2.png,VisualNews,VisualNews,original,True,0
+153,val_000153,/real/guardian_val_50/guardian_val_3.png,VisualNews,VisualNews,original,True,0
+154,val_000154,/real/guardian_val_50/guardian_val_4.png,VisualNews,VisualNews,original,True,0
+155,val_000155,/real/guardian_val_50/guardian_val_5.png,VisualNews,VisualNews,original,True,0
+156,val_000156,/real/guardian_val_50/guardian_val_6.png,VisualNews,VisualNews,original,True,0
+157,val_000157,/real/guardian_val_50/guardian_val_7.png,VisualNews,VisualNews,original,True,0
+158,val_000158,/real/guardian_val_50/guardian_val_8.png,VisualNews,VisualNews,original,True,0
+159,val_000159,/real/guardian_val_50/guardian_val_9.png,VisualNews,VisualNews,original,True,0
+160,val_000160,/real/guardian_val_50/guardian_val_10.png,VisualNews,VisualNews,original,True,0
+161,val_000161,/real/guardian_val_50/guardian_val_11.png,VisualNews,VisualNews,original,True,0
+162,val_000162,/real/guardian_val_50/guardian_val_12.png,VisualNews,VisualNews,original,True,0
+163,val_000163,/real/guardian_val_50/guardian_val_13.png,VisualNews,VisualNews,original,True,0
+164,val_000164,/real/guardian_val_50/guardian_val_14.png,VisualNews,VisualNews,original,True,0
+165,val_000165,/real/guardian_val_50/guardian_val_15.png,VisualNews,VisualNews,original,True,0
+166,val_000166,/real/guardian_val_50/guardian_val_16.png,VisualNews,VisualNews,original,True,0
+167,val_000167,/real/guardian_val_50/guardian_val_17.png,VisualNews,VisualNews,original,True,0
+168,val_000168,/real/guardian_val_50/guardian_val_18.png,VisualNews,VisualNews,original,True,0
+169,val_000169,/real/guardian_val_50/guardian_val_19.png,VisualNews,VisualNews,original,True,0
+170,val_000170,/real/guardian_val_50/guardian_val_20.png,VisualNews,VisualNews,original,True,0
+171,val_000171,/real/guardian_val_50/guardian_val_21.png,VisualNews,VisualNews,original,True,0
+172,val_000172,/real/guardian_val_50/guardian_val_22.png,VisualNews,VisualNews,original,True,0
+173,val_000173,/real/guardian_val_50/guardian_val_23.png,VisualNews,VisualNews,original,True,0
+174,val_000174,/real/guardian_val_50/guardian_val_24.png,VisualNews,VisualNews,original,True,0
+175,val_000175,/real/guardian_val_50/guardian_val_25.png,VisualNews,VisualNews,original,True,0
+176,val_000176,/real/guardian_val_50/guardian_val_26.png,VisualNews,VisualNews,original,True,0
+177,val_000177,/real/guardian_val_50/guardian_val_27.png,VisualNews,VisualNews,original,True,0
+178,val_000178,/real/guardian_val_50/guardian_val_28.png,VisualNews,VisualNews,original,True,0
+179,val_000179,/real/guardian_val_50/guardian_val_29.png,VisualNews,VisualNews,original,True,0
+180,val_000180,/real/guardian_val_50/guardian_val_30.png,VisualNews,VisualNews,original,True,0
+181,val_000181,/real/guardian_val_50/guardian_val_31.png,VisualNews,VisualNews,original,True,0
+182,val_000182,/real/guardian_val_50/guardian_val_32.png,VisualNews,VisualNews,original,True,0
+183,val_000183,/real/guardian_val_50/guardian_val_33.png,VisualNews,VisualNews,original,True,0
+184,val_000184,/real/guardian_val_50/guardian_val_34.png,VisualNews,VisualNews,original,True,0
+185,val_000185,/real/guardian_val_50/guardian_val_35.png,VisualNews,VisualNews,original,True,0
+186,val_000186,/real/guardian_val_50/guardian_val_36.png,VisualNews,VisualNews,original,True,0
+187,val_000187,/real/guardian_val_50/guardian_val_37.png,VisualNews,VisualNews,original,True,0
+188,val_000188,/real/guardian_val_50/guardian_val_38.png,VisualNews,VisualNews,original,True,0
+189,val_000189,/real/guardian_val_50/guardian_val_39.png,VisualNews,VisualNews,original,True,0
+190,val_000190,/real/guardian_val_50/guardian_val_40.png,VisualNews,VisualNews,original,True,0
+191,val_000191,/real/guardian_val_50/guardian_val_41.png,VisualNews,VisualNews,original,True,0
+192,val_000192,/real/guardian_val_50/guardian_val_42.png,VisualNews,VisualNews,original,True,0
+193,val_000193,/real/guardian_val_50/guardian_val_43.png,VisualNews,VisualNews,original,True,0
+194,val_000194,/real/guardian_val_50/guardian_val_44.png,VisualNews,VisualNews,original,True,0
+195,val_000195,/real/guardian_val_50/guardian_val_45.png,VisualNews,VisualNews,original,True,0
+196,val_000196,/real/guardian_val_50/guardian_val_46.png,VisualNews,VisualNews,original,True,0
+197,val_000197,/real/guardian_val_50/guardian_val_47.png,VisualNews,VisualNews,original,True,0
+198,val_000198,/real/guardian_val_50/guardian_val_48.png,VisualNews,VisualNews,original,True,0
+199,val_000199,/real/guardian_val_50/guardian_val_49.png,VisualNews,VisualNews,original,True,0
+200,val_000200,/real/coco_val_50/coco_val_0.png,MS-COCO,MS-COCO,original,True,0
+201,val_000201,/real/coco_val_50/coco_val_1.png,MS-COCO,MS-COCO,original,True,0
+202,val_000202,/real/coco_val_50/coco_val_2.png,MS-COCO,MS-COCO,original,True,0
+203,val_000203,/real/coco_val_50/coco_val_3.png,MS-COCO,MS-COCO,original,True,0
+204,val_000204,/real/coco_val_50/coco_val_4.png,MS-COCO,MS-COCO,original,True,0
+205,val_000205,/real/coco_val_50/coco_val_5.png,MS-COCO,MS-COCO,original,True,0
+206,val_000206,/real/coco_val_50/coco_val_6.png,MS-COCO,MS-COCO,original,True,0
+207,val_000207,/real/coco_val_50/coco_val_7.png,MS-COCO,MS-COCO,original,True,0
+208,val_000208,/real/coco_val_50/coco_val_8.png,MS-COCO,MS-COCO,original,True,0
+209,val_000209,/real/coco_val_50/coco_val_9.png,MS-COCO,MS-COCO,original,True,0
+210,val_000210,/real/coco_val_50/coco_val_10.png,MS-COCO,MS-COCO,original,True,0
+211,val_000211,/real/coco_val_50/coco_val_11.png,MS-COCO,MS-COCO,original,True,0
+212,val_000212,/real/coco_val_50/coco_val_12.png,MS-COCO,MS-COCO,original,True,0
+213,val_000213,/real/coco_val_50/coco_val_13.png,MS-COCO,MS-COCO,original,True,0
+214,val_000214,/real/coco_val_50/coco_val_14.png,MS-COCO,MS-COCO,original,True,0
+215,val_000215,/real/coco_val_50/coco_val_15.png,MS-COCO,MS-COCO,original,True,0
+216,val_000216,/real/coco_val_50/coco_val_16.png,MS-COCO,MS-COCO,original,True,0
+217,val_000217,/real/coco_val_50/coco_val_17.png,MS-COCO,MS-COCO,original,True,0
+218,val_000218,/real/coco_val_50/coco_val_18.png,MS-COCO,MS-COCO,original,True,0
+219,val_000219,/real/coco_val_50/coco_val_19.png,MS-COCO,MS-COCO,original,True,0
+220,val_000220,/real/coco_val_50/coco_val_20.png,MS-COCO,MS-COCO,original,True,0
+221,val_000221,/real/coco_val_50/coco_val_21.png,MS-COCO,MS-COCO,original,True,0
+222,val_000222,/real/coco_val_50/coco_val_22.png,MS-COCO,MS-COCO,original,True,0
+223,val_000223,/real/coco_val_50/coco_val_23.png,MS-COCO,MS-COCO,original,True,0
+224,val_000224,/real/coco_val_50/coco_val_24.png,MS-COCO,MS-COCO,original,True,0
+225,val_000225,/real/coco_val_50/coco_val_25.png,MS-COCO,MS-COCO,original,True,0
+226,val_000226,/real/coco_val_50/coco_val_26.png,MS-COCO,MS-COCO,original,True,0
+227,val_000227,/real/coco_val_50/coco_val_27.png,MS-COCO,MS-COCO,original,True,0
+228,val_000228,/real/coco_val_50/coco_val_28.png,MS-COCO,MS-COCO,original,True,0
+229,val_000229,/real/coco_val_50/coco_val_29.png,MS-COCO,MS-COCO,original,True,0
+230,val_000230,/real/coco_val_50/coco_val_30.png,MS-COCO,MS-COCO,original,True,0
+231,val_000231,/real/coco_val_50/coco_val_31.png,MS-COCO,MS-COCO,original,True,0
+232,val_000232,/real/coco_val_50/coco_val_32.png,MS-COCO,MS-COCO,original,True,0
+233,val_000233,/real/coco_val_50/coco_val_33.png,MS-COCO,MS-COCO,original,True,0
+234,val_000234,/real/coco_val_50/coco_val_34.png,MS-COCO,MS-COCO,original,True,0
+235,val_000235,/real/coco_val_50/coco_val_35.png,MS-COCO,MS-COCO,original,True,0
+236,val_000236,/real/coco_val_50/coco_val_36.png,MS-COCO,MS-COCO,original,True,0
+237,val_000237,/real/coco_val_50/coco_val_37.png,MS-COCO,MS-COCO,original,True,0
+238,val_000238,/real/coco_val_50/coco_val_38.png,MS-COCO,MS-COCO,original,True,0
+239,val_000239,/real/coco_val_50/coco_val_39.png,MS-COCO,MS-COCO,original,True,0
+240,val_000240,/real/coco_val_50/coco_val_40.png,MS-COCO,MS-COCO,original,True,0
+241,val_000241,/real/coco_val_50/coco_val_41.png,MS-COCO,MS-COCO,original,True,0
+242,val_000242,/real/coco_val_50/coco_val_42.png,MS-COCO,MS-COCO,original,True,0
+243,val_000243,/real/coco_val_50/coco_val_43.png,MS-COCO,MS-COCO,original,True,0
+244,val_000244,/real/coco_val_50/coco_val_44.png,MS-COCO,MS-COCO,original,True,0
+245,val_000245,/real/coco_val_50/coco_val_45.png,MS-COCO,MS-COCO,original,True,0
+246,val_000246,/real/coco_val_50/coco_val_46.png,MS-COCO,MS-COCO,original,True,0
+247,val_000247,/real/coco_val_50/coco_val_47.png,MS-COCO,MS-COCO,original,True,0
+248,val_000248,/real/coco_val_50/coco_val_48.png,MS-COCO,MS-COCO,original,True,0
+249,val_000249,/real/coco_val_50/coco_val_49.png,MS-COCO,MS-COCO,original,True,0
+250,val_000250,/real/fakeddit_val_50/fakeddit_val_0.png,Fakeddit,Fakeddit,original,True,0
+251,val_000251,/real/fakeddit_val_50/fakeddit_val_1.png,Fakeddit,Fakeddit,original,True,0
+252,val_000252,/real/fakeddit_val_50/fakeddit_val_2.png,Fakeddit,Fakeddit,original,True,0
+253,val_000253,/real/fakeddit_val_50/fakeddit_val_3.png,Fakeddit,Fakeddit,original,True,0
+254,val_000254,/real/fakeddit_val_50/fakeddit_val_4.png,Fakeddit,Fakeddit,original,True,0
+255,val_000255,/real/fakeddit_val_50/fakeddit_val_5.png,Fakeddit,Fakeddit,original,True,0
+256,val_000256,/real/fakeddit_val_50/fakeddit_val_6.png,Fakeddit,Fakeddit,original,True,0
+257,val_000257,/real/fakeddit_val_50/fakeddit_val_7.png,Fakeddit,Fakeddit,original,True,0
+258,val_000258,/real/fakeddit_val_50/fakeddit_val_8.png,Fakeddit,Fakeddit,original,True,0
+259,val_000259,/real/fakeddit_val_50/fakeddit_val_9.png,Fakeddit,Fakeddit,original,True,0
+260,val_000260,/real/fakeddit_val_50/fakeddit_val_10.png,Fakeddit,Fakeddit,original,True,0
+261,val_000261,/real/fakeddit_val_50/fakeddit_val_11.png,Fakeddit,Fakeddit,original,True,0
+262,val_000262,/real/fakeddit_val_50/fakeddit_val_12.png,Fakeddit,Fakeddit,original,True,0
+263,val_000263,/real/fakeddit_val_50/fakeddit_val_13.png,Fakeddit,Fakeddit,original,True,0
+264,val_000264,/real/fakeddit_val_50/fakeddit_val_14.png,Fakeddit,Fakeddit,original,True,0
+265,val_000265,/real/fakeddit_val_50/fakeddit_val_15.png,Fakeddit,Fakeddit,original,True,0
+266,val_000266,/real/fakeddit_val_50/fakeddit_val_16.png,Fakeddit,Fakeddit,original,True,0
+267,val_000267,/real/fakeddit_val_50/fakeddit_val_17.png,Fakeddit,Fakeddit,original,True,0
+268,val_000268,/real/fakeddit_val_50/fakeddit_val_18.png,Fakeddit,Fakeddit,original,True,0
+269,val_000269,/real/fakeddit_val_50/fakeddit_val_19.png,Fakeddit,Fakeddit,original,True,0
+270,val_000270,/real/fakeddit_val_50/fakeddit_val_20.png,Fakeddit,Fakeddit,original,True,0
+271,val_000271,/real/fakeddit_val_50/fakeddit_val_21.png,Fakeddit,Fakeddit,original,True,0
+272,val_000272,/real/fakeddit_val_50/fakeddit_val_22.png,Fakeddit,Fakeddit,original,True,0
+273,val_000273,/real/fakeddit_val_50/fakeddit_val_23.png,Fakeddit,Fakeddit,original,True,0
+274,val_000274,/real/fakeddit_val_50/fakeddit_val_24.png,Fakeddit,Fakeddit,original,True,0
+275,val_000275,/real/fakeddit_val_50/fakeddit_val_25.png,Fakeddit,Fakeddit,original,True,0
+276,val_000276,/real/fakeddit_val_50/fakeddit_val_26.png,Fakeddit,Fakeddit,original,True,0
+277,val_000277,/real/fakeddit_val_50/fakeddit_val_27.png,Fakeddit,Fakeddit,original,True,0
+278,val_000278,/real/fakeddit_val_50/fakeddit_val_28.png,Fakeddit,Fakeddit,original,True,0
+279,val_000279,/real/fakeddit_val_50/fakeddit_val_29.png,Fakeddit,Fakeddit,original,True,0
+280,val_000280,/real/fakeddit_val_50/fakeddit_val_30.png,Fakeddit,Fakeddit,original,True,0
+281,val_000281,/real/fakeddit_val_50/fakeddit_val_31.png,Fakeddit,Fakeddit,original,True,0
+282,val_000282,/real/fakeddit_val_50/fakeddit_val_32.png,Fakeddit,Fakeddit,original,True,0
+283,val_000283,/real/fakeddit_val_50/fakeddit_val_33.png,Fakeddit,Fakeddit,original,True,0
+284,val_000284,/real/fakeddit_val_50/fakeddit_val_34.png,Fakeddit,Fakeddit,original,True,0
+285,val_000285,/real/fakeddit_val_50/fakeddit_val_35.png,Fakeddit,Fakeddit,original,True,0
+286,val_000286,/real/fakeddit_val_50/fakeddit_val_36.png,Fakeddit,Fakeddit,original,True,0
+287,val_000287,/real/fakeddit_val_50/fakeddit_val_37.png,Fakeddit,Fakeddit,original,True,0
+288,val_000288,/real/fakeddit_val_50/fakeddit_val_38.png,Fakeddit,Fakeddit,original,True,0
+289,val_000289,/real/fakeddit_val_50/fakeddit_val_39.png,Fakeddit,Fakeddit,original,True,0
+290,val_000290,/real/fakeddit_val_50/fakeddit_val_40.png,Fakeddit,Fakeddit,original,True,0
+291,val_000291,/real/fakeddit_val_50/fakeddit_val_41.png,Fakeddit,Fakeddit,original,True,0
+292,val_000292,/real/fakeddit_val_50/fakeddit_val_42.png,Fakeddit,Fakeddit,original,True,0
+293,val_000293,/real/fakeddit_val_50/fakeddit_val_43.png,Fakeddit,Fakeddit,original,True,0
+294,val_000294,/real/fakeddit_val_50/fakeddit_val_44.png,Fakeddit,Fakeddit,original,True,0
+295,val_000295,/real/fakeddit_val_50/fakeddit_val_45.png,Fakeddit,Fakeddit,original,True,0
+296,val_000296,/real/fakeddit_val_50/fakeddit_val_46.png,Fakeddit,Fakeddit,original,True,0
+297,val_000297,/real/fakeddit_val_50/fakeddit_val_47.png,Fakeddit,Fakeddit,original,True,0
+298,val_000298,/real/fakeddit_val_50/fakeddit_val_48.png,Fakeddit,Fakeddit,original,True,0
+299,val_000299,/real/fakeddit_val_50/fakeddit_val_49.png,Fakeddit,Fakeddit,original,True,0
+300,val_000300,/fake/fever_AI_val_100/fever_val_AI_1.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+301,val_000301,/fake/fever_AI_val_100/fever_val_AI_2.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+302,val_000302,/fake/fever_AI_val_100/fever_val_AI_3.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+303,val_000303,/fake/fever_AI_val_100/fever_val_AI_4.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+304,val_000304,/fake/fever_AI_val_100/fever_val_AI_5.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+305,val_000305,/fake/fever_AI_val_100/fever_val_AI_6.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+306,val_000306,/fake/fever_AI_val_100/fever_val_AI_7.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+307,val_000307,/fake/fever_AI_val_100/fever_val_AI_8.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+308,val_000308,/fake/fever_AI_val_100/fever_val_AI_9.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+309,val_000309,/fake/fever_AI_val_100/fever_val_AI_10.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+310,val_000310,/fake/fever_AI_val_100/fever_val_AI_11.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+311,val_000311,/fake/fever_AI_val_100/fever_val_AI_12.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+312,val_000312,/fake/fever_AI_val_100/fever_val_AI_13.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+313,val_000313,/fake/fever_AI_val_100/fever_val_AI_14.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+314,val_000314,/fake/fever_AI_val_100/fever_val_AI_15.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+315,val_000315,/fake/fever_AI_val_100/fever_val_AI_16.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+316,val_000316,/fake/fever_AI_val_100/fever_val_AI_17.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+317,val_000317,/fake/fever_AI_val_100/fever_val_AI_18.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+318,val_000318,/fake/fever_AI_val_100/fever_val_AI_19.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+319,val_000319,/fake/fever_AI_val_100/fever_val_AI_20.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+320,val_000320,/fake/fever_AI_val_100/fever_val_AI_21.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+321,val_000321,/fake/fever_AI_val_100/fever_val_AI_22.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+322,val_000322,/fake/fever_AI_val_100/fever_val_AI_23.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+323,val_000323,/fake/fever_AI_val_100/fever_val_AI_24.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+324,val_000324,/fake/fever_AI_val_100/fever_val_AI_25.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+325,val_000325,/fake/fever_AI_val_100/fever_val_AI_26.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+326,val_000326,/fake/fever_AI_val_100/fever_val_AI_27.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+327,val_000327,/fake/fever_AI_val_100/fever_val_AI_28.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+328,val_000328,/fake/fever_AI_val_100/fever_val_AI_29.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+329,val_000329,/fake/fever_AI_val_100/fever_val_AI_30.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+330,val_000330,/fake/fever_AI_val_100/fever_val_AI_31.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+331,val_000331,/fake/fever_AI_val_100/fever_val_AI_32.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+332,val_000332,/fake/fever_AI_val_100/fever_val_AI_33.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+333,val_000333,/fake/fever_AI_val_100/fever_val_AI_34.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+334,val_000334,/fake/fever_AI_val_100/fever_val_AI_35.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+335,val_000335,/fake/fever_AI_val_100/fever_val_AI_36.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+336,val_000336,/fake/fever_AI_val_100/fever_val_AI_37.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+337,val_000337,/fake/fever_AI_val_100/fever_val_AI_38.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+338,val_000338,/fake/fever_AI_val_100/fever_val_AI_39.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+339,val_000339,/fake/fever_AI_val_100/fever_val_AI_40.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+340,val_000340,/fake/fever_AI_val_100/fever_val_AI_41.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+341,val_000341,/fake/fever_AI_val_100/fever_val_AI_42.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+342,val_000342,/fake/fever_AI_val_100/fever_val_AI_43.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+343,val_000343,/fake/fever_AI_val_100/fever_val_AI_44.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+344,val_000344,/fake/fever_AI_val_100/fever_val_AI_45.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+345,val_000345,/fake/fever_AI_val_100/fever_val_AI_46.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+346,val_000346,/fake/fever_AI_val_100/fever_val_AI_47.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+347,val_000347,/fake/fever_AI_val_100/fever_val_AI_48.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+348,val_000348,/fake/fever_AI_val_100/fever_val_AI_49.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+349,val_000349,/fake/fever_AI_val_100/fever_val_AI_50.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+350,val_000350,/fake/fever_AI_val_100/fever_val_AI_51.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+351,val_000351,/fake/fever_AI_val_100/fever_val_AI_52.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+352,val_000352,/fake/fever_AI_val_100/fever_val_AI_53.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+353,val_000353,/fake/fever_AI_val_100/fever_val_AI_54.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+354,val_000354,/fake/fever_AI_val_100/fever_val_AI_55.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+355,val_000355,/fake/fever_AI_val_100/fever_dalle_val_1.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+356,val_000356,/fake/fever_AI_val_100/fever_dalle_val_2.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+357,val_000357,/fake/fever_AI_val_100/fever_dalle_val_3.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+358,val_000358,/fake/fever_AI_val_100/fever_dalle_val_4.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+359,val_000359,/fake/fever_AI_val_100/fever_dalle_val_5.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+360,val_000360,/fake/fever_AI_val_100/fever_dalle_val_6.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+361,val_000361,/fake/fever_AI_val_100/fever_dalle_val_7.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+362,val_000362,/fake/fever_AI_val_100/fever_dalle_val_8.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+363,val_000363,/fake/fever_AI_val_100/fever_dalle_val_9.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+364,val_000364,/fake/fever_AI_val_100/fever_dalle_val_10.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+365,val_000365,/fake/fever_AI_val_100/fever_dalle_val_11.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+366,val_000366,/fake/fever_AI_val_100/fever_dalle_val_12.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+367,val_000367,/fake/fever_AI_val_100/fever_dalle_val_13.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+368,val_000368,/fake/fever_AI_val_100/fever_dalle_val_14.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+369,val_000369,/fake/fever_AI_val_100/fever_dalle_val_15.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+370,val_000370,/fake/fever_AI_val_100/fever_dalle_val_16.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+371,val_000371,/fake/fever_AI_val_100/fever_dalle_val_17.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+372,val_000372,/fake/fever_AI_val_100/fever_dalle_val_18.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+373,val_000373,/fake/fever_AI_val_100/fever_dalle_val_19.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+374,val_000374,/fake/fever_AI_val_100/fever_dalle_val_20.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+375,val_000375,/fake/fever_AI_val_100/fever_dalle_val_21.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+376,val_000376,/fake/fever_AI_val_100/fever_val_SD_1.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+377,val_000377,/fake/fever_AI_val_100/fever_val_SD_2.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+378,val_000378,/fake/fever_AI_val_100/fever_val_SD_3.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+379,val_000379,/fake/fever_AI_val_100/fever_val_SD_4.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+380,val_000380,/fake/fever_AI_val_100/fever_val_SD_5.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+381,val_000381,/fake/fever_AI_val_100/fever_val_SD_6.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+382,val_000382,/fake/fever_AI_val_100/fever_val_SD_7.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+383,val_000383,/fake/fever_AI_val_100/fever_val_SD_8.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+384,val_000384,/fake/fever_AI_val_100/fever_val_SD_9.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+385,val_000385,/fake/fever_AI_val_100/fever_val_SD_10.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+386,val_000386,/fake/fever_AI_val_100/fever_val_SD_11.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+387,val_000387,/fake/fever_AI_val_100/fever_val_SD_12.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+388,val_000388,/fake/fever_AI_val_100/fever_val_SD_13.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+389,val_000389,/fake/fever_AI_val_100/fever_val_SD_14.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+390,val_000390,/fake/fever_AI_val_100/fever_val_SD_15.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+391,val_000391,/fake/fever_AI_val_100/fever_val_SD_16.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+392,val_000392,/fake/fever_AI_val_100/fever_val_SD_17.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+393,val_000393,/fake/fever_AI_val_100/fever_val_SD_18.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+394,val_000394,/fake/fever_AI_val_100/fever_val_SD_19.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+395,val_000395,/fake/fever_AI_val_100/fever_val_SD_20.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+396,val_000396,/fake/fever_AI_val_100/fever_val_SD_21.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+397,val_000397,/fake/fever_AI_val_100/fever_val_SD_22.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+398,val_000398,/fake/fever_AI_val_100/fever_val_SD_23.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+399,val_000399,/fake/fever_AI_val_100/fever_val_SD_24.png,Fever,AI-generated Image,textual_veracity_distortion,Fake,1
+400,val_000400,/fake/politicat_match_val_50/politicat_match_val_0.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+401,val_000401,/fake/politicat_match_val_50/politicat_match_val_1.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+402,val_000402,/fake/politicat_match_val_50/politicat_match_val_2.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+403,val_000403,/fake/politicat_match_val_50/politicat_match_val_3.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+404,val_000404,/fake/politicat_match_val_50/politicat_match_val_4.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+405,val_000405,/fake/politicat_match_val_50/politicat_match_val_5.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+406,val_000406,/fake/politicat_match_val_50/politicat_match_val_6.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+407,val_000407,/fake/politicat_match_val_50/politicat_match_val_7.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+408,val_000408,/fake/politicat_match_val_50/politicat_match_val_8.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+409,val_000409,/fake/politicat_match_val_50/politicat_match_val_9.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+410,val_000410,/fake/politicat_match_val_50/politicat_match_val_10.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+411,val_000411,/fake/politicat_match_val_50/politicat_match_val_11.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+412,val_000412,/fake/politicat_match_val_50/politicat_match_val_12.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+413,val_000413,/fake/politicat_match_val_50/politicat_match_val_13.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+414,val_000414,/fake/politicat_match_val_50/politicat_match_val_14.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+415,val_000415,/fake/politicat_match_val_50/politicat_match_val_15.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+416,val_000416,/fake/politicat_match_val_50/politicat_match_val_16.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+417,val_000417,/fake/politicat_match_val_50/politicat_match_val_17.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+418,val_000418,/fake/politicat_match_val_50/politicat_match_val_18.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+419,val_000419,/fake/politicat_match_val_50/politicat_match_val_19.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+420,val_000420,/fake/politicat_match_val_50/politicat_match_val_20.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+421,val_000421,/fake/politicat_match_val_50/politicat_match_val_21.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+422,val_000422,/fake/politicat_match_val_50/politicat_match_val_22.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+423,val_000423,/fake/politicat_match_val_50/politicat_match_val_23.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+424,val_000424,/fake/politicat_match_val_50/politicat_match_val_24.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+425,val_000425,/fake/politicat_match_val_50/politicat_match_val_25.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+426,val_000426,/fake/politicat_match_val_50/politicat_match_val_26.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+427,val_000427,/fake/politicat_match_val_50/politicat_match_val_27.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+428,val_000428,/fake/politicat_match_val_50/politicat_match_val_28.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+429,val_000429,/fake/politicat_match_val_50/politicat_match_val_29.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+430,val_000430,/fake/politicat_match_val_50/politicat_match_val_30.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+431,val_000431,/fake/politicat_match_val_50/politicat_match_val_31.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+432,val_000432,/fake/politicat_match_val_50/politicat_match_val_32.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+433,val_000433,/fake/politicat_match_val_50/politicat_match_val_33.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+434,val_000434,/fake/politicat_match_val_50/politicat_match_val_34.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+435,val_000435,/fake/politicat_match_val_50/politicat_match_val_35.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+436,val_000436,/fake/politicat_match_val_50/politicat_match_val_36.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+437,val_000437,/fake/politicat_match_val_50/politicat_match_val_37.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+438,val_000438,/fake/politicat_match_val_50/politicat_match_val_38.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+439,val_000439,/fake/politicat_match_val_50/politicat_match_val_39.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+440,val_000440,/fake/politicat_match_val_50/politicat_match_val_40.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+441,val_000441,/fake/politicat_match_val_50/politicat_match_val_41.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+442,val_000442,/fake/politicat_match_val_50/politicat_match_val_42.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+443,val_000443,/fake/politicat_match_val_50/politicat_match_val_43.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+444,val_000444,/fake/politicat_match_val_50/politicat_match_val_44.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+445,val_000445,/fake/politicat_match_val_50/politicat_match_val_45.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+446,val_000446,/fake/politicat_match_val_50/politicat_match_val_46.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+447,val_000447,/fake/politicat_match_val_50/politicat_match_val_47.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+448,val_000448,/fake/politicat_match_val_50/politicat_match_val_48.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+449,val_000449,/fake/politicat_match_val_50/politicat_match_val_49.png,Fakenewsnet,Repurposed Image,textual_veracity_distortion,Fake,1
+450,val_000450,/fake/gossipcop_match_val_25/gossipcop_match_val_0.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+451,val_000451,/fake/gossipcop_match_val_25/gossipcop_match_val_1.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+452,val_000452,/fake/gossipcop_match_val_25/gossipcop_match_val_2.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+453,val_000453,/fake/gossipcop_match_val_25/gossipcop_match_val_3.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+454,val_000454,/fake/gossipcop_match_val_25/gossipcop_match_val_4.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+455,val_000455,/fake/gossipcop_match_val_25/gossipcop_match_val_5.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+456,val_000456,/fake/gossipcop_match_val_25/gossipcop_match_val_6.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+457,val_000457,/fake/gossipcop_match_val_25/gossipcop_match_val_7.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+458,val_000458,/fake/gossipcop_match_val_25/gossipcop_match_val_8.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+459,val_000459,/fake/gossipcop_match_val_25/gossipcop_match_val_9.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+460,val_000460,/fake/gossipcop_match_val_25/gossipcop_match_val_10.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+461,val_000461,/fake/gossipcop_match_val_25/gossipcop_match_val_11.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+462,val_000462,/fake/gossipcop_match_val_25/gossipcop_match_val_12.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+463,val_000463,/fake/gossipcop_match_val_25/gossipcop_match_val_13.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+464,val_000464,/fake/gossipcop_match_val_25/gossipcop_match_val_14.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+465,val_000465,/fake/gossipcop_match_val_25/gossipcop_match_val_15.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+466,val_000466,/fake/gossipcop_match_val_25/gossipcop_match_val_16.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+467,val_000467,/fake/gossipcop_match_val_25/gossipcop_match_val_17.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+468,val_000468,/fake/gossipcop_match_val_25/gossipcop_match_val_18.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+469,val_000469,/fake/gossipcop_match_val_25/gossipcop_match_val_19.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+470,val_000470,/fake/gossipcop_match_val_25/gossipcop_match_val_20.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+471,val_000471,/fake/gossipcop_match_val_25/gossipcop_match_val_21.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+472,val_000472,/fake/gossipcop_match_val_25/gossipcop_match_val_22.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+473,val_000473,/fake/gossipcop_match_val_25/gossipcop_match_val_23.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+474,val_000474,/fake/gossipcop_match_val_25/gossipcop_match_val_24.png,Gossipcop,Repurposed Image,textual_veracity_distortion,Fake,1
+475,val_000475,/fake/gossipcop_midjourney_val_25/gossipcop_val_1.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+476,val_000476,/fake/gossipcop_midjourney_val_25/gossipcop_val_2.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+477,val_000477,/fake/gossipcop_midjourney_val_25/gossipcop_val_3.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+478,val_000478,/fake/gossipcop_midjourney_val_25/gossipcop_val_4.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+479,val_000479,/fake/gossipcop_midjourney_val_25/gossipcop_val_5.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+480,val_000480,/fake/gossipcop_midjourney_val_25/gossipcop_val_6.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+481,val_000481,/fake/gossipcop_midjourney_val_25/gossipcop_val_7.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+482,val_000482,/fake/gossipcop_midjourney_val_25/gossipcop_val_8.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+483,val_000483,/fake/gossipcop_midjourney_val_25/gossipcop_val_9.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+484,val_000484,/fake/gossipcop_midjourney_val_25/gossipcop_val_10.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+485,val_000485,/fake/gossipcop_midjourney_val_25/gossipcop_val_11.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+486,val_000486,/fake/gossipcop_midjourney_val_25/gossipcop_val_12.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+487,val_000487,/fake/gossipcop_midjourney_val_25/gossipcop_val_13.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+488,val_000488,/fake/gossipcop_midjourney_val_25/gossipcop_val_14.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+489,val_000489,/fake/gossipcop_midjourney_val_25/gossipcop_val_15.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+490,val_000490,/fake/gossipcop_midjourney_val_25/gossipcop_val_16.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+491,val_000491,/fake/gossipcop_midjourney_val_25/gossipcop_val_17.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+492,val_000492,/fake/gossipcop_midjourney_val_25/gossipcop_val_18.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+493,val_000493,/fake/gossipcop_midjourney_val_25/gossipcop_val_19.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+494,val_000494,/fake/gossipcop_midjourney_val_25/gossipcop_val_20.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+495,val_000495,/fake/gossipcop_midjourney_val_25/gossipcop_val_21.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+496,val_000496,/fake/gossipcop_midjourney_val_25/gossipcop_val_22.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+497,val_000497,/fake/gossipcop_midjourney_val_25/gossipcop_val_23.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+498,val_000498,/fake/gossipcop_midjourney_val_25/gossipcop_val_24.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+499,val_000499,/fake/gossipcop_midjourney_val_25/gossipcop_val_25.png,Fakenewsnet,AI-generated Image,textual_veracity_distortion,Fake,1
+500,val_000500,/fake/chatgpt_match_val_50/chatgpt_match_val_0.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+501,val_000501,/fake/chatgpt_match_val_50/chatgpt_match_val_1.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+502,val_000502,/fake/chatgpt_match_val_50/chatgpt_match_val_2.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+503,val_000503,/fake/chatgpt_match_val_50/chatgpt_match_val_3.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+504,val_000504,/fake/chatgpt_match_val_50/chatgpt_match_val_4.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+505,val_000505,/fake/chatgpt_match_val_50/chatgpt_match_val_5.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+506,val_000506,/fake/chatgpt_match_val_50/chatgpt_match_val_6.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+507,val_000507,/fake/chatgpt_match_val_50/chatgpt_match_val_7.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+508,val_000508,/fake/chatgpt_match_val_50/chatgpt_match_val_8.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+509,val_000509,/fake/chatgpt_match_val_50/chatgpt_match_val_9.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+510,val_000510,/fake/chatgpt_match_val_50/chatgpt_match_val_10.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+511,val_000511,/fake/chatgpt_match_val_50/chatgpt_match_val_11.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+512,val_000512,/fake/chatgpt_match_val_50/chatgpt_match_val_12.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+513,val_000513,/fake/chatgpt_match_val_50/chatgpt_match_val_13.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+514,val_000514,/fake/chatgpt_match_val_50/chatgpt_match_val_14.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+515,val_000515,/fake/chatgpt_match_val_50/chatgpt_match_val_15.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+516,val_000516,/fake/chatgpt_match_val_50/chatgpt_match_val_16.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+517,val_000517,/fake/chatgpt_match_val_50/chatgpt_match_val_17.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+518,val_000518,/fake/chatgpt_match_val_50/chatgpt_match_val_18.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+519,val_000519,/fake/chatgpt_match_val_50/chatgpt_match_val_19.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+520,val_000520,/fake/chatgpt_match_val_50/chatgpt_match_val_20.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+521,val_000521,/fake/chatgpt_match_val_50/chatgpt_match_val_21.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+522,val_000522,/fake/chatgpt_match_val_50/chatgpt_match_val_22.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+523,val_000523,/fake/chatgpt_match_val_50/chatgpt_match_val_23.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+524,val_000524,/fake/chatgpt_match_val_50/chatgpt_match_val_24.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+525,val_000525,/fake/chatgpt_match_val_50/chatgpt_match_val_25.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+526,val_000526,/fake/chatgpt_match_val_50/chatgpt_match_val_26.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+527,val_000527,/fake/chatgpt_match_val_50/chatgpt_match_val_27.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+528,val_000528,/fake/chatgpt_match_val_50/chatgpt_match_val_28.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+529,val_000529,/fake/chatgpt_match_val_50/chatgpt_match_val_29.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+530,val_000530,/fake/chatgpt_match_val_50/chatgpt_match_val_30.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+531,val_000531,/fake/chatgpt_match_val_50/chatgpt_match_val_31.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+532,val_000532,/fake/chatgpt_match_val_50/chatgpt_match_val_32.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+533,val_000533,/fake/chatgpt_match_val_50/chatgpt_match_val_33.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+534,val_000534,/fake/chatgpt_match_val_50/chatgpt_match_val_34.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+535,val_000535,/fake/chatgpt_match_val_50/chatgpt_match_val_35.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+536,val_000536,/fake/chatgpt_match_val_50/chatgpt_match_val_36.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+537,val_000537,/fake/chatgpt_match_val_50/chatgpt_match_val_37.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+538,val_000538,/fake/chatgpt_match_val_50/chatgpt_match_val_38.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+539,val_000539,/fake/chatgpt_match_val_50/chatgpt_match_val_39.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+540,val_000540,/fake/chatgpt_match_val_50/chatgpt_match_val_40.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+541,val_000541,/fake/chatgpt_match_val_50/chatgpt_match_val_41.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+542,val_000542,/fake/chatgpt_match_val_50/chatgpt_match_val_42.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+543,val_000543,/fake/chatgpt_match_val_50/chatgpt_match_val_43.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+544,val_000544,/fake/chatgpt_match_val_50/chatgpt_match_val_44.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+545,val_000545,/fake/chatgpt_match_val_50/chatgpt_match_val_45.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+546,val_000546,/fake/chatgpt_match_val_50/chatgpt_match_val_46.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+547,val_000547,/fake/chatgpt_match_val_50/chatgpt_match_val_47.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+548,val_000548,/fake/chatgpt_match_val_50/chatgpt_match_val_48.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+549,val_000549,/fake/chatgpt_match_val_50/chatgpt_match_val_49.png,GPT-generated Rumor,Repurposed Image,textual_veracity_distortion,Fake,1
+550,val_000550,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_1.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+551,val_000551,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_2.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+552,val_000552,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_3.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+553,val_000553,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_4.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+554,val_000554,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_5.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+555,val_000555,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_6.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+556,val_000556,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_7.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+557,val_000557,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_8.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+558,val_000558,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_9.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+559,val_000559,/fake/llm_gossip_md_generation_val_10/llm_gossip_val_10.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+560,val_000560,/fake/llm_science_md_generation_val_10/llm_science_val_1.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+561,val_000561,/fake/llm_science_md_generation_val_10/llm_science_val_2.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+562,val_000562,/fake/llm_science_md_generation_val_10/llm_science_val_3.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+563,val_000563,/fake/llm_science_md_generation_val_10/llm_science_val_4.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+564,val_000564,/fake/llm_science_md_generation_val_10/llm_science_val_5.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+565,val_000565,/fake/llm_science_md_generation_val_10/llm_science_val_6.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+566,val_000566,/fake/llm_science_md_generation_val_10/llm_science_val_7.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+567,val_000567,/fake/llm_science_md_generation_val_10/llm_science_val_8.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+568,val_000568,/fake/llm_science_md_generation_val_10/llm_science_val_9.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+569,val_000569,/fake/llm_science_md_generation_val_10/llm_science_val_10.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+570,val_000570,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_1.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+571,val_000571,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_2.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+572,val_000572,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_3.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+573,val_000573,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_4.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+574,val_000574,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_5.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+575,val_000575,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_6.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+576,val_000576,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_7.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+577,val_000577,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_8.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+578,val_000578,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_9.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+579,val_000579,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_10.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+580,val_000580,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_11.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+581,val_000581,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_12.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+582,val_000582,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_13.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+583,val_000583,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_14.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+584,val_000584,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_15.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+585,val_000585,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_16.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+586,val_000586,/fake/llm_rewrite_val_30/chatgpt_rewrite_SD_val_17.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+587,val_000587,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_18.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+588,val_000588,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_19.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+589,val_000589,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_20.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+590,val_000590,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_21.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+591,val_000591,/fake/llm_rewrite_val_30/chatgpt_rewrite_SD_val_22.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+592,val_000592,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_23.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+593,val_000593,/fake/llm_rewrite_val_30/chatgpt_rewrite_SD_val_24.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+594,val_000594,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_25.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+595,val_000595,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_26.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+596,val_000596,/fake/llm_rewrite_val_30/chatgpt_rewrite_SD_val_27.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+597,val_000597,/fake/llm_rewrite_val_30/chatgpt_rewrite_md_val_28.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+598,val_000598,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_29.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+599,val_000599,/fake/llm_rewrite_val_30/chatgpt_rewrite_dalle_val_30.png,GPT-generated Rumor,AI-generated Image,textual_veracity_distortion,Fake,1
+600,val_000600,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_0.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+601,val_000601,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_1.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+602,val_000602,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_2.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+603,val_000603,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_3.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+604,val_000604,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_4.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+605,val_000605,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_5.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+606,val_000606,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_6.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+607,val_000607,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_7.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+608,val_000608,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_8.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+609,val_000609,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_9.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+610,val_000610,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_10.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+611,val_000611,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_11.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+612,val_000612,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_12.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+613,val_000613,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_13.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+614,val_000614,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_14.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+615,val_000615,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_15.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+616,val_000616,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_16.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+617,val_000617,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_17.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+618,val_000618,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_18.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+619,val_000619,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_19.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+620,val_000620,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_20.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+621,val_000621,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_21.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+622,val_000622,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_22.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+623,val_000623,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_23.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+624,val_000624,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_24.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+625,val_000625,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_25.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+626,val_000626,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_26.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+627,val_000627,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_27.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+628,val_000628,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_28.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+629,val_000629,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_29.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+630,val_000630,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_30.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+631,val_000631,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_31.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+632,val_000632,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_32.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+633,val_000633,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_33.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+634,val_000634,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_34.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+635,val_000635,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_35.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+636,val_000636,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_36.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+637,val_000637,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_37.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+638,val_000638,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_38.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+639,val_000639,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_39.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+640,val_000640,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_40.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+641,val_000641,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_41.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+642,val_000642,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_42.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+643,val_000643,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_43.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+644,val_000644,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_44.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+645,val_000645,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_45.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+646,val_000646,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_46.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+647,val_000647,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_47.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+648,val_000648,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_48.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+649,val_000649,/fake/Fakeddit_photo_edit_val_50/Fakeddit_photo_edit_val_49.png,Fakeddit,Fakeddit,visual_veracity_distortion,Fake,1
+650,val_000650,/fake/antifact_image_generation_val_50/coco_antifact_val_1.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+651,val_000651,/fake/antifact_image_generation_val_50/coco_antifact_val_2.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+652,val_000652,/fake/antifact_image_generation_val_50/coco_antifact_val_3.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+653,val_000653,/fake/antifact_image_generation_val_50/coco_antifact_val_4.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+654,val_000654,/fake/antifact_image_generation_val_50/coco_antifact_val_5.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+655,val_000655,/fake/antifact_image_generation_val_50/coco_antifact_val_6.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+656,val_000656,/fake/antifact_image_generation_val_50/coco_antifact_val_7.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+657,val_000657,/fake/antifact_image_generation_val_50/coco_antifact_val_8.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+658,val_000658,/fake/antifact_image_generation_val_50/coco_antifact_val_9.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+659,val_000659,/fake/antifact_image_generation_val_50/coco_antifact_val_10.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+660,val_000660,/fake/antifact_image_generation_val_50/coco_antifact_val_11.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+661,val_000661,/fake/antifact_image_generation_val_50/coco_antifact_val_12.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+662,val_000662,/fake/antifact_image_generation_val_50/coco_antifact_val_13.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+663,val_000663,/fake/antifact_image_generation_val_50/coco_antifact_val_14.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+664,val_000664,/fake/antifact_image_generation_val_50/coco_antifact_val_15.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+665,val_000665,/fake/antifact_image_generation_val_50/coco_antifact_val_16.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+666,val_000666,/fake/antifact_image_generation_val_50/coco_antifact_val_17.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+667,val_000667,/fake/antifact_image_generation_val_50/coco_antifact_val_18.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+668,val_000668,/fake/antifact_image_generation_val_50/coco_antifact_val_19.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+669,val_000669,/fake/antifact_image_generation_val_50/coco_antifact_val_20.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+670,val_000670,/fake/antifact_image_generation_val_50/coco_antifact_val_21.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+671,val_000671,/fake/antifact_image_generation_val_50/coco_antifact_val_22.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+672,val_000672,/fake/antifact_image_generation_val_50/coco_antifact_val_23.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+673,val_000673,/fake/antifact_image_generation_val_50/coco_antifact_val_24.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+674,val_000674,/fake/antifact_image_generation_val_50/coco_antifact_val_25.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+675,val_000675,/fake/antifact_image_generation_val_50/coco_antifact_val_26.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+676,val_000676,/fake/antifact_image_generation_val_50/coco_antifact_val_27.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+677,val_000677,/fake/antifact_image_generation_val_50/coco_antifact_val_28.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+678,val_000678,/fake/antifact_image_generation_val_50/coco_antifact_val_29.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+679,val_000679,/fake/antifact_image_generation_val_50/coco_antifact_val_30.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+680,val_000680,/fake/antifact_image_generation_val_50/coco_antifact_val_31.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+681,val_000681,/fake/antifact_image_generation_val_50/coco_antifact_val_32.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+682,val_000682,/fake/antifact_image_generation_val_50/coco_antifact_val_33.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+683,val_000683,/fake/antifact_image_generation_val_50/coco_antifact_val_34.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+684,val_000684,/fake/antifact_image_generation_val_50/coco_antifact_val_35.png,MS-COCO,AI-generated Image,visual_veracity_distortion,Fake,1
+685,val_000685,/fake/antifact_image_generation_val_50/visualnews_antifact_val_36.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+686,val_000686,/fake/antifact_image_generation_val_50/visualnews_antifact_val_37.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+687,val_000687,/fake/antifact_image_generation_val_50/visualnews_antifact_val_38.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+688,val_000688,/fake/antifact_image_generation_val_50/visualnews_antifact_val_39.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+689,val_000689,/fake/antifact_image_generation_val_50/visualnews_antifact_val_40.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+690,val_000690,/fake/antifact_image_generation_val_50/visualnews_antifact_val_blend_1.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+691,val_000691,/fake/antifact_image_generation_val_50/visualnews_antifact_val_blend_2.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+692,val_000692,/fake/antifact_image_generation_val_50/visualnews_antifact_val_blend_3.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+693,val_000693,/fake/antifact_image_generation_val_50/visualnews_antifact_val_blend_4.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+694,val_000694,/fake/antifact_image_generation_val_50/visualnews_antifact_val_blend_5.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+695,val_000695,/fake/antifact_image_generation_val_50/visualnews_antifact_val_edit_1.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+696,val_000696,/fake/antifact_image_generation_val_50/visualnews_antifact_val_edit_2.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+697,val_000697,/fake/antifact_image_generation_val_50/visualnews_antifact_val_edit_3.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+698,val_000698,/fake/antifact_image_generation_val_50/visualnews_antifact_val_edit_4.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+699,val_000699,/fake/antifact_image_generation_val_50/visualnews_antifact_val_edit_5.png,VisualNews,AI-generated Image,visual_veracity_distortion,Fake,1
+700,val_000700,/fake/Newsclipings_person_val_50/Newsclipings_person_val_0.png,Newsclipings,Newsclipings,mismatch,Fake,1
+701,val_000701,/fake/Newsclipings_person_val_50/Newsclipings_person_val_1.png,Newsclipings,Newsclipings,mismatch,Fake,1
+702,val_000702,/fake/Newsclipings_person_val_50/Newsclipings_person_val_2.png,Newsclipings,Newsclipings,mismatch,Fake,1
+703,val_000703,/fake/Newsclipings_person_val_50/Newsclipings_person_val_3.png,Newsclipings,Newsclipings,mismatch,Fake,1
+704,val_000704,/fake/Newsclipings_person_val_50/Newsclipings_person_val_4.png,Newsclipings,Newsclipings,mismatch,Fake,1
+705,val_000705,/fake/Newsclipings_person_val_50/Newsclipings_person_val_5.png,Newsclipings,Newsclipings,mismatch,Fake,1
+706,val_000706,/fake/Newsclipings_person_val_50/Newsclipings_person_val_6.png,Newsclipings,Newsclipings,mismatch,Fake,1
+707,val_000707,/fake/Newsclipings_person_val_50/Newsclipings_person_val_7.png,Newsclipings,Newsclipings,mismatch,Fake,1
+708,val_000708,/fake/Newsclipings_person_val_50/Newsclipings_person_val_8.png,Newsclipings,Newsclipings,mismatch,Fake,1
+709,val_000709,/fake/Newsclipings_person_val_50/Newsclipings_person_val_9.png,Newsclipings,Newsclipings,mismatch,Fake,1
+710,val_000710,/fake/Newsclipings_person_val_50/Newsclipings_person_val_10.png,Newsclipings,Newsclipings,mismatch,Fake,1
+711,val_000711,/fake/Newsclipings_person_val_50/Newsclipings_person_val_11.png,Newsclipings,Newsclipings,mismatch,Fake,1
+712,val_000712,/fake/Newsclipings_person_val_50/Newsclipings_person_val_12.png,Newsclipings,Newsclipings,mismatch,Fake,1
+713,val_000713,/fake/Newsclipings_person_val_50/Newsclipings_person_val_13.png,Newsclipings,Newsclipings,mismatch,Fake,1
+714,val_000714,/fake/Newsclipings_person_val_50/Newsclipings_person_val_14.png,Newsclipings,Newsclipings,mismatch,Fake,1
+715,val_000715,/fake/Newsclipings_person_val_50/Newsclipings_person_val_15.png,Newsclipings,Newsclipings,mismatch,Fake,1
+716,val_000716,/fake/Newsclipings_person_val_50/Newsclipings_person_val_16.png,Newsclipings,Newsclipings,mismatch,Fake,1
+717,val_000717,/fake/Newsclipings_person_val_50/Newsclipings_person_val_17.png,Newsclipings,Newsclipings,mismatch,Fake,1
+718,val_000718,/fake/Newsclipings_person_val_50/Newsclipings_person_val_18.png,Newsclipings,Newsclipings,mismatch,Fake,1
+719,val_000719,/fake/Newsclipings_person_val_50/Newsclipings_person_val_19.png,Newsclipings,Newsclipings,mismatch,Fake,1
+720,val_000720,/fake/Newsclipings_person_val_50/Newsclipings_person_val_20.png,Newsclipings,Newsclipings,mismatch,Fake,1
+721,val_000721,/fake/Newsclipings_person_val_50/Newsclipings_person_val_21.png,Newsclipings,Newsclipings,mismatch,Fake,1
+722,val_000722,/fake/Newsclipings_person_val_50/Newsclipings_person_val_22.png,Newsclipings,Newsclipings,mismatch,Fake,1
+723,val_000723,/fake/Newsclipings_person_val_50/Newsclipings_person_val_23.png,Newsclipings,Newsclipings,mismatch,Fake,1
+724,val_000724,/fake/Newsclipings_person_val_50/Newsclipings_person_val_24.png,Newsclipings,Newsclipings,mismatch,Fake,1
+725,val_000725,/fake/Newsclipings_person_val_50/Newsclipings_person_val_25.png,Newsclipings,Newsclipings,mismatch,Fake,1
+726,val_000726,/fake/Newsclipings_person_val_50/Newsclipings_person_val_26.png,Newsclipings,Newsclipings,mismatch,Fake,1
+727,val_000727,/fake/Newsclipings_person_val_50/Newsclipings_person_val_27.png,Newsclipings,Newsclipings,mismatch,Fake,1
+728,val_000728,/fake/Newsclipings_person_val_50/Newsclipings_person_val_28.png,Newsclipings,Newsclipings,mismatch,Fake,1
+729,val_000729,/fake/Newsclipings_person_val_50/Newsclipings_person_val_29.png,Newsclipings,Newsclipings,mismatch,Fake,1
+730,val_000730,/fake/Newsclipings_person_val_50/Newsclipings_person_val_30.png,Newsclipings,Newsclipings,mismatch,Fake,1
+731,val_000731,/fake/Newsclipings_person_val_50/Newsclipings_person_val_31.png,Newsclipings,Newsclipings,mismatch,Fake,1
+732,val_000732,/fake/Newsclipings_person_val_50/Newsclipings_person_val_32.png,Newsclipings,Newsclipings,mismatch,Fake,1
+733,val_000733,/fake/Newsclipings_person_val_50/Newsclipings_person_val_33.png,Newsclipings,Newsclipings,mismatch,Fake,1
+734,val_000734,/fake/Newsclipings_person_val_50/Newsclipings_person_val_34.png,Newsclipings,Newsclipings,mismatch,Fake,1
+735,val_000735,/fake/Newsclipings_person_val_50/Newsclipings_person_val_35.png,Newsclipings,Newsclipings,mismatch,Fake,1
+736,val_000736,/fake/Newsclipings_person_val_50/Newsclipings_person_val_36.png,Newsclipings,Newsclipings,mismatch,Fake,1
+737,val_000737,/fake/Newsclipings_person_val_50/Newsclipings_person_val_37.png,Newsclipings,Newsclipings,mismatch,Fake,1
+738,val_000738,/fake/Newsclipings_person_val_50/Newsclipings_person_val_38.png,Newsclipings,Newsclipings,mismatch,Fake,1
+739,val_000739,/fake/Newsclipings_person_val_50/Newsclipings_person_val_39.png,Newsclipings,Newsclipings,mismatch,Fake,1
+740,val_000740,/fake/Newsclipings_person_val_50/Newsclipings_person_val_40.png,Newsclipings,Newsclipings,mismatch,Fake,1
+741,val_000741,/fake/Newsclipings_person_val_50/Newsclipings_person_val_41.png,Newsclipings,Newsclipings,mismatch,Fake,1
+742,val_000742,/fake/Newsclipings_person_val_50/Newsclipings_person_val_42.png,Newsclipings,Newsclipings,mismatch,Fake,1
+743,val_000743,/fake/Newsclipings_person_val_50/Newsclipings_person_val_43.png,Newsclipings,Newsclipings,mismatch,Fake,1
+744,val_000744,/fake/Newsclipings_person_val_50/Newsclipings_person_val_44.png,Newsclipings,Newsclipings,mismatch,Fake,1
+745,val_000745,/fake/Newsclipings_person_val_50/Newsclipings_person_val_45.png,Newsclipings,Newsclipings,mismatch,Fake,1
+746,val_000746,/fake/Newsclipings_person_val_50/Newsclipings_person_val_46.png,Newsclipings,Newsclipings,mismatch,Fake,1
+747,val_000747,/fake/Newsclipings_person_val_50/Newsclipings_person_val_47.png,Newsclipings,Newsclipings,mismatch,Fake,1
+748,val_000748,/fake/Newsclipings_person_val_50/Newsclipings_person_val_48.png,Newsclipings,Newsclipings,mismatch,Fake,1
+749,val_000749,/fake/Newsclipings_person_val_50/Newsclipings_person_val_49.png,Newsclipings,Newsclipings,mismatch,Fake,1
+750,val_000750,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_0.png,Newsclipings,Newsclipings,mismatch,Fake,1
+751,val_000751,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_1.png,Newsclipings,Newsclipings,mismatch,Fake,1
+752,val_000752,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_2.png,Newsclipings,Newsclipings,mismatch,Fake,1
+753,val_000753,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_3.png,Newsclipings,Newsclipings,mismatch,Fake,1
+754,val_000754,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_4.png,Newsclipings,Newsclipings,mismatch,Fake,1
+755,val_000755,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_5.png,Newsclipings,Newsclipings,mismatch,Fake,1
+756,val_000756,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_6.png,Newsclipings,Newsclipings,mismatch,Fake,1
+757,val_000757,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_7.png,Newsclipings,Newsclipings,mismatch,Fake,1
+758,val_000758,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_8.png,Newsclipings,Newsclipings,mismatch,Fake,1
+759,val_000759,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_9.png,Newsclipings,Newsclipings,mismatch,Fake,1
+760,val_000760,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_10.png,Newsclipings,Newsclipings,mismatch,Fake,1
+761,val_000761,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_11.png,Newsclipings,Newsclipings,mismatch,Fake,1
+762,val_000762,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_12.png,Newsclipings,Newsclipings,mismatch,Fake,1
+763,val_000763,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_13.png,Newsclipings,Newsclipings,mismatch,Fake,1
+764,val_000764,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_14.png,Newsclipings,Newsclipings,mismatch,Fake,1
+765,val_000765,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_15.png,Newsclipings,Newsclipings,mismatch,Fake,1
+766,val_000766,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_16.png,Newsclipings,Newsclipings,mismatch,Fake,1
+767,val_000767,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_17.png,Newsclipings,Newsclipings,mismatch,Fake,1
+768,val_000768,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_18.png,Newsclipings,Newsclipings,mismatch,Fake,1
+769,val_000769,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_19.png,Newsclipings,Newsclipings,mismatch,Fake,1
+770,val_000770,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_20.png,Newsclipings,Newsclipings,mismatch,Fake,1
+771,val_000771,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_21.png,Newsclipings,Newsclipings,mismatch,Fake,1
+772,val_000772,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_22.png,Newsclipings,Newsclipings,mismatch,Fake,1
+773,val_000773,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_23.png,Newsclipings,Newsclipings,mismatch,Fake,1
+774,val_000774,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_24.png,Newsclipings,Newsclipings,mismatch,Fake,1
+775,val_000775,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_25.png,Newsclipings,Newsclipings,mismatch,Fake,1
+776,val_000776,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_26.png,Newsclipings,Newsclipings,mismatch,Fake,1
+777,val_000777,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_27.png,Newsclipings,Newsclipings,mismatch,Fake,1
+778,val_000778,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_28.png,Newsclipings,Newsclipings,mismatch,Fake,1
+779,val_000779,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_29.png,Newsclipings,Newsclipings,mismatch,Fake,1
+780,val_000780,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_30.png,Newsclipings,Newsclipings,mismatch,Fake,1
+781,val_000781,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_31.png,Newsclipings,Newsclipings,mismatch,Fake,1
+782,val_000782,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_32.png,Newsclipings,Newsclipings,mismatch,Fake,1
+783,val_000783,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_33.png,Newsclipings,Newsclipings,mismatch,Fake,1
+784,val_000784,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_34.png,Newsclipings,Newsclipings,mismatch,Fake,1
+785,val_000785,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_35.png,Newsclipings,Newsclipings,mismatch,Fake,1
+786,val_000786,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_36.png,Newsclipings,Newsclipings,mismatch,Fake,1
+787,val_000787,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_37.png,Newsclipings,Newsclipings,mismatch,Fake,1
+788,val_000788,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_38.png,Newsclipings,Newsclipings,mismatch,Fake,1
+789,val_000789,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_39.png,Newsclipings,Newsclipings,mismatch,Fake,1
+790,val_000790,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_40.png,Newsclipings,Newsclipings,mismatch,Fake,1
+791,val_000791,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_41.png,Newsclipings,Newsclipings,mismatch,Fake,1
+792,val_000792,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_42.png,Newsclipings,Newsclipings,mismatch,Fake,1
+793,val_000793,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_43.png,Newsclipings,Newsclipings,mismatch,Fake,1
+794,val_000794,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_44.png,Newsclipings,Newsclipings,mismatch,Fake,1
+795,val_000795,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_45.png,Newsclipings,Newsclipings,mismatch,Fake,1
+796,val_000796,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_46.png,Newsclipings,Newsclipings,mismatch,Fake,1
+797,val_000797,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_47.png,Newsclipings,Newsclipings,mismatch,Fake,1
+798,val_000798,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_48.png,Newsclipings,Newsclipings,mismatch,Fake,1
+799,val_000799,/fake/Newsclipings_scene_val_50/Newsclipings_scene_val_49.png,Newsclipings,Newsclipings,mismatch,Fake,1
+800,val_000800,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_0.png,Newsclipings,Newsclipings,mismatch,Fake,1
+801,val_000801,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_1.png,Newsclipings,Newsclipings,mismatch,Fake,1
+802,val_000802,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_2.png,Newsclipings,Newsclipings,mismatch,Fake,1
+803,val_000803,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_3.png,Newsclipings,Newsclipings,mismatch,Fake,1
+804,val_000804,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_4.png,Newsclipings,Newsclipings,mismatch,Fake,1
+805,val_000805,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_5.png,Newsclipings,Newsclipings,mismatch,Fake,1
+806,val_000806,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_6.png,Newsclipings,Newsclipings,mismatch,Fake,1
+807,val_000807,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_7.png,Newsclipings,Newsclipings,mismatch,Fake,1
+808,val_000808,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_8.png,Newsclipings,Newsclipings,mismatch,Fake,1
+809,val_000809,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_9.png,Newsclipings,Newsclipings,mismatch,Fake,1
+810,val_000810,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_10.png,Newsclipings,Newsclipings,mismatch,Fake,1
+811,val_000811,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_11.png,Newsclipings,Newsclipings,mismatch,Fake,1
+812,val_000812,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_12.png,Newsclipings,Newsclipings,mismatch,Fake,1
+813,val_000813,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_13.png,Newsclipings,Newsclipings,mismatch,Fake,1
+814,val_000814,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_14.png,Newsclipings,Newsclipings,mismatch,Fake,1
+815,val_000815,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_15.png,Newsclipings,Newsclipings,mismatch,Fake,1
+816,val_000816,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_16.png,Newsclipings,Newsclipings,mismatch,Fake,1
+817,val_000817,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_17.png,Newsclipings,Newsclipings,mismatch,Fake,1
+818,val_000818,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_18.png,Newsclipings,Newsclipings,mismatch,Fake,1
+819,val_000819,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_19.png,Newsclipings,Newsclipings,mismatch,Fake,1
+820,val_000820,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_20.png,Newsclipings,Newsclipings,mismatch,Fake,1
+821,val_000821,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_21.png,Newsclipings,Newsclipings,mismatch,Fake,1
+822,val_000822,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_22.png,Newsclipings,Newsclipings,mismatch,Fake,1
+823,val_000823,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_23.png,Newsclipings,Newsclipings,mismatch,Fake,1
+824,val_000824,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_24.png,Newsclipings,Newsclipings,mismatch,Fake,1
+825,val_000825,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_25.png,Newsclipings,Newsclipings,mismatch,Fake,1
+826,val_000826,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_26.png,Newsclipings,Newsclipings,mismatch,Fake,1
+827,val_000827,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_27.png,Newsclipings,Newsclipings,mismatch,Fake,1
+828,val_000828,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_28.png,Newsclipings,Newsclipings,mismatch,Fake,1
+829,val_000829,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_29.png,Newsclipings,Newsclipings,mismatch,Fake,1
+830,val_000830,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_30.png,Newsclipings,Newsclipings,mismatch,Fake,1
+831,val_000831,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_31.png,Newsclipings,Newsclipings,mismatch,Fake,1
+832,val_000832,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_32.png,Newsclipings,Newsclipings,mismatch,Fake,1
+833,val_000833,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_33.png,Newsclipings,Newsclipings,mismatch,Fake,1
+834,val_000834,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_34.png,Newsclipings,Newsclipings,mismatch,Fake,1
+835,val_000835,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_35.png,Newsclipings,Newsclipings,mismatch,Fake,1
+836,val_000836,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_36.png,Newsclipings,Newsclipings,mismatch,Fake,1
+837,val_000837,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_37.png,Newsclipings,Newsclipings,mismatch,Fake,1
+838,val_000838,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_38.png,Newsclipings,Newsclipings,mismatch,Fake,1
+839,val_000839,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_39.png,Newsclipings,Newsclipings,mismatch,Fake,1
+840,val_000840,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_40.png,Newsclipings,Newsclipings,mismatch,Fake,1
+841,val_000841,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_41.png,Newsclipings,Newsclipings,mismatch,Fake,1
+842,val_000842,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_42.png,Newsclipings,Newsclipings,mismatch,Fake,1
+843,val_000843,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_43.png,Newsclipings,Newsclipings,mismatch,Fake,1
+844,val_000844,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_44.png,Newsclipings,Newsclipings,mismatch,Fake,1
+845,val_000845,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_45.png,Newsclipings,Newsclipings,mismatch,Fake,1
+846,val_000846,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_46.png,Newsclipings,Newsclipings,mismatch,Fake,1
+847,val_000847,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_47.png,Newsclipings,Newsclipings,mismatch,Fake,1
+848,val_000848,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_48.png,Newsclipings,Newsclipings,mismatch,Fake,1
+849,val_000849,/fake/Newsclipings_semantic_val_50/Newsclipings_semantic_val_49.png,Newsclipings,Newsclipings,mismatch,Fake,1
+850,val_000850,/fake/coco_text_edit_val_50/coco_text_edit_val_0.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+851,val_000851,/fake/coco_text_edit_val_50/coco_text_edit_val_1.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+852,val_000852,/fake/coco_text_edit_val_50/coco_text_edit_val_2.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+853,val_000853,/fake/coco_text_edit_val_50/coco_text_edit_val_3.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+854,val_000854,/fake/coco_text_edit_val_50/coco_text_edit_val_4.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+855,val_000855,/fake/coco_text_edit_val_50/coco_text_edit_val_5.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+856,val_000856,/fake/coco_text_edit_val_50/coco_text_edit_val_6.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+857,val_000857,/fake/coco_text_edit_val_50/coco_text_edit_val_7.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+858,val_000858,/fake/coco_text_edit_val_50/coco_text_edit_val_8.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+859,val_000859,/fake/coco_text_edit_val_50/coco_text_edit_val_9.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+860,val_000860,/fake/coco_text_edit_val_50/coco_text_edit_val_10.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+861,val_000861,/fake/coco_text_edit_val_50/coco_text_edit_val_11.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+862,val_000862,/fake/coco_text_edit_val_50/coco_text_edit_val_12.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+863,val_000863,/fake/coco_text_edit_val_50/coco_text_edit_val_13.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+864,val_000864,/fake/coco_text_edit_val_50/coco_text_edit_val_14.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+865,val_000865,/fake/coco_text_edit_val_50/coco_text_edit_val_15.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+866,val_000866,/fake/coco_text_edit_val_50/coco_text_edit_val_16.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+867,val_000867,/fake/coco_text_edit_val_50/coco_text_edit_val_17.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+868,val_000868,/fake/coco_text_edit_val_50/coco_text_edit_val_18.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+869,val_000869,/fake/coco_text_edit_val_50/coco_text_edit_val_19.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+870,val_000870,/fake/coco_text_edit_val_50/coco_text_edit_val_20.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+871,val_000871,/fake/coco_text_edit_val_50/coco_text_edit_val_21.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+872,val_000872,/fake/coco_text_edit_val_50/coco_text_edit_val_22.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+873,val_000873,/fake/coco_text_edit_val_50/coco_text_edit_val_23.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+874,val_000874,/fake/coco_text_edit_val_50/coco_text_edit_val_24.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+875,val_000875,/fake/coco_text_edit_val_50/coco_text_edit_val_25.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+876,val_000876,/fake/coco_text_edit_val_50/coco_text_edit_val_26.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+877,val_000877,/fake/coco_text_edit_val_50/coco_text_edit_val_27.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+878,val_000878,/fake/coco_text_edit_val_50/coco_text_edit_val_28.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+879,val_000879,/fake/coco_text_edit_val_50/coco_text_edit_val_29.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+880,val_000880,/fake/coco_text_edit_val_50/coco_text_edit_val_30.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+881,val_000881,/fake/coco_text_edit_val_50/coco_text_edit_val_31.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+882,val_000882,/fake/coco_text_edit_val_50/coco_text_edit_val_32.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+883,val_000883,/fake/coco_text_edit_val_50/coco_text_edit_val_33.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+884,val_000884,/fake/coco_text_edit_val_50/coco_text_edit_val_34.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+885,val_000885,/fake/coco_text_edit_val_50/coco_text_edit_val_35.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+886,val_000886,/fake/coco_text_edit_val_50/coco_text_edit_val_36.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+887,val_000887,/fake/coco_text_edit_val_50/coco_text_edit_val_37.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+888,val_000888,/fake/coco_text_edit_val_50/coco_text_edit_val_38.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+889,val_000889,/fake/coco_text_edit_val_50/coco_text_edit_val_39.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+890,val_000890,/fake/coco_text_edit_val_50/coco_text_edit_val_40.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+891,val_000891,/fake/coco_text_edit_val_50/coco_text_edit_val_41.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+892,val_000892,/fake/coco_text_edit_val_50/coco_text_edit_val_42.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+893,val_000893,/fake/coco_text_edit_val_50/coco_text_edit_val_43.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+894,val_000894,/fake/coco_text_edit_val_50/coco_text_edit_val_44.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+895,val_000895,/fake/coco_text_edit_val_50/coco_text_edit_val_45.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+896,val_000896,/fake/coco_text_edit_val_50/coco_text_edit_val_46.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+897,val_000897,/fake/coco_text_edit_val_50/coco_text_edit_val_47.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+898,val_000898,/fake/coco_text_edit_val_50/coco_text_edit_val_48.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+899,val_000899,/fake/coco_text_edit_val_50/coco_text_edit_val_49.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+900,val_000900,/fake/coco_image_edit_val_50/coco_image_edit_val_0.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+901,val_000901,/fake/coco_image_edit_val_50/coco_image_edit_val_1.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+902,val_000902,/fake/coco_image_edit_val_50/coco_image_edit_val_2.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+903,val_000903,/fake/coco_image_edit_val_50/coco_image_edit_val_3.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+904,val_000904,/fake/coco_image_edit_val_50/coco_image_edit_val_4.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+905,val_000905,/fake/coco_image_edit_val_50/coco_image_edit_val_5.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+906,val_000906,/fake/coco_image_edit_val_50/coco_image_edit_val_6.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+907,val_000907,/fake/coco_image_edit_val_50/coco_image_edit_val_7.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+908,val_000908,/fake/coco_image_edit_val_50/coco_image_edit_val_8.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+909,val_000909,/fake/coco_image_edit_val_50/coco_image_edit_val_9.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+910,val_000910,/fake/coco_image_edit_val_50/coco_image_edit_val_10.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+911,val_000911,/fake/coco_image_edit_val_50/coco_image_edit_val_11.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+912,val_000912,/fake/coco_image_edit_val_50/coco_image_edit_val_12.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+913,val_000913,/fake/coco_image_edit_val_50/coco_image_edit_val_13.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+914,val_000914,/fake/coco_image_edit_val_50/coco_image_edit_val_14.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+915,val_000915,/fake/coco_image_edit_val_50/coco_image_edit_val_15.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+916,val_000916,/fake/coco_image_edit_val_50/coco_image_edit_val_16.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+917,val_000917,/fake/coco_image_edit_val_50/coco_image_edit_val_17.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+918,val_000918,/fake/coco_image_edit_val_50/coco_image_edit_val_18.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+919,val_000919,/fake/coco_image_edit_val_50/coco_image_edit_val_19.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+920,val_000920,/fake/coco_image_edit_val_50/coco_image_edit_val_20.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+921,val_000921,/fake/coco_image_edit_val_50/coco_image_edit_val_21.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+922,val_000922,/fake/coco_image_edit_val_50/coco_image_edit_val_22.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+923,val_000923,/fake/coco_image_edit_val_50/coco_image_edit_val_23.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+924,val_000924,/fake/coco_image_edit_val_50/coco_image_edit_val_24.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+925,val_000925,/fake/coco_image_edit_val_50/coco_image_edit_val_25.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+926,val_000926,/fake/coco_image_edit_val_50/coco_image_edit_val_26.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+927,val_000927,/fake/coco_image_edit_val_50/coco_image_edit_val_27.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+928,val_000928,/fake/coco_image_edit_val_50/coco_image_edit_val_28.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+929,val_000929,/fake/coco_image_edit_val_50/coco_image_edit_val_29.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+930,val_000930,/fake/coco_image_edit_val_50/coco_image_edit_val_30.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+931,val_000931,/fake/coco_image_edit_val_50/coco_image_edit_val_31.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+932,val_000932,/fake/coco_image_edit_val_50/coco_image_edit_val_32.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+933,val_000933,/fake/coco_image_edit_val_50/coco_image_edit_val_33.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+934,val_000934,/fake/coco_image_edit_val_50/coco_image_edit_val_34.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+935,val_000935,/fake/coco_image_edit_val_50/coco_image_edit_val_35.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+936,val_000936,/fake/coco_image_edit_val_50/coco_image_edit_val_36.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+937,val_000937,/fake/coco_image_edit_val_50/coco_image_edit_val_37.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+938,val_000938,/fake/coco_image_edit_val_50/coco_image_edit_val_38.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+939,val_000939,/fake/coco_image_edit_val_50/coco_image_edit_val_39.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+940,val_000940,/fake/coco_image_edit_val_50/coco_image_edit_val_40.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+941,val_000941,/fake/coco_image_edit_val_50/coco_image_edit_val_41.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+942,val_000942,/fake/coco_image_edit_val_50/coco_image_edit_val_42.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+943,val_000943,/fake/coco_image_edit_val_50/coco_image_edit_val_43.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+944,val_000944,/fake/coco_image_edit_val_50/coco_image_edit_val_44.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+945,val_000945,/fake/coco_image_edit_val_50/coco_image_edit_val_45.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+946,val_000946,/fake/coco_image_edit_val_50/coco_image_edit_val_46.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+947,val_000947,/fake/coco_image_edit_val_50/coco_image_edit_val_47.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+948,val_000948,/fake/coco_image_edit_val_50/coco_image_edit_val_48.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+949,val_000949,/fake/coco_image_edit_val_50/coco_image_edit_val_49.png,COCO-Counterfactuals,COCO-Counterfactuals,mismatch,Fake,1
+950,val_000950,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_0.png,DGM4,DGM4,mismatch,Fake,1
+951,val_000951,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_1.png,DGM4,DGM4,mismatch,Fake,1
+952,val_000952,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_2.png,DGM4,DGM4,mismatch,Fake,1
+953,val_000953,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_3.png,DGM4,DGM4,mismatch,Fake,1
+954,val_000954,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_4.png,DGM4,DGM4,mismatch,Fake,1
+955,val_000955,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_5.png,DGM4,DGM4,mismatch,Fake,1
+956,val_000956,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_6.png,DGM4,DGM4,mismatch,Fake,1
+957,val_000957,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_7.png,DGM4,DGM4,mismatch,Fake,1
+958,val_000958,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_8.png,DGM4,DGM4,mismatch,Fake,1
+959,val_000959,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_9.png,DGM4,DGM4,mismatch,Fake,1
+960,val_000960,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_10.png,DGM4,DGM4,mismatch,Fake,1
+961,val_000961,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_11.png,DGM4,DGM4,mismatch,Fake,1
+962,val_000962,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_12.png,DGM4,DGM4,mismatch,Fake,1
+963,val_000963,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_13.png,DGM4,DGM4,mismatch,Fake,1
+964,val_000964,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_14.png,DGM4,DGM4,mismatch,Fake,1
+965,val_000965,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_15.png,DGM4,DGM4,mismatch,Fake,1
+966,val_000966,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_16.png,DGM4,DGM4,mismatch,Fake,1
+967,val_000967,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_17.png,DGM4,DGM4,mismatch,Fake,1
+968,val_000968,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_18.png,DGM4,DGM4,mismatch,Fake,1
+969,val_000969,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_19.png,DGM4,DGM4,mismatch,Fake,1
+970,val_000970,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_20.png,DGM4,DGM4,mismatch,Fake,1
+971,val_000971,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_21.png,DGM4,DGM4,mismatch,Fake,1
+972,val_000972,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_22.png,DGM4,DGM4,mismatch,Fake,1
+973,val_000973,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_23.png,DGM4,DGM4,mismatch,Fake,1
+974,val_000974,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_24.png,DGM4,DGM4,mismatch,Fake,1
+975,val_000975,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_25.png,DGM4,DGM4,mismatch,Fake,1
+976,val_000976,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_26.png,DGM4,DGM4,mismatch,Fake,1
+977,val_000977,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_27.png,DGM4,DGM4,mismatch,Fake,1
+978,val_000978,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_28.png,DGM4,DGM4,mismatch,Fake,1
+979,val_000979,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_29.png,DGM4,DGM4,mismatch,Fake,1
+980,val_000980,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_30.png,DGM4,DGM4,mismatch,Fake,1
+981,val_000981,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_31.png,DGM4,DGM4,mismatch,Fake,1
+982,val_000982,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_32.png,DGM4,DGM4,mismatch,Fake,1
+983,val_000983,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_33.png,DGM4,DGM4,mismatch,Fake,1
+984,val_000984,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_34.png,DGM4,DGM4,mismatch,Fake,1
+985,val_000985,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_35.png,DGM4,DGM4,mismatch,Fake,1
+986,val_000986,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_36.png,DGM4,DGM4,mismatch,Fake,1
+987,val_000987,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_37.png,DGM4,DGM4,mismatch,Fake,1
+988,val_000988,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_38.png,DGM4,DGM4,mismatch,Fake,1
+989,val_000989,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_39.png,DGM4,DGM4,mismatch,Fake,1
+990,val_000990,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_40.png,DGM4,DGM4,mismatch,Fake,1
+991,val_000991,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_41.png,DGM4,DGM4,mismatch,Fake,1
+992,val_000992,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_42.png,DGM4,DGM4,mismatch,Fake,1
+993,val_000993,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_43.png,DGM4,DGM4,mismatch,Fake,1
+994,val_000994,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_44.png,DGM4,DGM4,mismatch,Fake,1
+995,val_000995,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_45.png,DGM4,DGM4,mismatch,Fake,1
+996,val_000996,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_46.png,DGM4,DGM4,mismatch,Fake,1
+997,val_000997,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_47.png,DGM4,DGM4,mismatch,Fake,1
+998,val_000998,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_48.png,DGM4,DGM4,mismatch,Fake,1
+999,val_000999,/fake/DGM4_text_edit_senti_val_50/DGM4_text_edit_senti_val_49.png,DGM4,DGM4,mismatch,Fake,1

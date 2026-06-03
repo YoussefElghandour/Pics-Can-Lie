@@ -1,0 +1,76 @@
+{
+  "mean_all": {
+    "img": 0.1638,
+    "txt": 0.1616,
+    "cross": 0.1636,
+    "diff": 0.1618,
+    "scalars": 0.1828
+  },
+  "mean_per_cat": {
+    "original": {
+      "img": 0.1639,
+      "txt": 0.1616,
+      "cross": 0.1636,
+      "diff": 0.1618,
+      "scalars": 0.1827
+    },
+    "mismatch": {
+      "img": 0.1639,
+      "txt": 0.1616,
+      "cross": 0.1636,
+      "diff": 0.1618,
+      "scalars": 0.1827
+    },
+    "textual_veracity_distortion": {
+      "img": 0.1638,
+      "txt": 0.1616,
+      "cross": 0.1636,
+      "diff": 0.1617,
+      "scalars": 0.1829
+    },
+    "visual_veracity_distortion": {
+      "img": 0.1638,
+      "txt": 0.1616,
+      "cross": 0.1636,
+      "diff": 0.1617,
+      "scalars": 0.183
+    }
+  },
+  "dominant_overall": {
+    "img": 0.0,
+    "txt": 0.0,
+    "cross": 0.0,
+    "diff": 0.0,
+    "scalars": 100.0
+  },
+  "dominant_per_cat": {
+    "original": {
+      "img": 0.0,
+      "txt": 0.0,
+      "cross": 0.0,
+      "diff": 0.0,
+      "scalars": 100.0
+    },
+    "mismatch": {
+      "img": 0.0,
+      "txt": 0.0,
+      "cross": 0.0,
+      "diff": 0.0,
+      "scalars": 100.0
+    },
+    "textual_veracity_distortion": {
+      "img": 0.0,
+      "txt": 0.0,
+      "cross": 0.0,
+      "diff": 0.0,
+      "scalars": 100.0
+    },
+    "visual_veracity_distortion": {
+      "img": 0.0,
+      "txt": 0.0,
+      "cross": 0.0,
+      "diff": 0.0,
+      "scalars": 100.0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dataset": "mmfakebench_ai_scores_finetuned.csv",
+  "n_samples": 200,
+  "cv_folds": 5,
+  "results": [
+    {
+      "module": "Pretrained AI detector",
+      "feature_col": "ai_score",
+      "accuracy_mean": 0.565,
+      "accuracy_std": 0.0957,
+      "f1_mean": 0.5265,
+      "f1_std": 0.1068
+    },
+    {
+      "module": "Fine-tuned AI detector",
+      "feature_col": "ai_score_ft",
+      "accuracy_mean": 0.8,
+      "accuracy_std": 0.05,
+      "f1_mean": 0.8011,
+      "f1_std": 0.0527
+    }
+  ]
+}

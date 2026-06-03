@@ -1,0 +1,70 @@
+{
+  "variant_probs_available": [
+    "B",
+    "C",
+    "D"
+  ],
+  "ensembles": {
+    "B+C_equal": {
+      "weights": {
+        "B": 0.5,
+        "C": 0.5
+      },
+      "auc": 0.74,
+      "best_thr": 0.45,
+      "best_acc": 0.737,
+      "per_cat": {
+        "original": 0.32,
+        "mismatch": 0.8867,
+        "textual_veracity_distortion": 0.9233,
+        "visual_veracity_distortion": 0.98
+      }
+    },
+    "B+C_Bheavy": {
+      "weights": {
+        "B": 0.7,
+        "C": 0.3
+      },
+      "auc": 0.74,
+      "best_thr": 0.55,
+      "best_acc": 0.734,
+      "per_cat": {
+        "original": 0.57,
+        "mismatch": 0.7367,
+        "textual_veracity_distortion": 0.8267,
+        "visual_veracity_distortion": 0.94
+      }
+    },
+    "B+D_equal": {
+      "weights": {
+        "B": 0.5,
+        "D": 0.5
+      },
+      "auc": 0.7369,
+      "best_thr": 0.6,
+      "best_acc": 0.724,
+      "per_cat": {
+        "original": 0.6133,
+        "mismatch": 0.71,
+        "textual_veracity_distortion": 0.79,
+        "visual_veracity_distortion": 0.9
+      }
+    },
+    "B+C+D_equal": {
+      "weights": {
+        "B": 0.333,
+        "C": 0.333,
+        "D": 0.333
+      },
+      "auc": 0.7409,
+      "best_thr": 0.55,
+      "best_acc": 0.736,
+      "per_cat": {
+        "original": 0.5767,
+        "mismatch": 0.7367,
+        "textual_veracity_distortion": 0.8267,
+        "visual_veracity_distortion": 0.94
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "frozen_threshold": 0.5522896647453308,
+  "selected_on": "train split (max balanced accuracy)",
+  "scaler": "scalar_scaler.joblib",
+  "seed": 42
+}

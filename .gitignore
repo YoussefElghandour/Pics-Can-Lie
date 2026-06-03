@@ -1,0 +1,79 @@
+# ── Pics Can Lie .gitignore ───────────────────────────────────────────────────
+# Tracked (small, evidence): src/, scripts/, experiments/*.py, config.py,
+#   results/*.json, docs/*.md, *.gitignore, README, MIGRATION_LOG.md
+# Ignored (large / secret / regenerable): datasets, model weights, feature
+#   tensors, caches, venvs, secrets.
+
+# Virtualenvs / tooling
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.qodo/
+
+# Secrets
+.env
+*.key
+
+# Datasets and big archives — BOTH pre-reorg and post-reorg locations
+datasets/
+dataset/
+kaggle_dataset_full/
+kaggle_dataset_minimal/
+test_images/
+thesis_examples/
+*.zip
+# Image data (datasets are large image trees)
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.tif
+*.tiff
+# Large model/feature directories (pre-reorg locations)
+clip_finetuned_v2/
+blip_itm_finetuned/
+blip2_finetuned/
+ai_detector_finetuned/
+# Bulky generated HTML
+*.html
+
+# Model weights / large binaries
+*.pt
+*.safetensors
+*.ckpt
+*.bin
+*.joblib
+*.pkl
+
+# Feature tensors / large feature files
+*.npy
+features/
+links_val.json
+
+# Caches
+cache/
+*_cache.json
+wiki_page_cache.json
+factcheck_llm/cache/
+scripts/factcheck_llm/cache/
+
+# Logs and bulky result images
+*.log
+*.png
+
+# ── Whitelist: tiny artifacts a fresh clone needs to reproduce inference ───────
+# These must survive the global *.joblib / ignore rules above.
+!models/
+!models/fusion_aitr/
+!models/fusion_aitr/scalar_scaler.joblib
+!models/fusion_aitr/frozen_threshold.json
+
+# Keep results JSON and docs tracked (small, they are the evidence)
+!results/
+!results/**/*.json
+!docs/
+!docs/**/*.md
+
+.claude/

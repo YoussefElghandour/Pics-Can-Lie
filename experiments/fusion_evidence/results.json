@@ -1,0 +1,20 @@
+{
+  "final_acc": 0.874,
+  "final_f1": 0.876953125,
+  "final_auc": 0.9458120000000001,
+  "best_epoch": 18,
+  "input_dim": 8,
+  "signals": [
+    "clip_prob",
+    "clip_sim",
+    "deberta",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "beats_muse_mlp": false,
+  "beats_muse_aitr": false,
+  "run_on": "RTX 4060 (personal machine)"
+}
