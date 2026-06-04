@@ -1,0 +1,419 @@
+{
+  "seed": 42,
+  "shrink_k": 1000.0,
+  "frozen_threshold": 0.5522896647453308,
+  "part1_splits": {
+    "AITR_trained_on": "TRAIN split (NewsCLIPpings merged_balanced/train) \u2014 not loaded here; model is frozen (models/fusion_aitr/aitr_weights.pt).",
+    "scaler_fit_on": "TRAIN split only (models/fusion_aitr/scalar_scaler.joblib).",
+    "frozen_threshold_0.5523_fit_on": "TRAIN split, max balanced accuracy (models/fusion_aitr/frozen_threshold.json).",
+    "VAL_5000": "merged_balanced/val.json \u2014 5000 rows, 2500 real / 2500 fake. Held out from AITR/scaler/threshold. USED HERE AS CALIBRATION SLICE.",
+    "TEST_7264": "merged_balanced/test.json \u2014 7264 rows, 3632/3632. Final eval; untouched except the flagged diagnostic ceiling.",
+    "val_unique_article_ids": 3232,
+    "test_unique_article_ids": 3632,
+    "val_test_id_overlap": 0,
+    "val_source_counts": {
+      "guardian": 2349,
+      "usa_today": 1120,
+      "washington_post": 817,
+      "bbc": 714
+    },
+    "test_source_counts": {
+      "guardian": 3366,
+      "usa_today": 1634,
+      "washington_post": 1244,
+      "bbc": 1020
+    }
+  },
+  "part2_diagnosis": {
+    "PIPELINE_PARITY_NOTE": "val fused_prob is computed through the SAME path as test: the 7 evidence/NLI scalars are imputed to TRAIN means for BOTH val and test (test has no retrieved evidence). This is why val AUC here (0.924) is below the 0.948 reported when val used its real evidence scalars \u2014 matching the pipeline is required so the val-fit calibrator/threshold transfers honestly to test.",
+    "auc_val": 0.9242,
+    "auc_test": 0.9317,
+    "frozen_test_acc": 0.8308,
+    "DIAGNOSTIC_CEILING_uses_test_labels": {
+      "thr_max_balacc": 0.0147,
+      "balacc": 0.8661,
+      "acc_at_balacc_thr": 0.8661,
+      "thr_max_acc": 0.0147,
+      "acc": 0.8661
+    },
+    "gap_frozen_to_ceiling": 0.0352,
+    "val_optimal_threshold": 0.0206,
+    "val_optimal_minus_frozen": -0.5317,
+    "val_optimal_applied_blind_test_acc": 0.8648,
+    "ece_raw_val": 0.1519,
+    "ece_raw_test": 0.1385,
+    "reliability_val": [
+      {
+        "bin": "[0.00,0.07)",
+        "n": 2809,
+        "conf": 0.0065,
+        "acc": 0.1876,
+        "gap": 0.1811
+      },
+      {
+        "bin": "[0.07,0.13)",
+        "n": 78,
+        "conf": 0.0937,
+        "acc": 0.5769,
+        "gap": 0.4832
+      },
+      {
+        "bin": "[0.13,0.20)",
+        "n": 47,
+        "conf": 0.1691,
+        "acc": 0.6809,
+        "gap": 0.5117
+      },
+      {
+        "bin": "[0.20,0.27)",
+        "n": 52,
+        "conf": 0.2335,
+        "acc": 0.75,
+        "gap": 0.5165
+      },
+      {
+        "bin": "[0.27,0.33)",
+        "n": 46,
+        "conf": 0.2989,
+        "acc": 0.7174,
+        "gap": 0.4185
+      },
+      {
+        "bin": "[0.33,0.40)",
+        "n": 47,
+        "conf": 0.362,
+        "acc": 0.7447,
+        "gap": 0.3827
+      },
+      {
+        "bin": "[0.40,0.47)",
+        "n": 36,
+        "conf": 0.4374,
+        "acc": 0.75,
+        "gap": 0.3126
+      },
+      {
+        "bin": "[0.47,0.53)",
+        "n": 40,
+        "conf": 0.5051,
+        "acc": 0.8,
+        "gap": 0.2949
+      },
+      {
+        "bin": "[0.53,0.60)",
+        "n": 36,
+        "conf": 0.5652,
+        "acc": 0.8056,
+        "gap": 0.2403
+      },
+      {
+        "bin": "[0.60,0.67)",
+        "n": 34,
+        "conf": 0.632,
+        "acc": 0.9412,
+        "gap": 0.3092
+      },
+      {
+        "bin": "[0.67,0.73)",
+        "n": 35,
+        "conf": 0.6977,
+        "acc": 0.7714,
+        "gap": 0.0737
+      },
+      {
+        "bin": "[0.73,0.80)",
+        "n": 38,
+        "conf": 0.7716,
+        "acc": 0.9474,
+        "gap": 0.1758
+      },
+      {
+        "bin": "[0.80,0.87)",
+        "n": 52,
+        "conf": 0.8383,
+        "acc": 0.8462,
+        "gap": 0.0079
+      },
+      {
+        "bin": "[0.87,0.93)",
+        "n": 82,
+        "conf": 0.9012,
+        "acc": 0.9024,
+        "gap": 0.0013
+      },
+      {
+        "bin": "[0.93,1.00)",
+        "n": 1568,
+        "conf": 0.9953,
+        "acc": 0.949,
+        "gap": -0.0463
+      }
+    ],
+    "reliability_test": [
+      {
+        "bin": "[0.00,0.07)",
+        "n": 4014,
+        "conf": 0.0064,
+        "acc": 0.1749,
+        "gap": 0.1685
+      },
+      {
+        "bin": "[0.07,0.13)",
+        "n": 108,
+        "conf": 0.0968,
+        "acc": 0.6481,
+        "gap": 0.5514
+      },
+      {
+        "bin": "[0.13,0.20)",
+        "n": 81,
+        "conf": 0.1631,
+        "acc": 0.6543,
+        "gap": 0.4913
+      },
+      {
+        "bin": "[0.20,0.27)",
+        "n": 66,
+        "conf": 0.2363,
+        "acc": 0.6818,
+        "gap": 0.4455
+      },
+      {
+        "bin": "[0.27,0.33)",
+        "n": 71,
+        "conf": 0.2987,
+        "acc": 0.7887,
+        "gap": 0.4901
+      },
+      {
+        "bin": "[0.33,0.40)",
+        "n": 65,
+        "conf": 0.3682,
+        "acc": 0.7385,
+        "gap": 0.3702
+      },
+      {
+        "bin": "[0.40,0.47)",
+        "n": 52,
+        "conf": 0.4329,
+        "acc": 0.75,
+        "gap": 0.3171
+      },
+      {
+        "bin": "[0.47,0.53)",
+        "n": 46,
+        "conf": 0.4986,
+        "acc": 0.7391,
+        "gap": 0.2405
+      },
+      {
+        "bin": "[0.53,0.60)",
+        "n": 62,
+        "conf": 0.5687,
+        "acc": 0.7258,
+        "gap": 0.1571
+      },
+      {
+        "bin": "[0.60,0.67)",
+        "n": 53,
+        "conf": 0.6337,
+        "acc": 0.7736,
+        "gap": 0.1399
+      },
+      {
+        "bin": "[0.67,0.73)",
+        "n": 53,
+        "conf": 0.7028,
+        "acc": 0.8113,
+        "gap": 0.1085
+      },
+      {
+        "bin": "[0.73,0.80)",
+        "n": 52,
+        "conf": 0.7644,
+        "acc": 0.7885,
+        "gap": 0.0241
+      },
+      {
+        "bin": "[0.80,0.87)",
+        "n": 80,
+        "conf": 0.8361,
+        "acc": 0.825,
+        "gap": -0.0111
+      },
+      {
+        "bin": "[0.87,0.93)",
+        "n": 103,
+        "conf": 0.9044,
+        "acc": 0.7961,
+        "gap": -0.1082
+      },
+      {
+        "bin": "[0.93,1.00)",
+        "n": 2358,
+        "conf": 0.9946,
+        "acc": 0.9614,
+        "gap": -0.0332
+      }
+    ],
+    "confidence_direction": "OVER-confident",
+    "overconfidence_amount": 0.1304,
+    "verdict": "THRESHOLD/CALIBRATION IS THE PROBLEM. The frozen threshold 0.5523 is grossly mismatched to the test prob distribution (mean 0.39, mass piled at 0/1; model is OVER-confident, ECE 0.138). The test-label ceiling is only 0.866 above the frozen 0.831 (gap 0.035), and a fair VAL-derived threshold applied BLIND to test recovers +0.034 (96% of the gap) -> 0.865, within noise of the ceiling. So essentially the ENTIRE 0.831->0.866 gap is honestly recoverable by thresholding/calibration. The AUC=0.932 ceiling only bites ABOVE ~0.866 \u2014 that residual is model-limited and NOT recoverable without a better model."
+  },
+  "part3_calibration": {
+    "calibration_slice": "full VAL (5000 rows)",
+    "ece": {
+      "val_raw": 0.1519,
+      "val_iso": 0.0,
+      "val_platt": 0.0563,
+      "test_raw": 0.1385,
+      "test_iso": 0.0165,
+      "test_platt": 0.0536
+    },
+    "test_acc_at_0.5": {
+      "isotonic": 0.8647,
+      "isotonic_95ci": [
+        0.8564,
+        0.8725
+      ],
+      "platt": 0.8561,
+      "platt_95ci": [
+        0.848,
+        0.8639
+      ]
+    },
+    "auc_test": {
+      "raw": 0.9317,
+      "isotonic": 0.9308,
+      "platt": 0.9317
+    }
+  },
+  "part4_source_aware": {
+    "global_val_thr": 0.0206,
+    "shrink_k": 1000.0,
+    "per_source_val": {
+      "bbc": {
+        "n_val": 714,
+        "thr_raw": 0.0066,
+        "thr_shrunk": 0.0148,
+        "shrink_weight_on_raw": 0.417,
+        "val_acc_at_shrunk": 0.8137
+      },
+      "guardian": {
+        "n_val": 2349,
+        "thr_raw": 0.0192,
+        "thr_shrunk": 0.0196,
+        "shrink_weight_on_raw": 0.701,
+        "val_acc_at_shrunk": 0.8582
+      },
+      "usa_today": {
+        "n_val": 1120,
+        "thr_raw": 0.0105,
+        "thr_shrunk": 0.0152,
+        "shrink_weight_on_raw": 0.528,
+        "val_acc_at_shrunk": 0.892
+      },
+      "washington_post": {
+        "n_val": 817,
+        "thr_raw": 0.1271,
+        "thr_shrunk": 0.0685,
+        "shrink_weight_on_raw": 0.45,
+        "val_acc_at_shrunk": 0.8299
+      }
+    },
+    "test_overall_acc": 0.8652,
+    "test_overall_95ci": [
+      0.8572,
+      0.8729
+    ],
+    "test_per_source": {
+      "bbc": {
+        "n_test": 1020,
+        "acc": 0.851
+      },
+      "guardian": {
+        "n_test": 3366,
+        "acc": 0.8622
+      },
+      "usa_today": {
+        "n_test": 1634,
+        "acc": 0.8782
+      },
+      "washington_post": {
+        "n_test": 1244,
+        "acc": 0.8682
+      }
+    }
+  },
+  "part5_selection": {
+    "candidate_val_accuracies": {
+      "raw_global": 0.8546,
+      "isotonic@0.5": 0.8546,
+      "platt@0.5": 0.8498,
+      "source_aware_raw": 0.8548
+    },
+    "data_driven_best_on_val": "source_aware_raw",
+    "shipped_operating_point": "isotonic@0.5",
+    "shipping_decision": "Ship recalibrated GLOBAL isotonic @0.5. source_aware_raw is a reported ABLATION that did not beat global calibration (within noise) and is NOT shipped.",
+    "shipped_val_acc": 0.8546,
+    "shipped_test_acc": 0.8647,
+    "shipped_test_95ci": [
+      0.8564,
+      0.8725
+    ],
+    "source_aware_ablation_test_acc": 0.8652,
+    "source_aware_ablation_95ci": [
+      0.8572,
+      0.8729
+    ],
+    "final_table": [
+      {
+        "operating_point": "frozen baseline (0.5523)",
+        "test_acc": 0.8308,
+        "ci95": [
+          0.8221,
+          0.8392
+        ],
+        "auc": 0.9317,
+        "note": "current production"
+      },
+      {
+        "operating_point": "recalibrated global (isotonic@0.5)",
+        "test_acc": 0.8647,
+        "ci95": [
+          0.8564,
+          0.8725
+        ],
+        "auc": 0.9317,
+        "note": "val-fit calibrator, thr=0.5"
+      },
+      {
+        "operating_point": "source-aware (shrunk, val-derived)",
+        "test_acc": 0.8652,
+        "ci95": [
+          0.8572,
+          0.8729
+        ],
+        "auc": 0.9317,
+        "note": "applied blind"
+      },
+      {
+        "operating_point": "SHIPPED: isotonic@0.5 (global isotonic)",
+        "test_acc": 0.8647,
+        "ci95": [
+          0.8564,
+          0.8725
+        ],
+        "auc": 0.9317,
+        "note": "production operating point"
+      },
+      {
+        "operating_point": "DIAGNOSTIC CEILING (uses TEST labels)",
+        "test_acc": 0.8661,
+        "ci95": null,
+        "auc": 0.9317,
+        "note": "CONTEXT ONLY \u2014 not achievable honestly"
+      }
+    ]
+  }
+}

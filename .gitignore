@@ -46,6 +46,12 @@ ai_detector_finetuned/
 *.bin
 *.joblib
 *.pkl
+# Big model checkpoints — explicit (too large for git; fetch separately / via LFS).
+# These stay ignored even though parent models/ dirs are un-ignored for the small artifacts.
+models/clip_finetuned_v2/clip_classifier.pt
+models/clip_finetuned_v2/val_features/
+models/fusion_aitr/aitr_weights.pt
+models/fusion_aitr/aitr_weights_backup.pt
 
 # Feature tensors / large feature files
 *.npy
@@ -69,6 +75,8 @@ scripts/factcheck_llm/cache/
 !models/fusion_aitr/
 !models/fusion_aitr/scalar_scaler.joblib
 !models/fusion_aitr/frozen_threshold.json
+!models/fusion_aitr/calibrators.joblib
+!models/fusion_aitr/source_aware_thresholds.json
 
 # Keep results JSON and docs tracked (small, they are the evidence)
 !results/

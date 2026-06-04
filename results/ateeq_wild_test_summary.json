@@ -1,0 +1,46 @@
+{
+  "verdict": "GENUINE DETECTOR (generalizes to unseen generators) WITH a resolution/processing confound on real images",
+  "one_line": "Wild AUC(external OOD generators)=0.864 vs control AUC=0.869 (control AI recall@0.2=48/50 reproduces the ~94%); per-source recall@0.5 StyleGAN=1.0 Midjourney=0.846 MMFB-Fakeddit=0.667 (OOD generators detected >= in-distribution pool -> NOT a pool shortcut); BUT real-image processing r=0.62 and within-real source-sep AUC max|dev|=0.25 (big high-res reals false-positive) -> [GENUINE DETECTOR (generalizes to unseen generators) WITH a resolution/processing confound on real images].",
+  "auc_wild_all": 0.8406,
+  "auc_wild_external": 0.8643,
+  "auc_control": 0.8688,
+  "per_source_recall": {
+    "StyleGAN2": {
+      "n": 13,
+      "mean": 0.786,
+      "recall@0.5": 1.0,
+      "recall@0.2": 1.0
+    },
+    "Midjourney_v6": {
+      "n": 13,
+      "mean": 0.827,
+      "recall@0.5": 0.846,
+      "recall@0.2": 1.0
+    },
+    "Fakeddit_photo_edit": {
+      "n": 12,
+      "mean": 0.699,
+      "recall@0.5": 0.667,
+      "recall@0.2": 1.0
+    }
+  },
+  "processing_probe": {
+    "ai": {
+      "r_resolution": 0.214,
+      "r_filesize": 0.08,
+      "r_bpp": -0.24
+    },
+    "real": {
+      "r_resolution": 0.604,
+      "r_filesize": 0.621,
+      "r_bpp": 0.607
+    }
+  },
+  "within_real_source_separation_auc": {
+    "Imagenette(ImageNet)": 0.265,
+    "MMFB_original": 0.507,
+    "PascalVOC(Flickr)": 0.568,
+    "WikimediaCommons": 0.75
+  },
+  "n_confident_wrong": 3
+}

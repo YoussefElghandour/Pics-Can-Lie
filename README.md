@@ -10,21 +10,46 @@ misinformation — the image itself is authentic but is being used deceptively.
 
 ---
 
-## Final Results (current best)
+## Results
 
-| System / Configuration | Dataset | Accuracy | F1 | Notes |
-|---|---|---|---|---|
-| BLIP ITM pretrained zero-shot | NewsClipPings | ~62% | ~60% | Baseline |
-| BLIP ITM fine-tuned (epoch 9) | NewsClipPings | **74.9%** | **75.1%** | +13 pp gain |
-| DeBERTa NLI standalone | NewsClipPings | 60.2% | 70.6%* | *inflated by class bias |
-| BLIP only (fusion, n=300) | NewsClipPings | 82.67% | 82.56% | — |
-| BLIP + DeBERTa (fusion) | NewsClipPings | 85.0% | 84.84% | +2.3 pp |
-| BLIP + SightEngine (fusion) | NewsClipPings | 88.0% | 88.09% | +5.4 pp |
-| **BLIP + DeBERTa + SightEngine** | **NewsClipPings** | **89.67%** | **89.58%** | **current best** |
-| Pretrained AI detector standalone | MMFakeBench | 56.5% | 52.7% | ±9.6% (5-fold CV) |
-| **Fine-tuned AI detector standalone** | **MMFakeBench** | **80.0%** | **80.1%** | ±5.0% (5-fold CV) |
-| MMD-Agent (GPT-4V) — published | MMFakeBench | 76.8% | 74.0% | External baseline |
-| MIRAGE (GPT-4o-mini) — published SOTA | MMFakeBench | 75.1% | 81.65% | External SOTA |
+The system detects out-of-context news images using a fine-tuned **CLIP ViT-L/14 → AITR
+transformer fusion**, with an isotonic-calibrated decision. Performance is reported with **AUC
+as the primary metric** (threshold-free) and accuracy at a calibrated operating point.
+
+**NewsCLIPpings test set (7264 samples, balanced real/out-of-context):**
+
+| Metric | Value |
+|---|---|
+| **AUC** | **0.932** [0.926, 0.937] |
+| **Accuracy** | **0.865** [0.856, 0.873] (calibrated decision @0.5) |
+| Per-source accuracy | BBC 0.845 · Guardian 0.863 · USA Today 0.877 · Washington Post 0.870 |
+
+The decision uses a calibrated probability (isotonic), which also serves as a well-calibrated
+confidence score (expected calibration error 0.017). The system uses **no external APIs or
+evidence retrieval at inference** — it is fully self-contained, in contrast to evidence-based
+systems such as SNIFFER (88.4%, external entity/LLM retrieval) or MUSE (90–93%, Google API
+evidence). On the out-of-domain MMFakeBench benchmark, generalization is limited (best
+deployable AUC ≈ 0.79), reflecting that the in-domain consistency signal does not fully transfer
+to other manipulation types.
+
+Full numbers, confidence intervals, and ablations: **`docs/corrected_results.md`** and
+**`docs/comparison_table.md`**.
+
+---
+
+## Live demo (`src/app.py`)
+
+Two stages, three independent signals; the verdict is anchored only to consistency.
+
+| Signal | Model | Role |
+|---|---|---|
+| **Image–caption consistency** | CLIP ViT-L/14 → AITR → isotonic calibration | **primary** — drives REAL/FAKE (out-of-context) |
+| **Image origin** | Ateeq (fine-tuned Siglip) AI-vs-real detector | auxiliary — "is the image AI-generated?" for wild uploads |
+| **Caption factuality** | Claude Sonnet 4.6 + web search (on-demand) | auxiliary — verifies the caption's factual claims |
+
+Ateeq was validated on a wild-image test to genuinely generalize to unseen generators (StyleGAN,
+Midjourney), with a known resolution bias on large real photos. The demo is fully local except the
+optional Claude fact-check. *(SightEngine and DeBERTa/Wikipedia NLI were retired.)*
 
 ---
 

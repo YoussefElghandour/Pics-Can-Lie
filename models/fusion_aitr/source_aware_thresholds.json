@@ -1,0 +1,13 @@
+{
+  "shipped_operating_point": "isotonic_global@0.5",
+  "global_val_threshold": 0.020569409243762493,
+  "frozen_threshold": 0.5522896647453308,
+  "shrink_k": 1000.0,
+  "per_source_thresholds_ABLATION_not_shipped": {
+    "bbc": 0.0148,
+    "guardian": 0.0196,
+    "usa_today": 0.0152,
+    "washington_post": 0.0685
+  },
+  "note": "source-aware thresholds retained as ablation only; production uses global isotonic@0.5"
+}
